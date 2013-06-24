@@ -5,7 +5,7 @@
 name: 叶子
 url: http://blog.yeeh.org
 baseurl:
-permalink: /post/:title.html
+permalink: /post/:year/:month/:day/:title.html
 paginate: 5
 paginate_path: /page/:num
 excerpt_separator: '<!-- more -->'
