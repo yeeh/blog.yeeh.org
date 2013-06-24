@@ -1,12 +1,19 @@
-<!DOCTYPE html>
-　　<html>
-　　<head>
-　　　　<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-　　　　<title>{{ page.title }}</title>
-　　</head>
-　　<body>
+---
+layout: default
+---
 
-　　　　{{ content }}
+<article class="entry">
+  <header>
+    <h1 class="entry-title">{{ page.title }}</h1>
+    <p class="entry-meta">
+      <time>{{ page.date | date: '%Y/%m/%d %A' }}</time>
+    </p>
+  </header>
 
-　　</body>
-　　</html>
+  {{ content }}
+
+  <footer>
+    {% if page.previous %}<p><a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a></p>{% endif %}
+    {% if page.next %}<p><a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a></p>{% endif %}
+  </footer>
+</article>

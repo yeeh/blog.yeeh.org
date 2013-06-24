@@ -1,11 +1,24 @@
 ---
-layout: index
-title: 叶子
+layout: default
+title: 叶子的阳光和天堂
 ---
-<h2>{{ page.title }}</h2>
-<p>最新文章</p>
-<ul>
-　　{% for post in site.posts %}
-		<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-　　{% endfor %}
-</ul>
+
+{% for post in site.posts %}
+<article class="entry">
+  <header>
+    <h1 class="entry-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h1>
+    <p class="entry-meta">
+      <time>{{ post.date | date: '%Y/%m/%d %A' }}</time>
+    </p>
+  </header>
+
+  {% assign fragments = post.content | split: site.excerpt_separator %}
+  {% assign size = fragments | size %}
+
+  {{ fragments | first }}
+
+  {% if size > 1 %}<p><a href="{{ post.url }}">Continue read &rarr;</a></p>{% endif %}
+</article>
+{% endfor %}

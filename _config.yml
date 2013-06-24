@@ -1,1 +1,55 @@
-baseurl: 
+# ---------------------- #
+#      Site Configs      #
+# ---------------------- #
+
+name: 叶子
+url: http://blog.yeeh.org
+baseurl:
+permalink: /post/:title.html
+paginate: 5
+paginate_path: /page/:num
+excerpt_separator: '<!-- more -->'
+
+
+# ---------------------- #
+#         Jekyll         #
+# ---------------------- #
+
+safe: true
+markdown: redcarpet
+exclude: ['Gemfile', 'Gemfile.lock']
+timezone: Asia/Shanghai
+
+
+# ---------------------- #
+#      Compile Sass      #
+# ---------------------- #
+
+# run `compass help compile` in terminal to find more available options
+sass:
+no_line_comments: true
+sass_dir: _sass
+output_style: compressed
+
+
+# ---------------------- #
+#       Deployment       #
+# ---------------------- #
+
+deploy:
+repository:
+branch:
+
+
+# ---------------------- #
+#    Social Networks     #
+# ---------------------- #
+
+# weibo:
+#   username:
+#   uid:
+#   appkey:
+
+# duoshuo:
+
+# google_analytics:
