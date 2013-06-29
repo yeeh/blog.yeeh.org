@@ -1,24 +1,4 @@
 ---
-layout: default
-title: 叶子的阳光和天堂
+layout: index
+title: 首页
 ---
-
-{% for post in site.posts %}
-<article class="entry">
-  <header>
-    <h1 class="entry-title">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h1>
-    <p class="entry-meta">
-      <time>{{ post.date | date: '%Y/%m/%d %A' }}</time>
-    </p>
-  </header>
-
-  {% assign fragments = post.content | split: site.excerpt_separator %}
-  {% assign size = fragments | size %}
-
-  {{ fragments | first }}
-
-  {% if size > 1 %}<p><a href="{{ post.url }}">Continue read &rarr;</a></p>{% endif %}
-</article>
-{% endfor %}

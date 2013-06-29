@@ -1,15 +1,40 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <title>{{ page.title }} - {{ site.name }}</title>
-    <link href="/atom.xml" rel="alternate" type="application/atom+xml" />
-  </head>
-
-  <body>
-    {{ content }}
-  </body>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<title>{{ page.title }} - {{ site.name }}</title>
+<link href="/atom.xml" rel="alternate" type="application/atom+xml" />
+</head>
+<body>
+<!--[if lt IE 9]>
+<div class="no-ie678">You are using an older browser. Please upgrade to <a href="http://www.google.com/chrome" target="_blank">Chrome</a>/<a href="http://www.apple.com/safari/" target="_blank">Safari</a>/<a href="http://www.opera.com/" target="_blank">Opera</a>/<a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a>/<a href="http://windows.microsoft.com/en-us/internet-explorer/products/ie/home" target="_blank">Internet Explorer 9+</a>.</div>
+<![endif]-->
+<header class="header">
+<h1>
+<a class="sitetitle" href="http://blog.yeeh.org/" title="{{ site.name }}" rel="home">{{ site.name }}</a>
+</h1>
+<span class="tagline"> {{ site.tagline }}</span>
+</header>
+<nav class="nav" role="navigation">
+</nav>
+<div class="search" role="search">
+<form method="get" action="/"><label for="s">Search:</label><input name="s" id="s" placeholder="Search" accesskey="s" lang="zh-cn" autocomplete="false" x-webkit-speech webkit-grammar="builtin:translate" /></form>
+</div>
+{{ content }}
+<footer class="footer">
+&copy; <a href="http://blog.yeeh.org/" title=" {{ site.name }}" rel="home"> {{ site.name }}</a>. Designed by <a class="yeeh" href="http://www.yeeh.org/" title="Yeeh" rel="generator">Yeeh</a>.
+</footer>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
 </html>
