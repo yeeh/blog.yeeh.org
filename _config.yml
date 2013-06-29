@@ -4,7 +4,7 @@
 
 name: 叶子
 tagline: 闲言碎语
-url: http://blog.yeeh.org
+url: http://b.yeeh.org
 baseurl:
 permalink: /post/:year/:month/:day/:title.html
 paginate: 5
