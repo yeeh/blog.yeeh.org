@@ -6,40 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <!--[if lt IE 9]>
-<script src="{{ site.url }}/st/html5.js"></script>
+<script src="{{ site.url }}/assets/html5.js"></script>
 <![endif]-->
 <title>{{ page.title }} - {{ site.name }}</title>
-<link rel="stylesheet" type="text/css" href="{{ site.url }}/st/css.css" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css.css" />
 <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico" />
 <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/rss.xml"  />
 </head>
 <body>
-<!--[if lt IE 9]>
-<div class="no-ie678">You are using an older browser. Please upgrade to <a href="http://www.google.com/chrome" target="_blank">Chrome</a>/<a href="http://www.apple.com/safari/" target="_blank">Safari</a>/<a href="http://www.opera.com/" target="_blank">Opera</a>/<a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a>.</div>
-<![endif]-->
-<header class="header">
-<h1>
-<a class="sitetitle" href="{{ site.url }}" title="{{ site.name }}" rel="home">{{ site.name }}</a>
-</h1>
-<span class="tagline">{{ site.tagline }}</span>
-</header>
-<nav class="nav" role="navigation">
-</nav>
-<div class="search" role="search">
-<form method="get" action="/"><label for="s">Search:</label><input name="s" id="s" placeholder="Search" accesskey="s" lang="zh-cn" autocomplete="false" x-webkit-speech webkit-grammar="builtin:translate" /></form>
-</div>
+{% include noie678.html %}
+{% include header.html %}
+{% include nav.html %}
+{% include search.html %}
 {{ content }}
-<footer class="footer">
-&copy; <a href="{{ site.url }}" title="{{ site.name }}" rel="home">{{ site.name }}</a>. Host by <a href="https://github.com" title="github">Github</a>. Design by <a class="yeeh" href="http://www.yeeh.org/" title="Yeeh" rel="generator">Yeeh</a>.
-</footer>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
+{% include footer.html %}
+{% include analytics.html %}
 </body>
 </html>
