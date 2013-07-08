@@ -10,6 +10,7 @@ permalink: /post/:year/:month/:day/:title.html
 paginate: 5
 paginate_path: /post/page/:num
 excerpt_separator: '<!-- more -->'
+google_analytics: UA-11027907-1
 
 # ---------------------- #
 #         Jekyll         #
@@ -17,6 +18,7 @@ excerpt_separator: '<!-- more -->'
 
 safe: true
 markdown: redcarpet
+exclude: ['Gemfile', 'Gemfile.lock']
 timezone: Asia/Shanghai
 
 
@@ -49,8 +51,6 @@ branch:
 #   uid:
 #   appkey:
 
-# disqus:
-disqus: yeh
+# duoshuo:
 
 # google_analytics:
-google_analytics: UA-11027907-1
