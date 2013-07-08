@@ -8,7 +8,7 @@ url: http://b.yeeh.org
 baseurl:
 permalink: /post/:year/:month/:day/:title.html
 paginate: 5
-paginate_path: /page:num
+paginate_path: page-:num
 excerpt_separator: '<!-- more -->'
 
 # ---------------------- #
