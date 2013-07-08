@@ -16,6 +16,8 @@ excerpt_separator: '<!-- more -->'
 # ---------------------- #
 
 safe: true
+auto: true
+pygments: true
 markdown: redcarpet
 timezone: Asia/Shanghai
 
