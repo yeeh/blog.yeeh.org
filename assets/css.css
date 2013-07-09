@@ -107,9 +107,12 @@ h6 { font-size:14px;}
 /*entry content*/
 .entry-content blockquote, .entry-content code{ margin-top:10px; border:solid 1px #ccc; background-color:#fefefe; margin:10px; padding:10px;}
 /*pager*/
-.pagination{ margin-top:40px; font-size:16px; text-align:right; }
+.pagination{ margin-top:40px; line-height:40px; font-size:16px; text-align:right; min-height:30px; *height:30px; *overflow:auto;}
 .pagination a, .pagination span{margin:0 10px; }
 .pagination span{ color: #666;}
+.pagination-prev, .pagination-next{background-color:#e2e2e2; padding:0 20px; display:inline-block; height:40px; font-weight:700;}
+.pagination-prev{ float:left; margin-left:0;}
+.pagination-next{ margin-right:0;}
 /*disque*/
 #disqus_thread{ margin-top:30px; border-top:dashed 1px #e2e2e2;}
 /*sub*/
