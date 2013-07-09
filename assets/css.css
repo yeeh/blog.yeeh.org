@@ -89,11 +89,8 @@ h6 { font-size:14px;}
 
 .entry, .pagination{margin-top:30px;}
 .entry-header{ padding-left:66px;}
-.entry .entry-header{ padding-left:0;}
-.entry-title{ line-height:32px; padding-left:10px;}
-h1.entry-title{ padding-bottom:8px;}
-.entry-meta, .entry-utility{border-top:solid 1px #e2e2e2; position:relative; _zoom:1;}
-.entry-meta{ min-height:36px; padding-top:4px;}
+.entry-title{ line-height:40px; padding-left:10px; font-size: 30px;}
+.entry-meta{border-top:solid 1px #e2e2e2; position:relative; height:30px; }
 .entry-time{ position:absolute; display:block; width:60px; height:64px; text-align:center; left:-66px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
 .entry-month, .entry-day{ line-height:32px;}
 .entry-month{ margin-right:4px; font-size:14px;}
@@ -110,7 +107,7 @@ h1.entry-title{ padding-bottom:8px;}
 /*entry content*/
 .entry-content blockquote, .entry-content code{ margin-top:10px; border:solid 1px #ccc; background-color:#fefefe; margin:10px; padding:10px;}
 /*pager*/
-.pagination{ margin-top:40px; font-size:14px; line-height:30px; text-align:right; }
+.pagination{ margin-top:40px; font-size:16px; text-align:right; }
 .pagination a, .pagination span{margin:0 10px; }
 .pagination span{ color: #666;}
 /*disque*/

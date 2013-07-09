@@ -3,7 +3,7 @@
 <a href="/">Frist</a>
 {% if paginator.previous_page %}
 {% if paginator.previous_page == 1 %}
-<a href="/">Previous</a>
+<span>Previous</span>
 {% else %}
 <a href="/page-{{paginator.previous_page}}">Previous</a>
 {% endif %}
@@ -18,7 +18,11 @@
 {% endif %}
 {% endfor %}
 {% if paginator.next_page %}
+{% if paginator.next_page == paginator.total_pages %}
+<span>Next</span>
+{% else %}
 <a href="/page-{{paginator.next_page}}">Next</a>
+{% endif %}
 {% else %}
 <span>Next<span>
 {% endif %}
