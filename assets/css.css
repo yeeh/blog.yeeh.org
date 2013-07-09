@@ -91,10 +91,10 @@ h6 { font-size:14px;}
 .entry-header{ padding-left:66px;}
 .entry-title{ line-height:40px; padding-left:10px; font-size: 30px;}
 .entry-meta{border-top:solid 1px #e2e2e2; position:relative; height:30px; }
-.entry-time{ position:absolute; display:block; width:60px; height:64px; text-align:center; left:-66px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
+.entry-time{ position:absolute; display:block; width:64px; height:64px; text-align:center; left:-66px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
 .entry-month, .entry-day{ line-height:32px;}
-.entry-month{ margin-right:4px; font-size:14px;}
-.entry-day{ display:block; background-color:#fff; font-size:24px; }
+.entry-month{ margin-right:4px; font-size:16px;}
+.entry-day{ display:block; background-color:#fff; font-size:28px; }
 .entry-author, .entry-cate, .entry-comment, .entry-edit, .entry-tag{ margin-left:10px; color:#999; font-style:italic;}
 .entry-tag{ display:block; margin-left:8px;}
 .entry-comment{ float:right; _margin-top:-18px;}
