@@ -10,7 +10,7 @@
 {% else %}
 <span>Previous</span>
 {% endif %}
-{% for count in (2..paginator.total_pages) limit:8 %}
+{% for count in (paginator.page..paginator.total_pages) limit:8 %}
 {% if count == paginator.page %}
 <span>{{count}}</span>
 {% else %}
