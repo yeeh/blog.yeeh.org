@@ -1,26 +1,26 @@
-<div class="pagination">
-<span class="page_number">第{{paginator.page}}页/共{{paginator.total_pages}}页</span>
-<a href="/">第一页</a>
+<div class="pagination" role="navigation">
+<span>第{{paginator.page}}页/共{{paginator.total_pages}}页</span>
+<a href="/">Frist</a>
 {% if paginator.previous_page %}
 {% if paginator.previous_page == 1 %}
-<a href="/" class="current">&lt;前一页</a>
+<a href="/">Previous</a>
 {% else %}
-<a href="/page-{{paginator.previous_page}}">&lt;前一页</a>
+<a href="/page-{{paginator.previous_page}}">Previous</a>
 {% endif %}
 {% else %}
-<span>&lt;前一页</span>
+<span>Previous</span>
 {% endif %}
 {% for count in (2..paginator.total_pages) limit:8 %}
 {% if count == paginator.page %}
-<span class="current-page">{{count}}</span>
+<span>{{count}}</span>
 {% else %}
 <a href="/page-{{count}}">{{count}}</a>
 {% endif %}
 {% endfor %}
 {% if paginator.next_page %}
-<a href="/page-{{paginator.next_page}}">后一页&gt;</a>
+<a href="/page-{{paginator.next_page}}">Next</a>
 {% else %}
-<span>后一页&gt;</span>
+<span>Next<span>
 {% endif %}
-<a href="/page-{{paginator.total_pages}}">最后一页</a>
+<a href="/page-{{paginator.total_pages}}">Last</a>
 </div>

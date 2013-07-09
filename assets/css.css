@@ -87,9 +87,9 @@ h6 { font-size:14px;}
 .title span{ color:#000;}
 .crumb a, .crumb span, .title span{ margin:0 10px;}
 
-.post, .page{margin-top:30px;}
+.entry, .pagination{margin-top:30px;}
 .entry-header{ padding-left:66px;}
-.page .entry-header{ padding-left:0;}
+.entry .entry-header{ padding-left:0;}
 .entry-title{ line-height:32px; padding-left:10px;}
 h1.entry-title{ padding-bottom:8px;}
 .entry-meta, .entry-utility{border-top:solid 1px #e2e2e2; position:relative; _zoom:1;}
@@ -100,8 +100,7 @@ h1.entry-title{ padding-bottom:8px;}
 .entry-day{ display:block; background-color:#fff; font-size:24px; }
 .entry-author, .entry-cate, .entry-comment, .entry-edit, .entry-tag{ margin-left:10px; color:#999; font-style:italic;}
 .entry-tag{ display:block; margin-left:8px;}
-.entry-comment, .entry-edit{ float:right; _margin-top:-18px;}
-.entry-edit{ background-color:#e2e2e2; padding:4px 10px 2px 10px; margin-top:-4px;}
+.entry-comment{ float:right; _margin-top:-18px;}
 .entry-author a, .entry-cate a, .entry-comment a, .entry-edit a, .entry-tag a{ margin:0 4px; font-style:normal;}
 .entry-tag a{ margin:0 8px;}
 .entry-summary, .entry-content{ margin-top:20px; }
@@ -111,10 +110,9 @@ h1.entry-title{ padding-bottom:8px;}
 /*entry content*/
 .entry-content blockquote, .entry-content code{ margin-top:10px; border:solid 1px #ccc; background-color:#fefefe; margin:10px; padding:10px;}
 /*pager*/
-.pager{ margin-top:40px; text-align:right; min-height:30px; *height:30px; *overflow:auto;}
-.pager a{ background-color:#e2e2e2; padding:0 20px; margin:0 10px; display:inline-block; font-size:14px; line-height:30px; height:30px; font-weight:700;}
-.pager .pager-prev{ float:left; margin-left:0;}
-.pager .pager-next{ margin-right:0;}
+.pagination{ margin-top:40px; font-size:14px; line-height:30px; text-align:right; }
+.pagination a, .pagination span{margin:0 10px; }
+.pagination span{ color: #666;}
 /*disque*/
 #disqus_thread{ margin-top:30px; border-top:dashed 1px #e2e2e2;}
 /*sub*/
