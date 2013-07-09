@@ -90,7 +90,7 @@ h6 { font-size:14px;}
 .entry, .pagination{margin-top:30px;}
 .entry-header{ padding-left:66px;}
 .entry-title{ line-height:40px; padding-left:10px; font-size: 30px;}
-.entry-meta{border-top:solid 1px #e2e2e2; position:relative; height:30px; }
+.entry-meta{border-top:solid 1px #e2e2e2; position:relative; height:33px; }
 .entry-time{ position:absolute; display:block; width:64px; height:64px; text-align:center; left:-66px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
 .entry-month, .entry-day{ line-height:32px;}
 .entry-month{ margin-right:4px; font-size:16px;}
@@ -111,8 +111,8 @@ h6 { font-size:14px;}
 .pagination a, .pagination span{margin:0 10px; }
 .pagination span{ color: #666;}
 .pagination-prev, .pagination-next{background-color:#e2e2e2; padding:0 20px; display:inline-block; height:40px; font-weight:700;}
-.pagination-prev{ float:left; margin-left:0;}
-.pagination-next{ margin-right:0;}
+.pagination a.pagination-prev{ float:left; margin-left:0;}
+.pagination a.pagination-next{ margin-right:0;}
 /*disque*/
 #disqus_thread{ margin-top:30px; border-top:dashed 1px #e2e2e2;}
 /*sub*/
