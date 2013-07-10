@@ -7,7 +7,7 @@ tagline: 闲言碎语
 url: http://b.yeeh.org
 baseurl:
 permalink: /post/:year/:month/:day/:title.html
-paginate: 5
+paginate: 6
 paginate_path: page-:num
 excerpt_separator: '<!-- more -->'
 
