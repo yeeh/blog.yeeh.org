@@ -1,7 +1,6 @@
 ---
 layout: nil
 ---
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>{{ site.url }}</id>
@@ -13,8 +12,7 @@ layout: nil
     {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
   </author>
   {% endif %}
-  <link href="{{ site.url }}/atom.xml" rel="self" />
-
+  <link href="{{ site.url }}/rss.xml" rel="self" />
   {% for post in site.posts %}
   <entry>
     <id>{{ site.url }}{{ post.id }}</id>
