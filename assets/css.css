@@ -80,13 +80,7 @@ h6 { font-size:14px;}
 .col-sub{ width:310px; overflow:hidden; zoom:1;}
 
 /*main*/
-.crumb, .title, .post, .comment{ margin-right:10px;}
-.crumb, .title{ margin-top:20px;}
-.crumb{margin-left:-10px; }
-.title, .title-meta{ color:#666;}
-.title span{ color:#000;}
-.crumb a, .crumb span, .title span{ margin:0 10px;}
-
+/*entry*/
 .entry, .pagination{margin-top:30px;}
 .entry-header{ padding-left:70px;}
 .entry-title{ line-height:40px; padding-left:10px; font-size: 30px;}
@@ -104,10 +98,9 @@ h6 { font-size:14px;}
 .entry-content p{ margin-top:20px;font-size:14px;}
 .entry-readmore{ padding:20px 0;}
 .entry-readmore a{ font-size:14px; font-weight:700;}
-/*entry content*/
 .entry-content blockquote, .entry-content code{ margin-top:10px; border:solid 1px #ccc; background-color:#fefefe; margin:10px; padding:10px;}
 /*pager*/
-.pagination{ margin-top:40px; line-height:40px; font-size:16px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
+.pagination{ line-height:40px; font-size:16px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
 .pagination a, .pagination span{margin:0 10px; }
 .pagination span{ color: #666;}
 .pagination-prev, .pagination-next{background-color:#e2e2e2; padding:0 20px; display:inline-block; height:40px; font-weight:700;}
