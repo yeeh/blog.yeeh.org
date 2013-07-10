@@ -1,6 +1,7 @@
 ---
 layout: post
 title: blog转换完成
+date: 2013-7-10 7:12:15
 category: 闲
 tags: theme jekyll github
 ---

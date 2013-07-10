@@ -95,13 +95,13 @@ h6 { font-size:14px;}
 .entry-month, .entry-day{ line-height:32px;}
 .entry-month{ margin-right:4px; font-size:16px;}
 .entry-day{ display:block; background-color:#fff; font-size:28px; }
-.entry-author, .entry-cate, .entry-comment, .entry-edit, .entry-tag{ margin-left:10px; color:#999; font-style:italic;}
-.entry-tag{ display:block; margin-left:8px;}
-.entry-comment{ float:right; _margin-top:-18px;}
-.entry-author a, .entry-cate a, .entry-comment a, .entry-edit a, .entry-tag a{ margin:0 4px; font-style:normal;}
-.entry-tag a{ margin:0 8px;}
-.entry-summary, .entry-content{ margin-top:20px; }
-.entry-summary p, .entry-content p{ margin-top:20px;font-size:14px;}
+.entry-categories, .entry-comments, .entry-tags{ margin-left:10px; color:#999; font-style:italic;}
+.entry-tags{ display:block; margin-left:8px;}
+.entry-comments{ float:right; _margin-top:-18px;}
+.entry-categories a, .entry-comments a, .entry-tags a{ margin:0 4px; font-style:normal;}
+.entry-tags a{ margin:0 8px;}
+.entry-content{ margin-top:20px; }
+.entry-content p{ margin-top:20px;font-size:14px;}
 .entry-readmore{ padding:20px 0;}
 .entry-readmore a{ font-size:14px; font-weight:700;}
 /*entry content*/
