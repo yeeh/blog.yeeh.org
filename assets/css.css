@@ -180,9 +180,10 @@ h6 { font-size:14px;}
 	.entry-time, .entry-day, .entry-month{ width:auto; height:auto; line-height:20px; }
 	.entry-time{ left:0; top:0; height:20px; display:inline-block; border-width:0; margin-left:10px; position:relative; background-color:#fff;}
 	.entry-day, .entry-month{ font-size:12px; display:inline;}
-	.entry-year{ float:right; }
-	.entry-year:before{ content:","; margin:0 4px;}
 	.entry-day:before{ content:"/";}
+	.entry-month{ margin-right: 0;}
+	.entry-year{ float:right; }
+	.entry-year:before{ content:","; margin:0 4px;}	
 	.entry-author, .entry-cate{display:inline-block;}
 	.entry-author{ margin-left:12px; }
 }
