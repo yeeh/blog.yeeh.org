@@ -5,10 +5,10 @@
 name: 叶子
 tagline: 闲言碎语
 author: Perry Yeh
-url: http://b.yeeh.org
+url: http://blog.yeeh.org
 baseurl:
 permalink: /post/:year/:month/:day/:title.html
-paginate: 6
+paginate: 5
 paginate_path: page-:num
 excerpt_separator: '<!-- more -->'
 
