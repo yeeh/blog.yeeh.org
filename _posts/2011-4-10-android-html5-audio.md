@@ -21,6 +21,6 @@ safari3.1：mp3
 测试地址：http://www.inyue.com/（有大mp3和ogg，手机请用wifi访问以免产生流量）
 
 预览图
-<a href="http://blog.yeeh.org/wp-content/uploads/2011/04/html5.png"><img src="http://blog.yeeh.org/wp-content/uploads/2011/04/html5.png" alt="" title="html5" width="480" height="854" class="alignleft size-full wp-image-1325" /></a>
+<img src="/uploads/2011-04-10-html5.png"  />
 
 参考文献：http://www.w3.org/TR/html5/video.html#audio

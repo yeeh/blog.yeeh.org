@@ -2,13 +2,12 @@
 layout: post
 title: sony-ericsson x10i
 date: 2010-07-07 12:51:05
-tags: sony ericsson
-tags: x10i
+tags: sony-ericsson x10i 索尼爱立信
 categories: 好
-tags: 索尼爱立信
 ---
 端午节买的，快一个月了，终于能给个比较综合的用后感。上图一枚：
-<a href="http://blog.yeeh.org/wp-content/uploads/2010/07/x10i.jpg"><img src="http://blog.yeeh.org/wp-content/uploads/2010/07/x10i-225x300.jpg" alt="" title="x10i" width="225" height="300" class="alignnone size-medium wp-image-329" /></a>
+
+<img src="/uploads/2010-07-07-x10i.jpg"  />
 
 不满意：
 1.目前为止用过的手机里面屏幕尺寸最大的一个，开始觉得大，结果就和家里那台28'的显示器一样，用了几天就觉得小了，主要是分辨率只有854*480，看web还有左右滚动条（现在一般的网页都950-960px）
