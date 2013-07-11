@@ -15,7 +15,7 @@ layout: nil
   <link href="{{ site.url }}/rss.xml" rel="self" />
   {% for post in site.posts %}
   <entry>
-    <id>{{ site.url }}{{ post.id }}</id>
+    <id>{{ site.url }}{{ post.url }}</id>
     <title><![CDATA[{{ post.title }}]]></title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <link href="{{ site.url }}{{ post.url }}" />
