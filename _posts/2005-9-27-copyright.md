@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 莫名其妙的人
-category: 闲
+date: 2005-09-27 20:49:40
+categories: 闲
 ---
 1.某某程序出问题了,你能不能看看?
 A:还好我不是作者.

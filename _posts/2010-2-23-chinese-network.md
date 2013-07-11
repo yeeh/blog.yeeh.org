@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 中国网络已死，有事烧纸。
-tag: 网络
-category: 闲
+date: 2010-02-23 08:37:28
+tags: 网络
+categories: 闲
 ---
 昨天把一个.net续费了下，支付宝付款53￥。godaddy做的真是越来越出色了，美元自动结算￥，汇率为6.83*，挺厚道。
 

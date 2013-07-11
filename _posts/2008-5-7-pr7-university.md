@@ -1,8 +1,9 @@
 ---
 layout: post
 title: pr7站点最新收录（08.4.30）之高校站
-tag: pagerank
-category: 闲
+date: 2008-05-07 08:49:39
+tags: pagerank
+categories: 闲
 ---
 这期是补记...
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 银联通知
-category: 闲
+date: 2006-02-19 13:38:35
+categories: 闲
 ---
 早上和朋友发着短信呢.
 

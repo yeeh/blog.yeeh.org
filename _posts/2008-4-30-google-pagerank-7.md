@@ -1,8 +1,9 @@
 ---
 layout: post
 title: google pagerank开始更新了
-tag: pagerank
-category: 闲
+date: 2008-04-30 09:36:10
+tags: pagerank
+categories: 闲
 ---
 早上一上线，朋友就和我说，这个站的pr到7了 赶紧看了下，果然。新一轮的pr更新开始了。朋友说，他早上查还是5，也是别人和他说，这个站到7，他赶紧查了下果然是。他自己的也到7了。自此，外链中，有3个到了7，太暴力了
 

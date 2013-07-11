@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Transformers之bumblebee
-tag: bumblebee
-tag: 大黄蜂
-category: 好
+date: 2009-09-01 17:21:53
+tags: bumblebee
+tags: 大黄蜂
+categories: 好
 ---
 Michael Bay07年和今年暑期的2部Transformers，不能算多好看，但是勾起了很多人小时候的怀念。我下的第一部1080P高清电影，就是07年的第一部Transformers。 今天在newegg买硅脂，看见bumblebee特价，算是弥补下小时候的遗憾，抢了一个回来。先上图：
 

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: firefox 3.0.1的event实现bug
-tag: event
-tag: firefox
-category: 手
+date: 2008-09-23 20:41:54
+tags: event
+tags: firefox
+categories: 手
 ---
 朋友说，给前几日的那个联动下拉做个灰色不可选，没想到实现的时候发现了firefox3的event实现bug。代码如下：
 <p id="">&lt;select name="test1" id="test1" disabled onchange="alert(this.name);"&gt;

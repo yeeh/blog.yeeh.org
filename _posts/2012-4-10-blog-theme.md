@@ -1,11 +1,12 @@
 ---
 layout: post
 title: blog模板
-tag: theme
-category: Themes
-tag: wordpress
-category: 好
-tag: 模板
+date: 2012-04-10 10:28:12
+tags: theme
+categories: Themes
+tags: wordpress
+categories: 好
+tags: 模板
 ---
 好吧，我是php不会，不会设计，wordpress菜鸟，这是赶鸭子上架‘设计’了个blog模板，地址<a href="http://perryyeh.sinaapp.com/theme/yeeh/index.htm" title="theme" target="_blank">http://perryyeh.sinaapp.com/theme/yeeh/index.htm</a>
 

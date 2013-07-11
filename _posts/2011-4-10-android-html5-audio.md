@@ -1,10 +1,11 @@
 ---
 layout: post
 title: android的html5之audio
-tag: android
-tag: audio
-tag: html5
-category: 手
+date: 2011-04-10 00:47:42
+tags: android
+tags: audio
+tags: html5
+categories: 手
 ---
 最近手闲，打算借一网站的公用接口做一个手机上听歌的html5版本。眼看着html5宣传了这么久，距离第一份中文翻译过来的audio文档也有一年，但是做下来却失望的很。
 

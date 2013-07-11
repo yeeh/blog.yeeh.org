@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 怀念黄家驹,怀念beyond----写在13周年祭
-tag: beyond
-category: 好
+date: 2006-06-30 08:27:16
+tags: beyond
+categories: 好
 ---
 前些日子翻到他们的电影<莫欺少年穷>时候,还想着等着6月30了码文怀念下.不想今天一天都没想起来,刚才无聊的去看sina,发现了纪念专题,熟悉的感觉一下子涌来...
 

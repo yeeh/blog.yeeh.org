@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 抢得inyue.com
-tag: 域名
-category: 好
+date: 2008-05-16 12:39:47
+tags: 域名
+categories: 好
 ---
 关注这个好久了，不过没抱太多希望，就只在pool下单，sn和nj都没去看。没想好早上一看， 还没人和我抢，省掉竞价了：）
 

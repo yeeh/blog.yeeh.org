@@ -1,7 +1,8 @@
 ---
 layout: post
 title: thinkpad x300 vs macbook air
-category: 闲
+date: 2008-03-22 21:02:34
+categories: 闲
 ---
 本来今天去拿周一竞拍到的笔记本包，么想到地铁口有散发bestbuy传单的，一眼瞧见了广告上有x300，那就顺道去看看咯。之前很多it网站评测，这2个确实都是一起出现拿来对比的，不过毕竟图不如实物嘛（抱歉没图，百思买内是不能拍照的）
 

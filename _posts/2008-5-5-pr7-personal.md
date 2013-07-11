@@ -1,8 +1,9 @@
 ---
 layout: post
 title: PR7站点最新收录（08.4.30）之个人站
-tag: pagerank
-category: 闲
+date: 2008-05-05 10:16:20
+tags: pagerank
+categories: 闲
 ---
 164 http://www.164.cc/
 关注过有段时间了，之前是一个收集音乐的blog，后来就...换的有点不伦不类了。不过好像访问量还是可观的，现在的页面是...自己去看吧，我不说什么了。

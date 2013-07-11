@@ -1,7 +1,8 @@
 ---
 layout: post
 title: egg evening
-category: 闲
+date: 2005-12-20 07:57:06
+categories: 闲
 ---
 其实半月前在家乐福就看到海报了.
 当时还颇感慨了下:还记得去年圣诞我和同事来逛呢,这一转眼一年了.

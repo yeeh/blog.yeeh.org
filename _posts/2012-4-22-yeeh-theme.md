@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 模板初步完成
-tag: theme
-category: Themes
-tag: wordpress
-tag: yeeh
-category: 好
+date: 2012-04-22 16:26:56
+tags: theme
+categories: Themes
+tags: wordpress
+tags: yeeh
+categories: 好
 ---
 theme名字就叫yeeh，版本1.0.1，
 

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 抢到了soochow.com
-tag: 域名
-category: 好
+date: 2007-09-07 01:05:58
+tags: 域名
+categories: 好
 ---
 8月2日在pool enom snapnames预定，么想到bizcn死活不放，6.18就过期，正常65天就该删除的拖到9月3日才删 pool成功抢下，之后开始3天的竞价。我沉默了2天23小时54分56秒开始出价。看出价记录吧，嘿嘿。
 

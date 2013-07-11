@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 多级联动下拉菜单
-tag: javascript
-category: 手
-tag: 联动下拉
+date: 2008-09-04 12:11:28
+tags: javascript
+categories: 手
+tags: 联动下拉
 ---
 功能：
 1.支持多级别

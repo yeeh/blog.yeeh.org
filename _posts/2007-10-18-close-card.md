@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 销卡
-category: 闲
+date: 2007-10-18 17:03:10
+categories: 闲
 ---
 建设银行（支付宝龙卡）：
 

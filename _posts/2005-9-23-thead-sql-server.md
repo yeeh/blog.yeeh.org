@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 线程问题(MSSQL2K)
-tag: sqlserver
-category: 手
+date: 2005-09-23 19:16:28
+tags: sqlserver
+categories: 手
 ---
 create PROCEDURE sp_Sort_insert
 (

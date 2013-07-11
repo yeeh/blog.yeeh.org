@@ -1,8 +1,9 @@
 ---
 layout: post
 title: thinkpad t61 au9
-tag: thinkpad
-category: 好
+date: 2008-01-18 22:25:52
+tags: thinkpad
+categories: 好
 ---
 配置：
 T7100

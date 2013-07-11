@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 1.19至今的日子...
-tag: 新年
-category: 闲
+date: 2004-02-03 22:31:51
+tags: 新年
+categories: 闲
 ---
 实在想不到话题,就算是为和人来人往老兄竞争罢...
 

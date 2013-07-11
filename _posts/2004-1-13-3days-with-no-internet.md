@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 3天没网上的日子...
-category: 闲
+date: 2004-01-13 23:53:56
+categories: 闲
 ---
 光缆割接，3天adsl没能上网，回来补感受...
 

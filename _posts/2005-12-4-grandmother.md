@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  外婆
-category: 闲
+date: 2005-12-04 10:08:36
+categories: 闲
 ---
 外面太阳很好.
 太阳照在枕头上.

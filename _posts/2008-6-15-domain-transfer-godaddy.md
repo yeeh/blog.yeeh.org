@@ -1,10 +1,11 @@
 ---
 layout: post
 title: domain transfer @ godaddy
-tag: domain
-tag: godaddy
-tag: 域名
-category: 好
+date: 2008-06-15 23:32:53
+tags: domain
+tags: godaddy
+tags: 域名
+categories: 好
 ---
 5.15抢到inyue.com，pool给我弄到了namescout，好像是个加拿大的注册商。当然咯，不转回godaddy不算事。不过有iana规则称，新注册域名需满2个月才能转移注册商，还要等... 昨天在namescout改管理email，顺手点了下authcode，不想几分钟后邮箱收到了一串转移码。呃，难道这个规则无效？ 去年抢soochow.com也是后来转godaddy的，不过不记得是不是等了2个月了。不管，既然拿到了就转看看。先给域名解锁，取消CLIENTTRANSFERPROHIBITED变成ok，再godaddy下单，付款。一切很顺利，恩，我等着开始转了。。。
 

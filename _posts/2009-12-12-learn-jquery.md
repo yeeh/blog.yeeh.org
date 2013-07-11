@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 学学jquery源码
-tag: jquery
-category: 手
+date: 2009-12-12 11:07:14
+tags: jquery
+categories: 手
 ---
 那天面试还有一题，同样没实现出来。大概如下：
 var Do;

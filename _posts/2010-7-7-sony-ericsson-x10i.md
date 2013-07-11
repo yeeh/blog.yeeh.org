@@ -1,10 +1,11 @@
 ---
 layout: post
 title: sony-ericsson x10i
-tag: sony ericsson
-tag: x10i
-category: 好
-tag: 索尼爱立信
+date: 2010-07-07 12:51:05
+tags: sony ericsson
+tags: x10i
+categories: 好
+tags: 索尼爱立信
 ---
 端午节买的，快一个月了，终于能给个比较综合的用后感。上图一枚：
 <a href="http://blog.yeeh.org/wp-content/uploads/2010/07/x10i.jpg"><img src="http://blog.yeeh.org/wp-content/uploads/2010/07/x10i-225x300.jpg" alt="" title="x10i" width="225" height="300" class="alignnone size-medium wp-image-329" /></a>

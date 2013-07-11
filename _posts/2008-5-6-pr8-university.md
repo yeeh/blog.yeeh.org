@@ -1,8 +1,9 @@
 ---
 layout: post
 title: PR8站点最新收录（08.4.30）之其他站
-tag: pagerank
-category: 闲
+date: 2008-05-06 12:12:19
+tags: pagerank
+categories: 闲
 ---
 中文站的pr一向不高，各大门户网站也就7到顶了，叱诧国内风云的站但是pr只有6的更是一把，虽然GG有自己的解释，不过...这次算补偿么，终于有上来的了。这几个站就无需我评价了吧^_^
 

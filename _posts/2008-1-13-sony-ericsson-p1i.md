@@ -1,8 +1,9 @@
 ---
 layout: post
 title: sony-ericsson p1i众生相
-tag: sony ericsson
-category: 好
+date: 2008-01-13 08:48:19
+tags: sony ericsson
+categories: 好
 ---
 之前之用过sony的2个东西，一是高中的walkman，二是大学买电脑配的sony软驱。呃，我知sony!=sony ericsson，虽然很多站把SE归为欧美品牌，不过我一直只看见了sony，无视了后面的ericsson，自然觉得这是日系品牌。我对日货么意见（当然对人还是有的），第一台手机是04年初入手的950￥的nokia 3530，稳稳当当用了4年（差2个月），一直是一块电池还能坚持3天半，当然这个中间摔啊跌啊NN次，掉水里也几次。nokia3530，记得当时大伙是称之为小三。
 

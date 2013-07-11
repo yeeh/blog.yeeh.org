@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 乐与痛 
-category: 闲
+date: 2005-10-26 10:51:19
+categories: 闲
 ---
 乐:
 

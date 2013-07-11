@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 元宵节 
-category: 闲
+date: 2006-02-15 17:52:54
+categories: 闲
 ---
 突然的发现，老家的元宵节有点不一样。
 

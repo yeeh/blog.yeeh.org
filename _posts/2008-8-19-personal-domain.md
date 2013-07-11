@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 个人域名
-tag: domain
-category: 好
+date: 2008-08-19 09:16:14
+tags: domain
+categories: 好
 ---
 纯记录，开通了个人域名的地区以及后缀：
 
