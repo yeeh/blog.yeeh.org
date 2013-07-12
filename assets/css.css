@@ -22,7 +22,7 @@ table{border-collapse:collapse;border-spacing:0;}
 .no-ie678 a{ margin:0 8px; font-weight:700;}
 
 /* font */
-body,button,input,select,textarea{font:12px/1.5 tahoma,arial,\5b8b\4f53;}
+body,button,input,select,textarea{font:14px/1.5 tahoma,arial,\5b8b\4f53;}
 code,kbd,pre,samp{font-family:courier new,courier,monospace;}
 
 /* generic */
@@ -49,7 +49,7 @@ h6 { font-size:14px;}
 .rss:hover, .nav a, .search input{ -moz-transition:all 0.4s ease-out; -webkit-transition:all 0.4s ease-out; -o-transition:all 0.4s ease-out; transition: all 0.4s ease-out;}
 
 /*img*/
-.search input, .widget_search input[type='text'], .yeeh{ background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAyCAMAAABiSatuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAWJQTFRFpqami8Ih7u7uq6ursbGxmso/0eem9PT0tra26enpvLy8yeOXk8Ywzc3N4+PjqtJc+fn50tLS3d3dstAA+/35pswK+/34oskBr84A6PPTudp68Pfho8sOlMUc2NjYk8QRlMUd+fzx+fzyk8lOi8VB5e+nockJudQXvt2H1OJJfr4n5/TZh8AdzOSVwsLCkMMR9/vwlcUS2uuswtYAl8g7stZrr9Ivvd+Z+Pvth8Iug8Alq88jk8QZw9cA+/31r9VmlcYY/f77xNcA3u/L4e/G9fnowt551eeXosw5f74c+/305vLM8vjlgb0Tn8kGisQ14O6w/P34zueyhb8ZmcgcmsgSmMgo+fvo/f79mMYZlsg3w9+DyuWuf74ntdQ1udY8os5Nud2Q3+/E9vrskMc37/fb+vzr///+er0nmMcZrdRjgb8pfr4mo8sNxuOf9/rp7/fgjcIP/f780uFHtdZD////D2etbQAAAHZ0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAFiqUcAAAExSURBVHja7M5lc8MwDAZg2Q012KbcrmNm5q1jZmZmJv3/JbGztvu279NdzvITnfUCIsqGqhoysgJEG0AQAGwfTFAoIlXA5CAIIbcJBQQGFErZbBioB0EIMuBN4cSvNwQ1v8XJICsQoDxHGEBRwClPgCVttc0AE0C/KJM8eKIWgitGEaAcxGLga//hb9DPm4/4HoPeafcY7XyoOmKwMleJuHvasXnXx6DkvR5v6hL7zdWTHIYHlj6TsfvllyiD5+zx10gkVtYd51tqs43bE5HE1pu/dqjtaawreXL9k+O15XGnoWahIOn66nlx9MvBDf8iiS4szjdJhGgpnVjOSQAPr6K6lCK5dLuokYwIFeUXGecHOXA+TUQLZmduUZcQe9LeGxasjTsNIWdTOhHdiW8BBgDR8hmDsaTFzgAAAABJRU5ErkJggg==); background-repeat:no-repeat;}
+.search input, .yeeh{ background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAyCAMAAABiSatuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAWJQTFRFpqami8Ih7u7uq6ursbGxmso/0eem9PT0tra26enpvLy8yeOXk8Ywzc3N4+PjqtJc+fn50tLS3d3dstAA+/35pswK+/34oskBr84A6PPTudp68Pfho8sOlMUc2NjYk8QRlMUd+fzx+fzyk8lOi8VB5e+nockJudQXvt2H1OJJfr4n5/TZh8AdzOSVwsLCkMMR9/vwlcUS2uuswtYAl8g7stZrr9Ivvd+Z+Pvth8Iug8Alq88jk8QZw9cA+/31r9VmlcYY/f77xNcA3u/L4e/G9fnowt551eeXosw5f74c+/305vLM8vjlgb0Tn8kGisQ14O6w/P34zueyhb8ZmcgcmsgSmMgo+fvo/f79mMYZlsg3w9+DyuWuf74ntdQ1udY8os5Nud2Q3+/E9vrskMc37/fb+vzr///+er0nmMcZrdRjgb8pfr4mo8sNxuOf9/rp7/fgjcIP/f780uFHtdZD////D2etbQAAAHZ0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAFiqUcAAAExSURBVHja7M5lc8MwDAZg2Q012KbcrmNm5q1jZmZmJv3/JbGztvu279NdzvITnfUCIsqGqhoysgJEG0AQAGwfTFAoIlXA5CAIIbcJBQQGFErZbBioB0EIMuBN4cSvNwQ1v8XJICsQoDxHGEBRwClPgCVttc0AE0C/KJM8eKIWgitGEaAcxGLga//hb9DPm4/4HoPeafcY7XyoOmKwMleJuHvasXnXx6DkvR5v6hL7zdWTHIYHlj6TsfvllyiD5+zx10gkVtYd51tqs43bE5HE1pu/dqjtaawreXL9k+O15XGnoWahIOn66nlx9MvBDf8iiS4szjdJhGgpnVjOSQAPr6K6lCK5dLuokYwIFeUXGecHOXA+TUQLZmduUZcQe9LeGxasjTsNIWdTOhHdiW8BBgDR8hmDsaTFzgAAAABJRU5ErkJggg==); background-repeat:no-repeat;}
 
 /*header*/
 .header{ padding:10px 0;}
@@ -94,13 +94,13 @@ h6 { font-size:14px;}
 .entry-comments{ float:right; }
 .entry-categories a, .entry-comments a, .entry-tags a{ margin:0 4px; font-style:normal;}
 .entry-tags a{ margin:0 8px;}
-.entry-content{ margin-top:20px; }
-.entry-content p{ margin-top:20px;font-size:14px;}
+.entry-content{ margin-top:20px; font-size:14px;}
+.entry-content p{ margin-top:20px;}
 .entry-readmore{ padding:20px 0;}
-.entry-readmore a{ font-size:14px; font-weight:700;}
+.entry-readmore a{ font-size:16px; font-weight:700;}
 .entry-content blockquote, .entry-content code{ margin-top:10px; border:solid 1px #ccc; background-color:#fefefe; margin:10px; padding:10px;}
 /*pager*/
-.pagination{ line-height:40px; font-size:16px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
+.pagination{ line-height:40px; font-size:20px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
 .pagination a, .pagination span{margin:0 10px; }
 .pagination span{ color: #666;}
 .pagination-prev, .pagination-next{background-color:#e2e2e2; padding:0 20px; display:inline-block; height:40px; font-weight:700;}
