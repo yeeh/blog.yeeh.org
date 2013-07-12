@@ -7,10 +7,10 @@ layout: default
     <h1 class="entry-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h1>
-    <p class="entry-meta">
+    <div class="entry-meta">
       <time class="entry-time" datetime="{{ post.date }}">{{ post.date | date: '<span class="entry-month">%m</span><span class="entry-year">%Y</span><span class="entry-day">%d</span>' }}</time>
       <a class="entry-comments" href="{{ post.url }}#comments">Comments</a>
-    </p>
+    </div>
   </header>
   <div class="entry-content">
   {% assign fragments = post.content | split: site.excerpt_separator %}
