@@ -12,4 +12,3 @@ categories: 闲
 
 十点，开始清理现场，打扫垃圾。我们因为要赶末班地铁，所以遗留在地上的蜡油没有清，只是把剩余蜡烛拿垃圾袋装好，丢到垃圾桶了。一群学生样子的MM拿着专业工具‘小铲子’，在辛苦铲地上的蜡油，致敬！
 
-<table style="width:194px;"><tr><td align="center" style="height:194px;background:url(https://picasaweb.google.com/s/c/transparent_album_background.gif) no-repeat left"><a href="https://picasaweb.google.com/100176428078475760122/ShanghaiPeopleSquare20080519?authuser=0&feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-yfbywybXIhc/TV_1AGjbqyE/AAAAAAAAAhw/Ck9xAwc0fQI/s160-c/ShanghaiPeopleSquare20080519.jpg" width="160" height="160" style="margin:1px 0 0 4px;"></a></td></tr><tr><td style="text-align:center;font-family:arial,sans-serif;font-size:11px"><a href="https://picasaweb.google.com/100176428078475760122/ShanghaiPeopleSquare20080519?authuser=0&feat=embedwebsite" style="color:#4D4D4D;font-weight:bold;text-decoration:none;">风景.上海.人民广场(Shanghai.PeopleSquare.2008-05-19)</a></td></tr></table>
