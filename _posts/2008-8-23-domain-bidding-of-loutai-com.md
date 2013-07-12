@@ -6,4 +6,5 @@ tags: domain
 tags: 域名
 categories: 好
 ---
-<img src="/uploads/2008-08-23-loutai.jpg" />
+
+<img src="http://farm3.staticflickr.com/2812/9268968564_162ef18823_o.jpg" />

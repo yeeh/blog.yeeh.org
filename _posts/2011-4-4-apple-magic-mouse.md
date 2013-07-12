@@ -7,4 +7,4 @@ categories: 好
 ---
 使用了1年半的microsoft bluetooth 5000 终于有点小问题，同时也早过保，于是瞄上了apple magic mouse，把它请回来...
 
-<img src="/uploads/2011-04-04-apple-magic-mouse.jpg"  />
+<img src="http://farm8.staticflickr.com/7421/9268968534_3cac304929_o.jpg"  />
