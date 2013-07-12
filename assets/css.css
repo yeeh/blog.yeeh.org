@@ -58,20 +58,16 @@ h6 { font-size:14px;}
 
 /*nav*/
 .nav{ border-bottom:solid 1px #e2e2e2; }
-.nav li{ display:inline;}
 .nav a{ padding:4px 10px; display:inline-block; line-height:22px; font-size:14px; *float:left;}
-.nav .current_page_item a, .nav a:hover{ background-color:#e2e2e2; position:relative; color:#333;}
-.nav .current_page_item a{ font-weight:700;}
-.nav .current_page_item a:after{ content:" "; display:block; border: transparent 8px solid; border-bottom-color: #fff; width:0; height:0; position:absolute; top:16px; left:20px;}
+.nav.current a, .nav a:hover{ background-color:#e2e2e2; position:relative; color:#333;}
+.nav.current a{ font-weight:700;}
+.nav.current a:after{ content:" "; display:block; border: transparent 8px solid; border-bottom-color: #fff; width:0; height:0; position:absolute; top:16px; left:20px;}
 
 /*search*/
 .search{ position:relative; margin-top:0; height:1px;}
-.search form{ width:290px; position:relative; float:right; text-align:right; margin-top:-30px;}
-.search input, .widget_search input{ height:22px; line-height:22px; border:solid 1px #ddd;  padding:0 8px;  border-radius:14px; background-color:#f5f5f5;  }
-.search input, .widget_search input[type="text"]{width:140px; padding-left:30px; *padding-left:8px; background-position:8px 4px;}
-.search input:focus, .widget_search input[type="text"]:focus{ background-color:#fdfdfd; outline:none;}
-.search input:focus{ width:250px; }
-.search label{ display:none; *display:inline; margin-right:10px;}
+.search form{ position:relative; float:right; text-align:right; margin-top:-30px;}
+.search input{ height:22px; line-height:22px; border:solid 1px #ddd;  padding:0 8px;  border-radius:14px; background-color:#f5f5f5; width:160px; padding-left:30px; *padding-left:8px; background-position:8px 4px;}
+.search input:focus{ background-color:#fdfdfd; outline:none; width:320px; }
 
 /*content*/
 .col{ overflow:hidden;}
@@ -107,48 +103,6 @@ h6 { font-size:14px;}
 .pagination a.pagination-next{ margin-right:0;}
 /*disque*/
 #disqus_thread{ margin-top:30px; padding-top: 10px; border-top:dashed 1px #e2e2e2;}
-/*sub*/
-.widget{ margin:41px 0 0 20px; }
-.widget-hd{ border-bottom:solid 1px #e2e2e2; font-weight:300;position:relative; color:#333; }
-.widget-hd:after{ content:" "; display:block; border: transparent 10px solid; border-right-color: #e2e2e2; width:0; height:0; position:absolute; top:12px; right:0px;}
-.widget-bd{ color:#999;}
-.widget-bd a{color:#555;}
-/*sub type*/
-.widget_nav_menu .widget-bd, .widget_recent_entries .widget-bd, .widget_recent_comments .widget-bd, .widget_links .widget-bd, .widget_pages .widget-bd, .widget_rss .widget-bd, .widget_meta .widget-bd{ padding:6px 0 0 16px;}
-.widget_nav_menu .widget-bd a, .widget_recent_entries .widget-bd a, .widget_recent_comments .widget-bd li, .widget_links .widget-bd a, .widget_pages .widget-bd a, .widget_rss .widget-bd a, .widget_meta .widget-bd a{display:block; line-height:24px; }
-
-.widget_calendar{}
-.widget_calendar table{ width:100%; margin-top:4px;}
-.widget_calendar caption{ height:28px; line-height:28px; font-weight:700;}
-.widget_calendar caption a{ margin:0 16px;}
-.widget_calendar td{ text-align:center;}
-.widget_calendar thead th{ background-color:#f0f0f0; height:26px; line-height:26px;}
-.widget_calendar tbody td{ height:24px; line-height:24px;}
-.widget_calendar tbody td#today{ background-color:#e2e2e2;}
-.widget_calendar tbody td:hover{ background-color:#ccc; color:#fff;}
-.widget_calendar tbody td a{ display:block; font-weight:700; background-color:#f0f0f0; }
-
-.widget_categories, .widget_archive{}
-.widget_categories .widget-bd, .widget_archive .widget-bd{ padding-top:4px; }
-.widget_categories .widget-bd li, .widget_archive .widget-bd li{ list-style-type:square; list-style-position:inside; line-height:24px; padding-left:10px;}
-.widget_archive select{ width:90%; height:24px; line-height:24px; margin:16px 0 0 16px; border:solid 1px #e2e2e2;}
-
-.widget_search .widget-bd{ padding-top:14px;}
-.widget_search input{ margin-right:8px;}
-.widget_search input[type="submit"]{ height:24px; }
-
-.widget_tag{}
-.widget_tag a{ margin:0 4px;}
-
-.widget_text{}
-.widget_text p{ margin-top:10px;}
-.widget_text b{ margin:0 2px;}
-.widget_text .gavatar{ margin:10px 10px 4px 0; width:64px; float:left;}
-.widget_text .copyright{ margin:0 4px;}
-.widget_text .copyright-by, .widget_text .copyright-nc, .widget_text .copyright-sa{ background:url(static/copyright.png) no-repeat; width:36px; height:36px; margin:0 4px; display:inline-block; text-indent:-999em; vertical-align:middle;}
-.widget_text .copyright-by{ background-position:0 0;}
-.widget_text .copyright-nc{ background-position:0 -40px;}
-.widget_text .copyright-sa{ background-position:0 -80px;}
 
 /*footer*/
 .footer{ border-top:solid 1px #e2e2e2; padding:8px 0; color:#666; text-align:right;}
@@ -157,16 +111,13 @@ h6 { font-size:14px;}
 .footer a.yeeh{text-align:left; height:18px; display:inline-block; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
 
 /*media query*/
-/*>480 <640*/
-
+/* >480 <640 */
 @media screen and (min-width:480px) and (max-width:640px) {
-    .nav li{ display:inline-block;}
 	.entry-time:before{ margin-right:4px; color:#999; font-style:italic;}
 	.entry-comment{ display:block;}
 }
 
-/*<640*/
-
+/* <640 */
 @media screen and (max-width:640px) {
 	.entry-header{ padding-left:0;}
 	.entry-time, .entry-day, .entry-month{ width:auto; height:auto; line-height:20px; }
@@ -175,93 +126,19 @@ h6 { font-size:14px;}
 	.entry-day:before{ content:"/";}
 	.entry-month{ margin-right: 0;}
 	.entry-year{ float:right; }
-	.entry-year:before{ content:","; margin:0 4px;}	
+	.entry-year:before{ content:","; margin:0 4px;}
 	.entry-author, .entry-cate{display:inline-block;}
 	.entry-author{ margin-left:12px; }
 }
 
-/*<1024*/
-
-@media screen and (max-width:990px) {
-    .header, .nav, .search, .content, .footer{ width:94%;}
-    .search{ height:auto;}
-    .search form{ margin-top:4px;}
-    .col-main, .col-sub{ width:100%;}
-    .col-main{ margin-right:0; float:none;}
-	.post{ margin-right:0;}
-    .widget{ margin-left:0; margin-right:0;}
+/* <1000px */
+@media screen and (max-width:999px) {
+  .header, .nav, .search, .content, .footer{ width:94%;}
+  .search{ height:auto;}
+  .search form{ margin-top:4px; }
 }
 
-/*2 cols small*/
-
-@media screen and (min-width:1240px) and (max-width:1639px) {
-	.col-sub{ width:500px;}
-	.widget{ float:left; width:230px;}
-	.widget:nth-child(odd){ float:right;}
-	.search form{ width:230px;}
-	.search input{ width:110px;}
-	.search input:focus{ width:190px;}
-}
-
-/*2 cols mid*/
-
-@media screen and (min-width:1640px) and (max-width:1879px) {
-	.col-sub{ width:580px;}
-	.widget{ float:left; width:270px;}
-	.widget:nth-child(odd){ float:right;}
-	.search form{ width:270px;}
-    .search input{ width:130px;}
-    .search input:focus{ width:230px;}
-}
-
-/*2 cols large*/
-
-@media screen and (min-width:1880px) {
-	.col-sub{ width:660px;}
-	.widget{ float:left; width:310px;}
-    .widget:nth-child(odd){ float:right;}
-    .search form{ width:310px;}
-    .search input{ width:150px;}
-    .search input:focus{ width:270px;}
-}
-
-/*1280*/
-
-@media screen and (min-width:1240px) {
-	.header, .nav, .search, .content, .footer{ width:1200px;}
-	.col-main{ width:690px;}
-}
-
-/*1366*/
-
-@media screen and (min-width:1320px) {
-	.header, .nav, .search, .content, .footer{ width:1280px;}
-	.col-main{ width:770px;}
-}
-
-/*1440*/
-
-@media screen and (min-width:1400px) {
-    .header, .nav, .search, .content, .footer{ width:1360px;}
-    .col-main{ width:850px;}
-}
-
-/*1680*/
-@media screen and (min-width:1640px) {
-	.header, .nav, .search, .content, .footer{ width:1620px;}
-    .col-main{ width:1030px;}
-}
-
-/*1920*/
-
-@media screen and (min-width:1880px) {
-	.header, .nav, .search, .content, .footer{ width:1860px;}
-    .col-main{ width:1190px;}
-}
-
-/*2560*/
-
-@media screen and (min-width:2520px) {
-    .header, .nav, .search, .content, .footer{ width:2480px;}
-    .col-main{ width:1810px;}
+/* >1000px */
+@media screen and (min-width:1000px) {
+	.header, .nav, .search, .content, .footer{ width:98%;}
 }
