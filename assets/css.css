@@ -96,11 +96,11 @@ h6 { font-size:14px;}
 .entry-categories a, .entry-comments a, .entry-tags a{ margin:0 4px; font-style:normal;}
 .entry-tags a{ margin:0 8px;}
 .entry-content{ margin-top:20px; font-size:14px;}
-.entry-content p{ margin-top:20px;}
+.entry-content p{ margin:10px 0;}
 .entry-readmore{ padding:20px 0;}
 .entry-readmore a{ font-size:16px; font-weight:700;}
 /*highlight*/
-.highlight  { background: #ffffff; }
+.highlight  { margin: 10px 0; background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic }
 .highlight .err { color: #a61717; background-color: #e3d2d2 }
 .highlight .k { font-weight: bold }
