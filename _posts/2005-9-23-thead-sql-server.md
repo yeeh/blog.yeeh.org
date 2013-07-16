@@ -5,7 +5,7 @@ date: 2005-09-23 19:16:28
 tags: sqlserver
 categories: 手
 ---
-{% highlight sql %}
+{% highlight%}
 create PROCEDURE sp_Sort_insert
 (
  @sTable VARCHAR(255),
@@ -35,7 +35,7 @@ select @iSortNum=COUNT(0) FROM '+@sTable+' where SortID=@iSortParentID
 辛苦了一个下午的教训,白忙活了...
 
 解决办法:
-{% highlight sql %}
+{% highlight %}
 DECLARE @s NVARCHAR(4000)
 SET @s=N'select @iSortNum=COUNT(0) FROM '+@sTable+' where SortID='+cast(@iSortParentID AS VARCHAR)
 EXEC sp_executesql @s,N'@iSortNum int out',@iSortNum out

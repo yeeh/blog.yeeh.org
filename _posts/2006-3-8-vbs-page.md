@@ -10,7 +10,7 @@ PageSize=7
 以vbs为例,怎么算页数i?
 
 1.
-{% highlight vbscript %}
+{% highlight javascript %}
 If RecordCount mod PageSize =0 Then
  i=RecordCountPageSize
 Else
@@ -19,15 +19,15 @@ End If
 {% endhighlight %}
 
 2.
-{% highlight vbscript %}
+{% highlight javascript %}
 i=Abs(Int(-Abs(RecordCount/PageSize)))
 {% endhighlight %}
 3.
-{% highlight vbscript %}
+{% highlight javascript %}
 i=-Int(-RecordCount/PageSize)
 {% endhighlight %}
 4.
-{% highlight vbscript %}
+{% highlight javascript %}
 i=(RecordCount+PageSize-1)PageSize
 {% endhighlight %}
 用1最多.其次是用2的多,辅以少量用3的,最少是用4的.
