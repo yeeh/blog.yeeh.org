@@ -22,14 +22,20 @@ table{border-collapse:collapse;border-spacing:0;}
 
 /* font */
 body,button,input,select,textarea{font:14px/1.5 tahoma,arial,\5b8b\4f53;}
-code,kbd,pre,samp{font-family:courier new,courier,monospace;}
+code,kbd,pre,samp{font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;}
 
 /* generic */
 input[type=submit], button, label[for]{cursor:pointer;}
 input[readonly],textarea[readonly]{ background-color:#ededed;}
 abbr[title], acronym[title]{border-bottom:thin solid;cursor:help;}
 strong, b{font-weight:bold;}
-
+blockquote { border-left:1px solid #e5e5e5; margin:0; padding:0 0 0 20px; font-style:italic; }
+pre {padding:8px 16px;background: #f6f6f6; border:1px solid #e5e5e5; overflow-x: auto;}
+table {width:100%;border-collapse:collapse;}
+th, td {text-align:left;padding:5px 10px; border-bottom:1px solid #e5e5e5;}
+dt {color:#444;font-weight:700;}
+th {color:#444;}
+img {max-width:100%;}
 /* base */
 body {color:#333;}
 a{color:#000; }
@@ -94,7 +100,7 @@ h6 { font-size:14px;}
 .entry-readmore{ padding:20px 0;}
 .entry-readmore a{ font-size:16px; font-weight:700;}
 /*highlight*/
-.highlight  { background: #f6f6f6; border: dotted 1px #e2e2e2; margin: 10px; padding: 10px;}
+.highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic }
 .highlight .err { color: #a61717; background-color: #e3d2d2 }
 .highlight .k { font-weight: bold }
@@ -154,6 +160,14 @@ h6 { font-size:14px;}
 .highlight .vg { color: #008080 }
 .highlight .vi { color: #008080 }
 .highlight .il { color: #009999 }
+.type-csharp .highlight .k { color: #0000FF }
+.type-csharp .highlight .kt { color: #0000FF }
+.type-csharp .highlight .nf { color: #000000; font-weight: normal }
+.type-csharp .highlight .nc { color: #2B91AF }
+.type-csharp .highlight .nn { color: #000000 }
+.type-csharp .highlight .s { color: #A31515 }
+.type-csharp .highlight .sc { color: #A31515 }
+
 /*pagination*/
 .pagination{ line-height:40px; font-size:20px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
 .pagination a, .pagination span{margin:0 10px; }
