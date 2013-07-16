@@ -5,7 +5,8 @@ date: 2005-09-23 19:16:28
 tags: sqlserver
 categories: 手
 ---
-{% highlight%}
+
+{% highlight %}
 create PROCEDURE sp_Sort_insert
 (
  @sTable VARCHAR(255),
