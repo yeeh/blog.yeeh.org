@@ -1,5 +1,5 @@
 # ---------------------- #
-#      site config      #
+# site config            #
 # ---------------------- #
 name: 叶子
 tagline: 闲言碎语
@@ -12,7 +12,7 @@ paginate_path: page-:num
 excerpt_separator: '<!-- more -->'
 
 # ---------------------- #
-#         jekyll         #
+# jekyll                 #
 # ---------------------- #
 safe: true
 auto: true
@@ -21,18 +21,18 @@ markdown: redcarpet
 timezone: Asia/Shanghai
 
 # ---------------------- #
-#       deployment       #
+# deployment             #
 # ---------------------- #
 deploy:
 repository:
 branch:
 
 # ---------------------- #
-#    disqus              #
+# disqus                  #
 # ---------------------- #
 disqus: yeh
 
 # ---------------------- #
-#    google analytics    #
+# google analytics       #
 # ---------------------- #
 google_analytics: UA-11027907-1
