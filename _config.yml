@@ -1,7 +1,6 @@
 # ---------------------- #
-#      Site Configs      #
+#      site config      #
 # ---------------------- #
-
 name: 叶子
 tagline: 闲言碎语
 author: Perry Yeh
@@ -13,47 +12,27 @@ paginate_path: page-:num
 excerpt_separator: '<!-- more -->'
 
 # ---------------------- #
-#         Jekyll         #
+#         jekyll         #
 # ---------------------- #
-
 safe: true
 auto: true
 pygments: true
 markdown: redcarpet
 timezone: Asia/Shanghai
 
-
 # ---------------------- #
-#      Compile Sass      #
+#       deployment       #
 # ---------------------- #
-
-# run `compass help compile` in terminal to find more available options
-sass:
-no_line_comments: true
-sass_dir: _sass
-output_style: compressed
-
-
-# ---------------------- #
-#       Deployment       #
-# ---------------------- #
-
 deploy:
 repository:
 branch:
 
-
 # ---------------------- #
-#    Social Networks     #
+#    disqus              #
 # ---------------------- #
-
-# weibo:
-#   username:
-#   uid:
-#   appkey:
-
-# disqus:
 disqus: yeh
 
-# google_analytics:
+# ---------------------- #
+#    google analytics    #
+# ---------------------- #
 google_analytics: UA-11027907-1
