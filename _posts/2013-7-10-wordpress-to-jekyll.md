@@ -11,7 +11,7 @@ tags: wordpress theme jekyll github
 
 搜索用的是google custom search，好用就是速度慢了点。
 
-wordpress to jekyll的转换程序见<https://github.com/yeeh/wordpress-to-jekyll>,方法很简单，直接把jekyll.php传到blog/wp-admin/目录，再执行，就可以在_posts目录下见到生成好的md文件了，边搜php文档边看wordpress源代码边写，第一次写php...
+wordpress to jekyll的转换程序见<https://github.com/perryyeh/wordpress-to-jekyll>,方法很简单，直接把jekyll.php传到blog/wp-admin/目录，再执行，就可以在_posts目录下见到生成好的md文件了，边搜php文档边看wordpress源代码边写，第一次写php...
 
-之前的wordpress theme yeeh代码以及截图见<https://github.com/yeeh/wordpress-theme-yeeh>，随便拿，我也就不发到wordpress官网了，感谢wordpress陪伴了3年。
+之前的wordpress theme yeeh代码以及截图见<https://github.com/perryyeh/wordpress-theme-yeeh>，随便拿，我也就不发到wordpress官网了，感谢wordpress陪伴了3年。
 
