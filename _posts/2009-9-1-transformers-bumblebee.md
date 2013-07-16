@@ -12,4 +12,4 @@ Michael Bay07年和今年暑期的2部Transformers，不能算多好看，但是
 
 缺陷么，手不会跟着动，只能认给他手的姿势，脚是固定死的（我猜是为了平衡），做工很一般，底座上居然已经被我磨掉一点了，汗一把，好在和电影里的很像（当然细节差远了），当个小摆设也不错。
 
-<http://farm3.staticflickr.com/2843/9269175858_bffb18b65a_o.jpg>
+<img src="http://farm3.staticflickr.com/2843/9269175858_bffb18b65a_o.jpg" >

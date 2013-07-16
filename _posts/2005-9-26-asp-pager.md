@@ -6,4 +6,4 @@ tags: asp
 tags: 分页
 categories: 手
 ---
-项目托管地址 <a href="https://github.com/yeeh/asp-pager" title="github" target="_blank">https://github.com/yeeh/asp-pager</a>
+项目托管地址 <https://github.com/perryyeh/asp-pager>

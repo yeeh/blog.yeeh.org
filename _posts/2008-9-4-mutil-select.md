@@ -12,4 +12,4 @@ tags: 联动下拉
 3.支持多浏览器（ie6 ie7 opera9 firefox3 chrome0.2 safari3.1）
 4.支持三种数据输入格式
 
-项目托管地址：<a href="https://github.com/yeeh/javascript-selects" title="github" target="_blank">https://github.com/yeeh/javascript-selects</a>
+项目托管地址：<https://github.com/perryyeh/javascript-selects>
