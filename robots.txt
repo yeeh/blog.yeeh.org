@@ -1,9 +1,1 @@
 User-agent: *
-Disallow: /tag/
-Disallow: /tags/
-Disallow: /link/
-Disallow: /page/
-Disallow: /archive/
-Disallow: /category/
-Disallow: /post/tag/
-Disallow: /post/category/
