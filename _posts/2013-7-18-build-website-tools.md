@@ -10,8 +10,6 @@ tags: 建站
 
 ##域名
 
-域名后缀分为3种，国际域名(gTLDs, generic TLDs)、国家域名(ccTLDs, country-code TLDs)和自定义后缀域名(sTLDs, sponsored TLDs)。com、net、org、info等是gTLDs，cn、jp、us、hk、tw等是ccTLDs，mobi、xxx这类就是自定义后缀域名。
-
 域名后缀：<http://www.iana.org/domains/root/db>
 
 搜索：<https://iwantmyname.com/>
@@ -30,16 +28,12 @@ cn注册：这个就不推荐了。
 
 ##空间
 
-空间一般是租用、托管、自建，写这篇的时候本blog就是github提供的。现在也流行云租用
-
 amazon:<http://aws.amazon.com/>
 
 linode:<https://www.linode.com/>
 
 ucloud:<http://www.ucloud.cn/>
 
-
-其他还有gae（google app engine），sae（sina app engine）等就不介绍了。
 
 ##工具
 
