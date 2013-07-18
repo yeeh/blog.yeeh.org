@@ -47,7 +47,7 @@ push：<http://www.windowsazure.com/en-us/develop/net/how-to-guides/service-bus-
 开发注意点：
 favicon.ico，404，500
 
-##网站运营
+##运营
 
 seo，微博，微信，友情链接，群，调查，广告，资源交换。
 
