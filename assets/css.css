@@ -93,8 +93,8 @@ h6 { font-size:14px;}
 .entry-comments, .entry-categories, .entry-tags{ color:#999; font-style:italic;}
 .entry-comments{ float:right; }
 .entry-categories, .entry-tags{margin-left:10px; }
-.entry-categories a, .entry-comments span, .entry-tags a{ font-style:normal; margin:0 8px;}
-.entry-categories a:nth-child(n+2):before, .entry-tags a:nth-child(n+2):before{ content: ","; padding-right: 10px;}
+.entry-categories a, .entry-comments span, .entry-tags a{ font-style:normal; margin:0 4px;}
+.entry-categories a:nth-child(n+2):before, .entry-tags a:nth-child(n+2):before{ content: ","; padding-right: 12px;}
 .entry-content{ margin-top:20px; font-size:14px;}
 .entry-content p{ margin-top:10px;}
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px;}
