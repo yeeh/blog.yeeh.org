@@ -19,7 +19,7 @@ tags: 建站
 国内购买和抢注过期域名：<http://www.ename.com/>，<http://www.22.cn/>
 国际注册：<https://www.godaddy.com/>
 cn注册：这个就不推荐了。
-国内域名交流：<http://club.domain.cn/>
+域名经验交流：<http://club.domain.cn/>
 
 ##空间
 
