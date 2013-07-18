@@ -50,7 +50,7 @@ tags: 建站
 产品，设计，前端，开发，测试，部署。
 
 开发注意点：
-favicon.ico，404，500
+      favicon.ico，404，500
 
 ##网站运营
 
@@ -58,6 +58,6 @@ seo，微博，微信，友情链接，群，调查，广告，资源交换。
 
 ##站长工具：
 
-统计：<https://www.google.com/analytics/>
-webmaster tools：<https://www.google.com/webmasters/tools/>，<http://zhanzhang.baidu.com/>，<https://ssl.bing.com/webmaster>
-测试：<http://alibench.com/>
+      统计：<https://www.google.com/analytics/>
+      webmaster tools：<https://www.google.com/webmasters/tools/>，<http://zhanzhang.baidu.com/>，<https://ssl.bing.com/webmaster>
+      测试：<http://alibench.com/>
