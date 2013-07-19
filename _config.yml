@@ -6,8 +6,8 @@ baseurl:
 tagline: 闲言碎语
 author: Perry Yeh
 url: http://blog.yeeh.org/
-keywords: 前端，javascript，html，css
-description: 叶子的个人博客，关于前端，javascript，html，css，等。
+keywords: 前端，front-end，javascript，html，css
+description: 叶子的个人博客，关于前端，front-end，javascript，html，css，等。
 permalink: /post/:year/:month/:day/:title.html
 paginate: 5
 paginate_path: page-:num
