@@ -1,11 +1,11 @@
 <footer class="pagination" role="navigation">
 <span>{{paginator.page}}/{{paginator.total_pages}}</span>
-<a href="/">&lt;&lt;</a>
+<a href="{{ site.baseurl }}/">&lt;&lt;</a>
 {% if paginator.previous_page %}
 {% if paginator.previous_page == 1 %}
 <span>&lt;</span>
 {% else %}
-<a href="/page-{{paginator.previous_page}}">&lt;</a>
+<a href="{{ site.baseurl }}/page-{{paginator.previous_page}}">&lt;</a>
 {% endif %}
 {% else %}
 <span>&lt;</span>
@@ -14,17 +14,17 @@
 {% if count == paginator.page %}
 <span>{{count}}</span>
 {% else %}
-<a href="/page-{{count}}">{{count}}</a>
+<a href="{{ site.baseurl }}/page-{{count}}">{{count}}</a>
 {% endif %}
 {% endfor %}
 {% if paginator.next_page %}
 {% if paginator.next_page == paginator.total_pages %}
 <span>&gt;</span>
 {% else %}
-<a href="/page-{{paginator.next_page}}">&gt;</a>
+<a href="{{ site.baseurl }}/page-{{paginator.next_page}}">&gt;</a>
 {% endif %}
 {% else %}
 <span>&gt;<span>
 {% endif %}
-<a href="/page-{{paginator.total_pages}}">&gt;&gt;</a>
+<a href="{{ site.baseurl }}/page-{{paginator.total_pages}}">&gt;&gt;</a>
 </footer>
