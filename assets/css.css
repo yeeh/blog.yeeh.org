@@ -64,10 +64,10 @@ h6 { font-size:14px;}
 
 /*nav*/
 .nav{ border-bottom:solid 1px #e2e2e2; }
-.nav a{ padding:4px 10px; display:inline-block; line-height:22px; font-size:14px; *float:left;}
-.nav.current a, .nav a:hover{ background-color:#e2e2e2; position:relative; color:#333;}
-.nav.current a{ font-weight:700;}
-.nav.current a:after{ content:" "; display:block; border: transparent 8px solid; border-bottom-color: #fff; width:0; height:0; position:absolute; top:16px; left:20px;}
+.nav a{ padding:4px 10px; display:inline-block; line-height:22px; font-size:14px;}
+.nav.selected a, .nav a:hover{ background-color:#e2e2e2; position:relative; color:#333;}
+.nav.selected a{ font-weight:700;}
+.nav.selected a:after{ content:" "; display:block; border: transparent 8px solid; border-bottom-color: #fff; width:0; height:0; position:absolute; top:16px; left:20px;}
 
 /*search*/
 .search{ position:relative; margin-top:0; height:1px;}
@@ -198,7 +198,7 @@ h6 { font-size:14px;}
 	.entry-header{ padding-left:0;}
 	.entry-time, .entry-day, .entry-month{ width:auto; height:auto; line-height:20px; }
 	.entry-time{ left:0; top:0; height:20px; display:inline-block; border-width:0; margin-left:10px; position:relative; background-color:#fff;}
-	.entry-day, .entry-month{ font-size:12px; display:inline;}
+	.entry-day, .entry-month{ font-size:14px; display:inline;}
 	.entry-day:before{ content:"/";}
 	.entry-month{ margin-right: 0;}
 	.entry-year{ float:right; }
