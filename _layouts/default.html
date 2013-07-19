@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0" />
+<meta name="keywords" content="{{ site.keywords }}{% if page %}{% for tag in page.tags %}，{{ tag }}{% endfor %}{% endif %}" />
+<meta name="description" content="{{ site.description }}" />
 <!--[if lt IE 9]>
 <script src="{{ site.baseurl }}/assets/html5.js"></script>
 <![endif]-->
