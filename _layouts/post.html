@@ -7,19 +7,19 @@ layout: default
     <div class="entry-meta">
       <time class="entry-time" datetime="{{ page.date }}">{{ page.date | date: '<span class="entry-month">%m</span><span class="entry-year">%Y</span><span class="entry-day">%d</span>' }}</time>
 {% if page.comment != false %}
-      <a class="entry-comments" href="#comments"><span></span>Comments</a>
+      <a class="entry-comments" href="#comments" rel="nofollow" title="comments">Comments</a>
 {% endif %}
 {% if page.categories %}
       <p class="entry-categories">Categories:
 {% for category in page.categories %}
-<a href="#">{{ category }}</a>
+<a rel="tag">{{ category }}</a>
 {% endfor %}
       </p>
 {% endif %}
 {% if page.tags %}
       <p class="entry-tags">Tags:
 {% for tag in page.tags %}
-<a href="#">{{ tag }}</a>
+<a rel="tag">{{ tag }}</a>
 {% endfor %}
       </p>
 {% endif %}
