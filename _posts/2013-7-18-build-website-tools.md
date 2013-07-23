@@ -61,7 +61,7 @@ favicon.ico，404，500
 
 微博，微信，友情链接，群，调查，广告，资源交换。
 
-seo、rel、nofollow: <http://gmpg.org/xfn/11>
+seo、rel、nofollow
 
 ##站长工具：
 
