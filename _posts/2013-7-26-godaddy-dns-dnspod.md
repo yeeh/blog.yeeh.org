@@ -1,7 +1,7 @@
 ---
 layout: post
 title: godaddy的email系统不认dnspod.cn的dns
-date: 2013-7-23 17:52:55
+date: 2013-7-26 07:34:56
 categories: 好
 tags: godaddy dns dnspod
 ---
