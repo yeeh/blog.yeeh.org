@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 古文输出
-date: 2009-12-09 20:29:06
+date: 2009-12-09 17:29:06
 tags: javascript
 categories: 手
 ---
@@ -32,6 +32,6 @@ function ancient(str, line) {
             s += "<br />";
         }
         return s;
-    }
-    document.write(ancient("我爱你哈哈哈哈", 2));
+}
+document.write(ancient("我爱你哈哈哈哈", 2));
 {% endhighlight %}
