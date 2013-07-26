@@ -29,8 +29,8 @@ input[type=submit], button, label[for]{cursor:pointer;}
 input[readonly],textarea[readonly]{ background-color:#ededed;}
 abbr[title], acronym[title]{border-bottom:thin solid;cursor:help;}
 strong, b{font-weight:bold;}
-blockquote {border-left:5px solid #e5e5e5; margin:10px 0; padding:0 0 0 20px; font-style:italic; }
-pre {padding:10px 20px; border-radius: 5px; background: #f6f6f6; border:1px solid #e5e5e5; overflow-x: auto;}
+blockquote {border-left:5px solid #e5e5e5; margin:10px 0; padding:0 0 0 20px; }
+pre { padding:10px 20px; border-radius: 5px; background: #f6f6f6; border:1px solid #e5e5e5; overflow-x: auto;}
 table {width:100%;border-collapse:collapse;}
 th, td {text-align:left;padding:5px 10px; border-bottom:1px solid #e5e5e5;}
 dt {color:#444;font-weight:700;}
