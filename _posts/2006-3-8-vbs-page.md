@@ -10,7 +10,7 @@ PageSize=7
 以vbs为例,怎么算页数i?
 
 1.
-```vb.net
+```vb
 If RecordCount mod PageSize =0 Then
  i=RecordCountPageSize
 Else
@@ -19,17 +19,17 @@ End If
 ```
 
 2.
-```vb.net
+```vb
 i=Abs(Int(-Abs(RecordCount/PageSize)))
 ```
 
 3.
-```vb.net
+```vb
 i=-Int(-RecordCount/PageSize)
 ```
 
 4.
-```vb.net
+```vb
 i=(RecordCount+PageSize-1)PageSize
 ```
 用1最多.其次是用2的多,辅以少量用3的,最少是用4的.
