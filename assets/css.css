@@ -100,6 +100,9 @@ h6 { font-size:14px;}
 .entry-content p{ margin-top:10px;}
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px;}
 .entry-content .highlight {margin: 10px 0;}
+.entry-content ul{ list-style: disc;}
+.entry-content ol{ list-style: decimal; }
+.entry-content li{ padding-left: 20px;}
 .entry-readmore{ padding:20px 0;}
 .entry-readmore a{ font-size:16px; font-weight:700;}
 /*highlight*/
