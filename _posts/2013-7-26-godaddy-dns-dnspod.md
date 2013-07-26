@@ -26,6 +26,6 @@ Name Server:C.DNSPOD.COM
 
 在dnspod.com和dnspod.cn里都加了mx记录，这下godaddy的email能收到了，所以我觉得问题的本质不是google的apps企业邮箱问题，而是godaddy的email系统不认F1G1NS1.DNSPOD.NET F1G1NS2.DNSPOD.NET的解析，另外不知道F1G1NS1.DNSPOD.NET上有没有什么设置（按理说同一家公司的，不应该）。
 
-> 不同地方nslookup得到的nameserver并不一样，有些地方得到F1G1NS1.DNSPOD.NET和F1G1NS2.DNSPOD.NET，有些则是A.DNSPOD.COM这一组。 所以a记录什么的，要**在dnspod.com和dnspod.cn各做一遍**。
+> 这么设置后，不同地方nslookup得到的nameserver并不一样，有些地方得到F1G1NS1.DNSPOD.NET和F1G1NS2.DNSPOD.NET，有些则是A.DNSPOD.COM这一组。 所以a记录 mx记录等解析记录，要在**dnspod.com和dnspod.cn各做一遍**。
 
 目前这么规避。
