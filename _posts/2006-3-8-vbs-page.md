@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 算页数
-date: 2006-03-08 17:10:46
+date: 2006-03-08 17:10:46 +0800
 categories: 手
 ---
 RecordCount=101
@@ -10,32 +10,32 @@ PageSize=7
 以vbs为例,怎么算页数i?
 
 1.
-{% highlight vb.net %}
+```vb.net
 If RecordCount mod PageSize =0 Then
  i=RecordCountPageSize
 Else
  i=RecordCountPageSize+1
 End If
-{% endhighlight %}
+```
 
 2.
-{% highlight vb.net %}
+```vb.net
 i=Abs(Int(-Abs(RecordCount/PageSize)))
-{% endhighlight %}
+```
 
 3.
-{% highlight vb.net %}
+```vb.net
 i=-Int(-RecordCount/PageSize)
-{% endhighlight %}
+```
 
 4.
-{% highlight vb.net %}
+```vb.net
 i=(RecordCount+PageSize-1)PageSize
-{% endhighlight %}
+```
 用1最多.其次是用2的多,辅以少量用3的,最少是用4的.
 
 顺便记录js的.
 
-{% highlight javascript %}
+```js
 i= Math.ceil(RecordCount / PageSize);
-{% endhighlight %}
+```
