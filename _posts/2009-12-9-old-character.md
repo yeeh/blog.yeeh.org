@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 古文输出
-date: 2009-12-09 17:29:06
+date: 2009-12-09 20:29:06
 tags: javascript
 categories: 手
 ---
