@@ -1,7 +1,7 @@
 ---
 layout: post
 title: godaddy的email系统不认dnspod.cn的dns
-date: 2013-7-26 07:34:56
+date: 2013-7-26 07:34:56 +0800
 categories: 好
 tags: godaddy dns dnspod
 ---
@@ -16,12 +16,12 @@ tags: godaddy dns dnspod
 
 最后域名dns是这么设置的：
 
-	Name Server:F1G1NS1.DNSPOD.NET
-	Name Server:F1G1NS2.DNSPOD.NET
-	Name Server:A.DNSPOD.COM
-	Name Server:B.DNSPOD.COM
-	Name Server:C.DNSPOD.COM
-	
+>Name Server:F1G1NS1.DNSPOD.NET
+>Name Server:F1G1NS2.DNSPOD.NET
+>Name Server:A.DNSPOD.COM
+>Name Server:B.DNSPOD.COM
+>Name Server:C.DNSPOD.COM
+
 在dnspod.com和dnspod.cn里都加了mx记录，这下godaddy的email能收到了，所以我觉得问题的本质不是google的apps企业邮箱问题，而是godaddy的email系统不认F1G1NS1.DNSPOD.NET F1G1NS2.DNSPOD.NET的解析，另外不知道F1G1NS1.DNSPOD.NET上有没有什么设置（按理说同一家公司的，不应该）。
 
 目前这么规避。
