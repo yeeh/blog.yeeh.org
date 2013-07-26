@@ -12,7 +12,7 @@ tags: godaddy dns dnspod
 
 所幸最后想起来密码了，但是同时发现尝试登录失败次数太多，账号已被锁定，最后还是skype打客服电话才解锁的（话说客服电话的英文语速真快，和平时看电影压根不是一节奏，听了3遍才听清菜单）。
 
-同时发了微博说了这事，dnspod过来回复说让设置白名单（我哪能设置godaddy的名单=_=)。同时发了godaddy的support ticket，说的很明白他们的邮箱系统不认F1G1NS1.DNSPOD.NET F1G1NS2.DNSPOD.NET，可是godaddy回复说 发现我的邮箱托管在第三方，让我联系第三方看垃圾邮件设置，这又踢回google了…
+发微博说了这事，dnspod回复说让设置白名单（我哪能设置godaddy的名单=_=)。同时发了godaddy的support ticket，说的很明白他们的邮箱系统不认F1G1NS1.DNSPOD.NET F1G1NS2.DNSPOD.NET，可是godaddy回复说 发现我的邮箱托管在第三方，让我联系第三方看垃圾邮件设置，这又踢回google了…
 
 最后域名dns是这么设置的：
 
