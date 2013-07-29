@@ -12,8 +12,11 @@ tags: github pages
 
 个人和组织的首页都是http://username.github.io的形式，所以方法一致，规矩有2个：
 
-+ 如果个人用户名和组织名是username，那么创建新项目，名字一定要是username.github.io；
-+ 一定要是主干分支，不能是其他分支，才会被当成github pages建立。
+```
+ 如果个人用户名和组织名是username，那么创建新项目，名字一定要是username.github.io；
+ 
+ 一定要是主干分支，不能是其他分支，才会被当成github pages建立。
+```
 
 其他规矩和设立一个github pages无啥区别，一样可以用自定义域名，自定义404之类的。
 
