@@ -79,7 +79,7 @@ h6 { font-size:14px;}
 .entry, .pagination{margin-top:30px;}
 .entry-header{ padding-left:70px;}
 .entry-title{ line-height:40px; padding-left:10px; font-size: 30px;}
-.entry-meta{border-top:solid 1px #e2e2e2; position:relative; min-height: 42px; _height:42px; _overflow: auto; }
+.entry-meta{border-top:solid 1px #e2e2e2; position:relative; min-height: 42px; _height:42px; _overflow: visible;}
 .entry-time{ position:absolute; display:block; width:64px; height:64px; text-align:center; left:-70px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
 .entry-month, .entry-day{ line-height:32px;}
 .entry-month{ margin-right:4px; font-size:16px;}
