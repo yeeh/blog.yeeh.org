@@ -220,6 +220,7 @@ h6 { font-size:14px;}
 @media screen and (min-width:1000px) {
 	.layout{ width:auto; margin-left: 320px; margin-right: 40px;}
 	.nav, .link{ position: fixed; width: 240px; margin-left:40px; margin-top: 20px;}
+	.nav{ border-bottom: 0;}
 	.nav a{ display: block;}
 	.nav a.selected:after{ border-width:15px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
 	.search{height: auto; margin-top: -20px;}
