@@ -219,8 +219,8 @@ h6 { font-size:14px;}
 /* >1000px */
 
 @media screen and (min-width:1000px) {
-  .layout{ width:auto; margin-right: 320px; margin-left: 40px;}
-  .nav, .link{right: 0; position: fixed; width: 240px; margin-right:40px; margin-top: 20px;}
+  .layout{ width:auto; margin-right: 330px; margin-left: 40px;}
+  .nav, .link{right: 0; position: fixed; width: 250px; margin-right:40px; margin-top: 20px;}
   .nav{ border-bottom: 0;}
   .nav a{ display: block;}
   .nav a.selected:after{ border-width:15px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
