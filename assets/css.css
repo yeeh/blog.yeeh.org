@@ -46,6 +46,7 @@ h3 { font-size:20px;}
 h4 { font-size:18px;}
 h5 { font-size:16px;}
 h6 { font-size:14px;}
+embed{ display: none;}
 .hidden{ display:none;}
 
 /*common*/
@@ -64,10 +65,10 @@ h6 { font-size:14px;}
 
 /*nav*/
 .nav{ border-bottom:solid 1px #e2e2e2; }
-.nav a{ padding:4px 10px; display:inline-block; line-height:22px; font-size:14px;}
+.nav a{ padding:4px 10px; display:inline-block; font-size:18px;}
 .nav a.selected, .nav a:hover{ background-color:#e2e2e2; position:relative; color:#333;}
 .nav a.selected{ font-weight:700;}
-.nav a.selected:after{ content:" "; display:block; border: transparent 8px solid; border-bottom-color: #fff; width:0; height:0; position:absolute; top:16px; left:20px;}
+.nav a.selected:after{ content:" "; display:block; border: transparent 10px solid; border-bottom-color: #fff; width:0; height:0; position:absolute; top:18px; left:24px;}
 
 /*search*/
 .search{ position:relative; margin-top:0;}
@@ -223,9 +224,9 @@ h6 { font-size:14px;}
   .nav, .link{right: 0; position: fixed; width: 250px; margin-right:40px; margin-top: 20px;}
   .nav{ border-bottom: 0;}
   .nav a{ display: block;}
-  .nav a.selected:after{ border-width:15px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
+  .nav a.selected:after{ border-width:17px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
   .search{height: auto; margin-top: -20px;}
   .content{ margin-top: 0;}
   .link{ bottom: 0; }
-  .link h6{border-bottom: solid 1px #e2e2e2; font-weight: 300; margin-top: 20px;}
+  .link h6{border-bottom: solid 1px #e2e2e2;}
 }
