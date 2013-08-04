@@ -1,11 +1,12 @@
 /* reset */
-html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline;}
-body{line-height:1;}
+body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0; vertical-align:baseline;}
+body,button,input,select,textarea{font:14px/1.5 "Helvetica Neue",Helvetica,STHeiTi,sans-serif,Arial,\5b8b\4f53;}
+code,kbd,pre,samp{font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+address,cite,dfn,em,var{font-style:normal;}
 section,article,aside,header,footer,nav,dialog,figure{display:block;}
 figure{margin:0;}
 hr,button,input,textarea{margin:0;padding:0;}
-button,input,select,textarea{font-size:100%;}
-address,cite,dfn,em,var{font-style:normal;}
 small{font-size:12px;}
 ul,ol{list-style:none;}
 a{text-decoration:none; outline:none;}
@@ -20,10 +21,6 @@ table{border-collapse:collapse;border-spacing:0;}
 .no-ie678{ margin:0 20px; height:32px; line-height:32px; font-size:16px; text-align:center; border:solid 1px #e2e18e; background-color:#fffec5;}
 .no-ie678 a{ margin:0 8px; font-weight:700;}
 
-/* font */
-body,button,input,select,textarea{font:14px/1.5 "Helvetica Neue",Helvetica,STHeiTi,sans-serif,Arial,\5b8b\4f53;}
-code,kbd,pre,samp{font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;}
-
 /* generic */
 input[type=submit], button, label[for]{cursor:pointer;}
 input[readonly],textarea[readonly]{ background-color:#ededed;}
@@ -31,27 +28,28 @@ abbr[title], acronym[title]{border-bottom:thin solid;cursor:help;}
 strong, b{font-weight:bold;}
 blockquote {border-left:5px solid #e5e5e5; margin:10px 0; padding:0 0 0 20px; }
 pre { padding:10px 20px; border-radius: 5px; background: #f6f6f6; border:1px solid #e5e5e5; overflow-x: auto;}
-table {width:100%;border-collapse:collapse;}
+table {width:100%;}
 th, td {text-align:left;padding:5px 10px; border-bottom:1px solid #e5e5e5;}
 dt {color:#444;font-weight:700;}
 th {color:#444;}
 img {max-width:100%;}
+
 /* base */
 body {color:#333;}
 a{color:#000; }
-a:hover{color:#666; cursor:pointer;}
+a:hover{color:#666;}
 h1 { font-size:36px;}
 h2 { font-size:24px;}
 h3 { font-size:20px;}
 h4 { font-size:18px;}
 h5 { font-size:16px;}
 h6 { font-size:14px;}
-embed{ display: none;}
 .hidden{ display:none;}
 
 /*common*/
 .layout{ width:990px; margin:10px auto 0 auto;}
 .nav a, .search input{ -moz-transition:all 0.4s ease-out; -webkit-transition:all 0.4s ease-out; -o-transition:all 0.4s ease-out; transition: all 0.4s ease-out;}
+embed{ display: none;}
 
 /*img*/
 .search input, .yeeh{ background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAyCAMAAABiSatuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAWJQTFRFpqami8Ih7u7uq6ursbGxmso/0eem9PT0tra26enpvLy8yeOXk8Ywzc3N4+PjqtJc+fn50tLS3d3dstAA+/35pswK+/34oskBr84A6PPTudp68Pfho8sOlMUc2NjYk8QRlMUd+fzx+fzyk8lOi8VB5e+nockJudQXvt2H1OJJfr4n5/TZh8AdzOSVwsLCkMMR9/vwlcUS2uuswtYAl8g7stZrr9Ivvd+Z+Pvth8Iug8Alq88jk8QZw9cA+/31r9VmlcYY/f77xNcA3u/L4e/G9fnowt551eeXosw5f74c+/305vLM8vjlgb0Tn8kGisQ14O6w/P34zueyhb8ZmcgcmsgSmMgo+fvo/f79mMYZlsg3w9+DyuWuf74ntdQ1udY8os5Nud2Q3+/E9vrskMc37/fb+vzr///+er0nmMcZrdRjgb8pfr4mo8sNxuOf9/rp7/fgjcIP/f780uFHtdZD////D2etbQAAAHZ0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAFiqUcAAAExSURBVHja7M5lc8MwDAZg2Q012KbcrmNm5q1jZmZmJv3/JbGztvu279NdzvITnfUCIsqGqhoysgJEG0AQAGwfTFAoIlXA5CAIIbcJBQQGFErZbBioB0EIMuBN4cSvNwQ1v8XJICsQoDxHGEBRwClPgCVttc0AE0C/KJM8eKIWgitGEaAcxGLga//hb9DPm4/4HoPeafcY7XyoOmKwMleJuHvasXnXx6DkvR5v6hL7zdWTHIYHlj6TsfvllyiD5+zx10gkVtYd51tqs43bE5HE1pu/dqjtaawreXL9k+O15XGnoWahIOn66nlx9MvBDf8iiS4szjdJhGgpnVjOSQAPr6K6lCK5dLuokYwIFeUXGecHOXA+TUQLZmduUZcQe9LeGxasjTsNIWdTOhHdiW8BBgDR8hmDsaTFzgAAAABJRU5ErkJggg==); background-repeat:no-repeat;}
