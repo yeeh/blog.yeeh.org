@@ -219,12 +219,13 @@ embed{ display: none;}
 
 @media screen and (min-width:1000px) {
   .layout{ width:auto; margin-right: 330px; margin-left: 40px;}
-  .nav, .link{right: 0; position: fixed; width: 250px; margin-right:40px; margin-top: 20px;}
-  .nav{ border-bottom: 0;}
+  .nav, .link{right: 0; width: 250px; margin-right:40px; }
+  .nav{ border-bottom: 0; position: fixed; margin-top: 100px; position: sticky; top:10px; float: right; }
   .nav a{ display: block;}
   .nav a.selected:after{ border-width:17px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
   .search{height: auto; margin-top: -20px;}
   .content{ margin-top: 0;}
-  .link{ bottom: 0; }
+  body{ position: relative;}
+  .link{ position: absolute; bottom: 0; }
   .link h6{border-bottom: solid 1px #e2e2e2;}
 }
