@@ -55,9 +55,9 @@ embed{ display: none;}
 .search input, .yeeh{ background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAyCAMAAABiSatuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAWJQTFRFpqami8Ih7u7uq6ursbGxmso/0eem9PT0tra26enpvLy8yeOXk8Ywzc3N4+PjqtJc+fn50tLS3d3dstAA+/35pswK+/34oskBr84A6PPTudp68Pfho8sOlMUc2NjYk8QRlMUd+fzx+fzyk8lOi8VB5e+nockJudQXvt2H1OJJfr4n5/TZh8AdzOSVwsLCkMMR9/vwlcUS2uuswtYAl8g7stZrr9Ivvd+Z+Pvth8Iug8Alq88jk8QZw9cA+/31r9VmlcYY/f77xNcA3u/L4e/G9fnowt551eeXosw5f74c+/305vLM8vjlgb0Tn8kGisQ14O6w/P34zueyhb8ZmcgcmsgSmMgo+fvo/f79mMYZlsg3w9+DyuWuf74ntdQ1udY8os5Nud2Q3+/E9vrskMc37/fb+vzr///+er0nmMcZrdRjgb8pfr4mo8sNxuOf9/rp7/fgjcIP/f780uFHtdZD////D2etbQAAAHZ0Uk5T////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAFiqUcAAAExSURBVHja7M5lc8MwDAZg2Q012KbcrmNm5q1jZmZmJv3/JbGztvu279NdzvITnfUCIsqGqhoysgJEG0AQAGwfTFAoIlXA5CAIIbcJBQQGFErZbBioB0EIMuBN4cSvNwQ1v8XJICsQoDxHGEBRwClPgCVttc0AE0C/KJM8eKIWgitGEaAcxGLga//hb9DPm4/4HoPeafcY7XyoOmKwMleJuHvasXnXx6DkvR5v6hL7zdWTHIYHlj6TsfvllyiD5+zx10gkVtYd51tqs43bE5HE1pu/dqjtaawreXL9k+O15XGnoWahIOn66nlx9MvBDf8iiS4szjdJhGgpnVjOSQAPr6K6lCK5dLuokYwIFeUXGecHOXA+TUQLZmduUZcQe9LeGxasjTsNIWdTOhHdiW8BBgDR8hmDsaTFzgAAAABJRU5ErkJggg==); background-repeat:no-repeat;}
 
 /*header*/
-.header{ padding:10px 0;}
+.header{}
 .header a:hover, .nav a:hover{ text-decoration:none;}
-.header h1, .sitetitle{ display:inline-block; *display: inline; vertical-align:middle; line-height:64px; }
+.header h1, .sitetitle{ display:inline-block; *display: inline; vertical-align:middle; line-height:80px; }
 .sitetitle{ font-size:48px; font-weight:700; }
 .tagline{ margin-left:20px; padding-left:20px; border-left:solid 1px #ddd; line-height:20px; color:#aaa; }
 
@@ -219,15 +219,15 @@ embed{ display: none;}
 
 @media screen and (min-width:1000px) {
   .header, .nav, .search, .link{ width: 250px;  right:40px;}
-  .header, .nav, .search{ position: fixed; position: sticky;}
+  .header, .nav, .search{ position: fixed;}
   .content, .footer{ width:auto; margin-right: 330px; margin-left: 40px;}
   .header{ top:0;}
-  .nav{ border-bottom: 0; top:96px; float: right; }
-  .nav a{ display: block;}
+  .nav{ border-bottom: 0; top:96px; margin-top: 0;}
+  .nav a{ display: block; margin-top: 10px;}
   .nav a.selected:after{ border-width:17px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
-  .search{height: auto; top:200px;}
+  .search{height: auto; top:196px;}
   .search form{ margin-top: 0; float: none;}
-  .content{ margin-top: 100px;}
+  .content{ margin-top: 66px;}
   body{ position: relative;}
   .link{ position: absolute; bottom: 0; }
   .link h6{border-bottom: solid 1px #e2e2e2;}
