@@ -71,8 +71,8 @@ embed{ display: none;}
 /*search*/
 .search{ position:relative; margin-top:0;}
 .search form{ position:relative; float:right; text-align:right; margin-top:-32px;}
-.search input{ height:28px; line-height:28px; border:solid 1px #ddd;  padding:0 8px;  border-radius:14px; background-color:#f5f5f5; width:160px; padding-left:30px; *padding-left:8px; background-position:8px 6px;}
-.search input:focus{ background-color:#fdfdfd; outline:none; width: 240px;}
+.search input{ height:28px; line-height:28px; border:solid 1px #ddd;  padding-right: 8px;  border-radius:14px; background-color:#f5f5f5; width:210px; padding-left:30px; *padding-left:8px; background-position:8px 6px;}
+.search input:focus{ background-color:#fdfdfd; outline:none; width: 250px;}
 
 /*entry*/
 .entry, .pagination{margin-top:30px;}
@@ -218,13 +218,16 @@ embed{ display: none;}
 /* >1000px */
 
 @media screen and (min-width:1000px) {
-  .layout{ width:auto; margin-right: 330px; margin-left: 40px;}
-  .nav, .link{right: 0; width: 250px; margin-right:40px; }
-  .nav{ border-bottom: 0; position: fixed; margin-top: 100px; position: sticky; top:10px; float: right; }
+  .header, .nav, .search, .link{ width: 250px;  right:40px;}
+  .header, .nav, .search{ position: fixed; position: sticky;}
+  .content, .footer{ width:auto; margin-right: 330px; margin-left: 40px;}
+  .header{ top:0;}
+  .nav{ border-bottom: 0; top:96px; float: right; }
   .nav a{ display: block;}
   .nav a.selected:after{ border-width:17px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
-  .search{height: auto; margin-top: -20px;}
-  .content{ margin-top: 0;}
+  .search{height: auto; top:200px;}
+  .search form{ margin-top: 0; float: none;}
+  .content{ margin-top: 100px;}
   body{ position: relative;}
   .link{ position: absolute; bottom: 0; }
   .link h6{border-bottom: solid 1px #e2e2e2;}
