@@ -30,4 +30,4 @@ Name Server:C.DNSPOD.COM
 
 目前这么规避。
 
-update@2013.08.19: 发现ns服务器加多了会导致解析混乱，于是最终把godaddy的email换成其他邮箱来规避了。
+update@2013.08.19: 发现ns服务器加多了会导致解析混乱，于是最终把godaddy的email换成其他邮箱来规避了。嗯。
