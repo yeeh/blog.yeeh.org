@@ -18,8 +18,7 @@ tags: sublime-text
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
   "word_wrap": true,
-  "draw_white_space": "all",
-  "default_line_ending": "unix"
+  "draw_white_space": "all"
 }
 ```
 
