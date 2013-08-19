@@ -17,8 +17,18 @@ tags: sublime-text
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true,
-  "word_wrap": true
+  "word_wrap": true,
+  "draw_white_space": "all",
+  "default_line_ending": "unix"
 }
+```
+
+此外win下的github，修改默认配置.gitconfig，增加
+
+```
+[core]
+  autocrlf = false
+  safecrlf = true
 ```
 
 刚开始写代码用的是editplus，后来换成了vs。有了mac后寻找mac上也能用的编辑器，st就这么入眼。1年前开始，几乎天天用，也忍受了大半年的弹窗提示。完全适应后，几个月前终于买了个授权，现在清爽了。
