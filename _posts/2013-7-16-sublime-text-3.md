@@ -10,7 +10,7 @@ tags: sublime-text
 
 ```js
 {
-  "ensure_newline_at_eof_on_save": true,
+  "ensure_newline_at_eof_on_save": false,
   "font_size": 18,
   "highlight_line": true,
   "line_padding_top": 5,
