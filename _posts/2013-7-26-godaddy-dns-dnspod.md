@@ -29,3 +29,5 @@ Name Server:C.DNSPOD.COM
 > 这么设置后，不同地方nslookup得到的nameserver并不一样，有些地方得到F1G1NS1.DNSPOD.NET和F1G1NS2.DNSPOD.NET，有些则是A.DNSPOD.COM这一组。 所以a记录 mx记录等解析记录，要在**dnspod.com和dnspod.cn各做一遍**。
 
 目前这么规避。
+
+update@2013.08.19: 发现ns服务器加多了会导致解析混乱，于是最终把godaddy的email换成其他邮箱来规避了。
