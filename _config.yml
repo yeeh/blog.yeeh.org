@@ -20,7 +20,7 @@ safe: true
 auto: true
 pygments: true
 markdown: redcarpet
-timezone: Asia/Shanghai
+timezone: Asia/China
 
 # ---------------------- #
 # deployment             #
