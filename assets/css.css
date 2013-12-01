@@ -225,7 +225,7 @@ embed{ display: none;}
   .nav{ border-bottom: 0; top:96px; margin-top: 0;}
   .nav a{ display: block; margin-top: 10px;}
   .nav a.selected:after{ border-width:17px; border-bottom-color: transparent; border-right-color: #fff; left: auto; right: 0; top: 0;}
-  .search{height: auto; top:196px;}
+  .search{height: auto; top:250px;}
   .search form{ margin-top: 0; float: none;}
   .content{ margin-top: 66px;}
   body{ position: relative;}
