@@ -9,7 +9,7 @@ url: http://blog.yeeh.org
 keywords: front-end, javascript, html, css
 description: 叶子的个人博客，关于前端，front-end，javascript，html，css，等。
 permalink: /post/:year/:month/:day/:title.html
-paginate: 5
+paginate: 3
 paginate_path: page-:num
 excerpt_separator: '<!-- more -->'
 
