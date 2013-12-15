@@ -1,4 +1,4 @@
 ---
 layout: index
-title: 首页
+title:  {% if paginator.page == 1 %} 首页 {% else %} 第{{paginator.page}}页 {% endif %}
 ---
