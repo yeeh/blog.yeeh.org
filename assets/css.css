@@ -1,6 +1,6 @@
 /* reset */
 body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0; vertical-align:baseline;}
-body,button,input,select,textarea{font:14px/1.5 "Helvetica Neue",Helvetica,STHeiTi,sans-serif,Arial,\5b8b\4f53;}
+body,button,input,select,textarea{font:16px/1.5 "Helvetica Neue",Helvetica,STHeiTi,sans-serif,Arial,\5b8b\4f53;}
 code,kbd,pre,samp{font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;}
 h1,h2,h3,h4,h5,h6{font-size:100%;}
 address,cite,dfn,em,var{font-style:normal;}
@@ -39,11 +39,11 @@ body {color:#333;}
 a{color:#000; }
 a:hover{color:#666;}
 h1 { font-size:36px;}
-h2 { font-size:24px;}
-h3 { font-size:20px;}
-h4 { font-size:18px;}
-h5 { font-size:16px;}
-h6 { font-size:14px;}
+h2 { font-size:30px;}
+h3 { font-size:24px;}
+h4 { font-size:20px;}
+h5 { font-size:18px;}
+h6 { font-size:16px;}
 .hidden{ display:none;}
 
 /*common*/
@@ -82,13 +82,14 @@ embed{ display: none;}
 .entry-time{ position:absolute; display:block; width:64px; height:64px; text-align:center; left:-70px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
 .entry-month, .entry-day{ line-height:32px;}
 .entry-month{ margin-right:4px; font-size:16px;}
+.entry-year{ font-size: 14px;}
 .entry-day{ display:block; background-color:#fff; font-size:28px; }
 .entry-comments, .entry-categories, .entry-tags{ color:#999; font-style:italic;}
 .entry-comments{ float: right; text-align: right; *width: 100px;}
 .entry-categories, .entry-tags{margin-left:10px; }
 .entry-categories a, .entry-comments span, .entry-tags a{ font-style:normal; margin:0 4px;}
 .entry-categories a:nth-child(n+2):before, .entry-tags a:nth-child(n+2):before{ content: ","; padding-right: 12px;}
-.entry-content{ margin-top:20px; font-size:14px; word-wrap:break-word; word-break:break-all;}
+.entry-content{ margin-top:20px; word-wrap:break-word; word-break:break-all;}
 .entry-content a{ text-decoration: underline; color: #666;}
 .entry-content p{ margin-top:10px;}
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px;}
@@ -168,7 +169,7 @@ embed{ display: none;}
 .type-csharp .highlight .sc { color: #A31515 }
 
 /*pagination*/
-.pagination{ line-height:40px; font-size:20px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
+.pagination{ line-height:40px; font-size:30px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
 .pagination a, .pagination span{margin:0 10px; }
 .pagination span{ color: #666;}
 .pagination-prev, .pagination-next{background-color:#e2e2e2; padding:0 20px; display:inline-block; height:40px; font-weight:700;}
@@ -178,7 +179,7 @@ embed{ display: none;}
 #disqus_thread{ margin-top:30px; padding-top: 10px; border-top:dashed 1px #e2e2e2;}
 
 /*link*/
-.link a{ display: inline-block; font-size: 12px; margin: 4px 10px 4px 0;}
+.link a{ display: inline-block; font-size: 14px; margin: 2px 10px 2px 0;}
 
 /*footer*/
 .footer{ border-top:solid 1px #e2e2e2; padding:8px 0; color:#666; text-align:right;}
