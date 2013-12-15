@@ -8,7 +8,7 @@
 <a href="{{ site.baseurl }}/page-{{paginator.previous_page}}" title="Prev">&lt;</a>
 {% endif %}
 {% endif %}
-{% for count in (paginator.page..paginator.total_pages) limit:6 %}
+{% for count in (paginator.page..paginator.total_pages) limit:3 %}
 {% if count == paginator.page %}
 <span>{{count}}</span>
 {% else %}
