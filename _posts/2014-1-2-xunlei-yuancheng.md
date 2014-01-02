@@ -52,6 +52,44 @@ finished.
 ```
 这就是成功了。在yuancheng.xunlei.com里输入激活码，捆绑上就可以。
 
+新建个sh文件,放在/etc/init.d/目录下，我命名为xunlei，无后缀，内容如下
+
+```
+#!/bin/sh
+
+START=99
+start(){
+        /DataVolume/xunlei/portal
+}
+stop(){
+        /DataVolume/xunlei/portal -s
+}
+restart(){
+       stop
+       start
+}
+
+case "$1" in
+    start)
+        start
+    ;;
+    stop)
+        stop
+    ;;
+    restart)
+        restart
+    ;;
+    cleanup)
+    ;;
+    *)
+        echo $"Usage: $0 {start|stop|restart}"
+        exit 1
+esac
+
+exit $?
+```
+
+
 然后设置成开机自启
 
 ```
