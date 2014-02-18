@@ -59,7 +59,7 @@ finished.
 
 START=99
 start(){
-        mount -o bind /shares/Public/TDDOWNLOAD /DataVolume/TDDOWNLOAD
+        mount -o bind /shares/Public /DataVolume/TDDOWNLOAD
         /DataVolume/xunlei/portal
 }
 stop(){
