@@ -59,6 +59,7 @@ finished.
 
 START=99
 start(){
+        mount -o bind /shares/Public/TDDOWNLOAD /DataVolume/TDDOWNLOAD
         /DataVolume/xunlei/portal
 }
 stop(){
@@ -89,6 +90,7 @@ esac
 exit $?
 ```
 
+mount -o bind /shares/Public /DataVolume/TDDOWNLOAD 是因为迅雷远程下载的默认目录是/DataVolume/TDDOWNLOAD，但是下载目录没有自动记忆功能，如果不虚拟，那么每次安排下载任务需要留意更改目录，还不如虚拟下省事。
 
 然后设置成开机自启
 
