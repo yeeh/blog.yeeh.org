@@ -18,10 +18,18 @@ tags: 迅雷, mybook live,远程
 df -h
 ```
 
-看了下下载盘符是/DataVolume，系统设立的目录在shares里，于是把程序装到/DataVolume/xunlei/，之后直接
+看了下，下载盘符是/DataVolume，在此下新建目录TDDOWNLOAD，这是迅雷下载默认的内容存储目录。
+
+但是mybook
+ live设立的共享目录在/DataVolume/shares里，比如我想下到/DataVolume/shares/Public/怎么办呢？
+ 
+那就需要把/DataVolume/TDDOWNLOAD映射到/DataVolume/shares/Public。
+
+
+把程序上传到/etc/xunlei/，之后直接
 
 ```
-cd /DataVolume/xunlei/
+cd /etc/xunlei/
 chmod 755 * -R
 ./portal
 ``` 
@@ -35,9 +43,9 @@ try stopping xunlei service...
 
 setting xunlei runtime env...
 bind(3): errno = 98.
-port: 9001 is usable.
+port: 9000 is usable.
 
-YOUR CONTROL PORT IS: 9001
+YOUR CONTROL PORT IS: 9000
 
 
 starting xunlei service...
@@ -60,10 +68,10 @@ finished.
 START=99
 start(){
         mount -o bind /shares/Public /DataVolume/TDDOWNLOAD
-        /DataVolume/xunlei/portal
+        /etc/xunlei/portal
 }
 stop(){
-        /DataVolume/xunlei/portal -s
+        /etc/xunlei/portal -s
 }
 restart(){
        stop
@@ -90,8 +98,6 @@ esac
 exit $?
 ```
 
-mount -o bind /shares/Public /DataVolume/TDDOWNLOAD 是因为迅雷远程下载的默认目录是/DataVolume/TDDOWNLOAD，但是下载目录没有自动记忆功能，如果不虚拟，那么每次安排下载任务需要留意更改目录，还不如虚拟下省事。
-
 然后设置成开机自启
 
 ```
@@ -100,6 +106,6 @@ update-rc.d xunlei defaults 99 1
 
 重启下mybook live，大功告成。
 
-踩坑主要是开始把迅雷放到root下面去，那个盘符只有1g大小，下什么片都不够的。迅雷默认是程序放在哪个盘符，就下到哪个盘符，比如mybook live，就要放到/Datavolume/目录下，且yuancheng.xunlei.com的下载目录，要设置成C:/shares/*****，比如我就是设置成了C:/shares/Public/,这样在局域网共享里才能看到。
+踩坑主要是开始把迅雷放到root下面去，那个盘符只有1g大小，下什么片都不够。
 
 linux蛮有意思的。
