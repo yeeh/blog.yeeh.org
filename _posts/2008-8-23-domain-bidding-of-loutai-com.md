@@ -7,5 +7,4 @@ tags: 域名
 categories: 好
 ---
 
-<img src="" />
-![loutai.com](http://farm3.staticflickr.com/2812/9268968564_162ef18823_o.jpg)
+![loutai.com](../upload/2008-8-23-domain-bidding-of-loutai-com.jpg)

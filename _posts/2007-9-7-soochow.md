@@ -10,4 +10,4 @@ categories: 好
 
 备注：soochow是苏州的英文，比如苏州大学，台湾的东吴大学，都叫soochow university,本地也有几个英文是soochow 开头，比如soochow securities（东吴证券），soochow household hotel（吴地人家）。自己存着玩吧...
 
-![soochow.com](http://farm8.staticflickr.com/7322/9268968650_e4c5398542_o.gif)
+![soochow.com](../upload/2007-9-7-soochow.gif)
