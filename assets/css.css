@@ -185,7 +185,7 @@ embed{ display: none;}
 .footer{ border-top:solid 1px #e2e2e2; padding:8px 0; color:#666; font-size: 14px; text-align:right;}
 .footer a{ border-bottom:solid 1px #eee; color:#666; *font-weight:700;}
 .footer a:hover{ border-bottom-color:#666; color:#404040; text-decoration:none; }
-.footer a.yeeh{text-align:left; height:18px; display:inline-block; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
+.footer a.yeh{text-align:left; height:18px; display:inline-block; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
 
 /*media query*/
 /* >480 <640 */
