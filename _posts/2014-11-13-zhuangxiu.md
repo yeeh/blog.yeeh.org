@@ -6,6 +6,7 @@ categories: 手
 tags: 装修
 ---
 
+###洗浴
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
@@ -20,10 +21,10 @@ tags: 装修
 <tr><td>脸盆</td><td>toto</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>科勒</td><td>2</td><td></td></tr>
 <tr><td>马桶</td><td>toto</td><td>2</td><td></td></tr>
-<tr><td>卫洗丽</td><td>toto</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
+###电
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
@@ -33,10 +34,10 @@ tags: 装修
 <tr><td>防溅盒</td><td>施耐德</td><td>10</td><td></td></tr>
 <tr><td>空白盒</td><td>施耐德</td><td>10</td><td></td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
-<tr><td>风暖</td><td>松下FV-30BE1C</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
+###电灯
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
@@ -52,6 +53,7 @@ tags: 装修
 </tbody>
 </table>
 
+###电器
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
@@ -63,10 +65,12 @@ tags: 装修
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水机</td><td></td><td>1</td><td></td></tr>
 <tr><td>厨卫垃圾处理机</td><td></td><td>1</td><td></td></tr>
-<tr><td>热水器</td><td>林内</td></tr>
 <tr><td>集成空调</td><td></td><td>1</td></tr>
 <tr><td>壁挂空调</td><td></td><td>3</td></tr>
 <tr><td>洗碗机</td><td></td></tr>
+<tr><td>热水器</td><td>林内</td></tr>
+<tr><td>卫洗丽</td><td>toto</td><td>2</td><td></td></tr>
+<tr><td>风暖</td><td>松下FV-30BE1C</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
