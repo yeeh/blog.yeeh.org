@@ -17,10 +17,10 @@ tags: 装修
 <tr><td>生料带</td><td>潜水艇</td><td>5</td><td>29.9</td></tr>
 <tr><td>洗衣机水龙头</td><td>潜水艇</td><td>1</td><td>49</td></tr>
 <tr><td>前置</td><td>霍尼韦尔FF06</td><td>1</td><td>346</td></tr>
-<tr><td>水槽</td><td>摩恩23302SL+MCL7594CSL+7011</td><td>1</td><td>1578</td></tr>
-<tr><td>脸盆</td><td>TOTO AE546-A</td><td>2</td><td>1778</td></tr>
+<tr><td>水槽</td><td>摩恩23302SL+MCL7594C+7011</td><td>1</td><td>1578</td></tr>
+<tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>科勒</td><td>2</td><td></td></tr>
-<tr><td>马桶</td><td>TOTO</td><td>2</td><td></td></tr>
+<tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
@@ -48,6 +48,7 @@ tags: 装修
 <tr><td>厕所灯</td><td>欧普11w</td><td>2</td><td></td></tr>
 <tr><td>餐厅灯</td><td>飞利浦灵丽</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦22w</td><td>2</td><td></td></tr>
+<tr><td>过道灯</td><td>松下HHLA0416 5W LED</td><td>2</td><td></td></tr>
 <tr><td>筒灯</td><td>欧普</td><td>8</td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 </tbody>
