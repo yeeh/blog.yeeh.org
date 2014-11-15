@@ -28,7 +28,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>空开</td><td>施耐德C65</td><td>8</td><td>349</td></tr>
+<tr><td>空开</td><td>施耐德C65套装</td><td>1</td><td>349</td></tr>
 <tr><td>暗盒</td><td>施耐德S060</td><td>90</td><td>531</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>防溅盒</td><td>施耐德</td><td>10</td><td></td></tr>
