@@ -56,6 +56,8 @@ tags: 装修
 <tr><td>灯带</td><td></td><td></td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>衣柜灯</td><td>感应</td><td>16</td><td></td></tr>
+<tr><td>飘窗灯</td><td></td><td>2</td><td></td></tr>
+<tr><td>床边台灯</td><td></td><td>6</td><td></td></tr>
 </tbody>
 </table>
 
@@ -81,16 +83,6 @@ tags: 装修
 </tbody>
 </table>
 
-###厨用电器
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>电饭锅</td><td></td><td></td><td></td></tr>
-<tr><td>微波炉</td><td></td><td></td><td></td></tr>
-<tr><td>电磁炉</td><td></td><td></td><td></td></tr>
-<tr><td>饮水机</td><td></td><td></td><td></td></tr>
-</tbody>
-</table>
 
 ###视听
 <table>
@@ -103,7 +95,7 @@ tags: 装修
 <tr><td>功放</td><td></td><td>1</td><td></td></tr>
 <tr><td>客厅</td><td>b&o a9</td><td>1</td><td></td></tr>
 <tr><td>卧室</td><td></td><td></td><td></td></tr>
-<tr><td>书房</td><td>karman kardon aura</td><td>1</td><td>~~2300~~</td></tr>
+<tr><td>书房</td><td>karman kardon aura</td><td>1</td><td><del>2300</del></td></tr>
 </tbody>
 </table>
 
@@ -113,10 +105,10 @@ tags: 装修
 <tbody>
 <tr><td>网线插座</td><td>施耐德</td><td>6</td><td></td></tr>
 <tr><td>水晶头</td><td></td><td></td><td></td></tr>
-<tr><td>路由</td><td>apple timecapsule</td><td>1</td><td></td></tr>
+<tr><td>路由</td><td>apple time capsule</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear 308</td><td>2</td><td></td></tr>
-<tr><td>中继</td><td>apple airport</td><td>2</td><td></td></tr>
-<tr><td>网线</td><td>安普 6类</td><td>1</td><td></td></tr>
+<tr><td>中继</td><td>apple airport express</td><td>3</td><td></td></tr>
+<tr><td>网线</td><td>安普 6类 100米</td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -125,12 +117,16 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>床</td><td></td><td>3</td><td></td></tr>
+<tr><td>床柜</td><td></td><td>6</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
-<tr><td>鞋柜</td><td></td><td>3</td><td></td></tr>
-<tr><td>储藏室</td><td></td><td>1</td><td></td></tr>
-<tr><td>电脑桌</td><td></td><td>1</td><td></td></tr>
+<tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>餐桌</td><td></td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
+<tr><td>电脑桌</td><td>ikea</td><td>1</td><td><del>799</del></td></tr>
+<tr><td>电脑椅</td><td>ikea</td><td>1</td><td><del>399</del></td></tr>
+<tr><td>储藏室挂架</td><td></td><td>6</td><td></td></tr>
+<tr><td>储藏室移门</td><td></td><td>1</td><td></td></tr>
+<tr><td>书房挂架</td><td></td><td>4</td><td></td></tr>
 </tbody>
 </table>
 
@@ -175,6 +171,17 @@ tags: 装修
 <tr><td>卧室</td><td></td><td></td><td></td></tr>
 <tr><td>餐厅</td><td></td><td></td><td></td></tr>
 <tr><td>客厅</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+###厨用电器
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>电饭锅</td><td></td><td></td><td></td></tr>
+<tr><td>微波炉</td><td></td><td></td><td></td></tr>
+<tr><td>电磁炉</td><td></td><td></td><td></td></tr>
+<tr><td>饮水机</td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
