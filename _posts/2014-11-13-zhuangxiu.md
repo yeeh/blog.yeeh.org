@@ -21,7 +21,6 @@ tags: 装修
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>科勒</td><td>2</td><td></td></tr>
 <tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
-<tr><td>电吹风架</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
 <tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
@@ -36,6 +35,7 @@ tags: 装修
 <tr><td>暗盒</td><td>施耐德 S060</td><td>90</td><td>531</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>防溅盒</td><td>施耐德 E223DV</td><td>10</td><td></td></tr>
+<tr><td>开孔盒</td><td>松日</td><td>3</td><td></td></tr>
 <tr><td>空白盒</td><td>施耐德 丰尚</td><td>10</td><td></td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td></td></tr>
@@ -59,6 +59,7 @@ tags: 装修
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>衣柜灯</td><td>感应</td><td>16</td><td></td></tr>
 <tr><td>飘窗灯</td><td></td><td>2</td><td></td></tr>
+<tr><td>镜前灯</td><td></td><td>2</td><td></td></tr>
 <tr><td>床边台灯</td><td></td><td>6</td><td></td></tr>
 </tbody>
 </table>
@@ -83,6 +84,7 @@ tags: 装修
 <tr><td>风暖</td><td>松下 FV-30BE1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>2</td><td></td></tr>
+<tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
 <tr><td>卫洗丽</td><td>TOTO TCF491CS</td><td>2</td><td></td></tr>
 </tbody>
 </table>
@@ -126,15 +128,15 @@ tags: 装修
 <tr><td>床</td><td></td><td>3</td><td></td></tr>
 <tr><td>床柜</td><td></td><td>6</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
-<tr><td>餐桌</td><td></td><td>1</td><td></td></tr>
+<tr><td>餐桌</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>储藏室挂架</td><td></td><td>6</td><td></td></tr>
 <tr><td>储藏室移门</td><td></td><td>1</td><td></td></tr>
 <tr><td>书房挂架</td><td></td><td>4</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
-<tr><td>电脑桌</td><td>ikea</td><td>1</td><td><del>799</del></td></tr>
-<tr><td>电脑椅</td><td>ikea</td><td>1</td><td><del>399</del></td></tr>
+<tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
+<tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
 </tbody>
 </table>
 
@@ -144,9 +146,8 @@ tags: 装修
 <tbody>
 <tr><td>入户门</td><td></td><td>1</td><td></td></tr>
 <tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
-<tr><td>厕所门</td><td>推拉</td><td>2</td><td></td></tr>
+<tr><td>厕所门</td><td></td><td>2</td><td></td></tr>
 <tr><td>厨房门</td><td>推拉</td><td>1</td><td></td></tr>
-<tr><td>厕所门</td><td>推拉</td><td>2</td><td></td></tr>
 <tr><td>卧室门锁</td><td>多灵</td><td>3</td><td></td></tr>
 <tr><td>厕所门锁</td><td>多灵</td><td>2</td><td></td></tr>
 </tbody>
@@ -156,7 +157,8 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>地板</td><td></td><td>3</td><td></td></tr>
+<tr><td>地板</td><td>必美代理 奥地利进口Kaindl地板</td><td></td><td></td></tr>
+<tr><td>地垫宝</td><td>法宁格2cm</td><td></td><td></td></tr>
 <tr><td>地砖</td><td></td><td>3</td><td></td></tr>
 </tbody>
 </table>
@@ -208,9 +210,9 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>吸尘器</td><td></td><td></td><td></td></tr>
-<tr><td>空气净化器</td><td></td><td></td><td></td></tr>
 <tr><td>扫地机器人</td><td></td><td></td><td></td></tr>
-<tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
+<tr><td>空气净化器</td><td></td><td></td><td></td></tr>
+<tr><td>加湿器</td><td></td><td></td><td></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
 <tr><td>刮胡刀</td><td>飞利浦 RQ370</td><td>1</td><td><del>418</del></td></tr>
