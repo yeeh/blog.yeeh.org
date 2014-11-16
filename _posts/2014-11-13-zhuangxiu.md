@@ -99,9 +99,9 @@ tags: 装修
 <tr><td>投影仪</td><td></td><td>1</td><td></td></tr>
 <tr><td>幕布</td><td></td><td>1</td><td></td></tr>
 <tr><td>功放</td><td></td><td>1</td><td></td></tr>
-<tr><td>客厅</td><td>b&o a9</td><td>1</td><td></td></tr>
-<tr><td>卧室</td><td></td><td></td><td></td></tr>
-<tr><td>书房</td><td>karman kardon aura</td><td>1</td><td><del>2300</del></td></tr>
+<tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td></td></tr>
+<tr><td>卧室音响</td><td></td><td></td><td></td></tr>
+<tr><td>书房音响</td><td>karman kardon aura</td><td>1</td><td><del>2300</del></td></tr>
 </tbody>
 </table>
 
