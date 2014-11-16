@@ -125,15 +125,15 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>床</td><td></td><td>3</td><td></td></tr>
+<tr><td>床</td><td>ikea malm 1.8米</td><td>3</td><td></td></tr>
 <tr><td>床柜</td><td></td><td>6</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
 <tr><td>餐桌</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
-<tr><td>储藏室挂架</td><td></td><td>6</td><td></td></tr>
-<tr><td>储藏室移门</td><td></td><td>1</td><td></td></tr>
-<tr><td>书房挂架</td><td></td><td>4</td><td></td></tr>
+<tr><td>储藏室墙轨</td><td>海蒂诗</td><td>6</td><td></td></tr>
+<tr><td>储藏室折叠门</td><td></td><td>1</td><td></td></tr>
+<tr><td>书房墙轨</td><td>海蒂诗</td><td>4</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
@@ -157,9 +157,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>地板</td><td>必美代理 奥地利进口Kaindl地板</td><td></td><td></td></tr>
-<tr><td>地垫宝</td><td>法宁格2cm</td><td></td><td></td></tr>
-<tr><td>地砖</td><td></td><td>3</td><td></td></tr>
+<tr><td>地板</td><td>必美 Kaindl 强化地板(130/平)</td><td>80</td><td></td></tr>
+<tr><td>地垫宝</td><td>法宁格2cm</td><td>80</td><td></td></tr>
+<tr><td>地砖</td><td></td><td>20</td><td></td></tr>
 </tbody>
 </table>
 
