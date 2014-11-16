@@ -21,7 +21,9 @@ tags: 装修
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>科勒</td><td>2</td><td></td></tr>
 <tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
+<tr><td>电吹风架</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
+<tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
 <tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
 </tbody>
 </table>
@@ -73,13 +75,15 @@ tags: 装修
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
 <tr><td>垃圾处理机</td><td></td><td>1</td><td></td></tr>
-<tr><td>集成空调</td><td></td><td>1</td><td></td></tr>
-<tr><td>壁挂空调</td><td></td><td>3</td><td></td></tr>
-<tr><td>冰箱</td><td>松下/达米尼</td><td>1</td><td></td></tr>
+<tr><td>集成空调(客餐厅)</td><td></td><td>1</td><td></td></tr>
+<tr><td>壁挂空调(卧室)</td><td></td><td>3</td><td></td></tr>
+<tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
+<tr><td>冰箱</td><td>松下</td><td>1</td><td></td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
-<tr><td>卫洗丽</td><td>TOTO TCF491CS</td><td>2</td><td></td></tr>
 <tr><td>风暖</td><td>松下 FV-30BE1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
+<tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>2</td><td></td></tr>
+<tr><td>卫洗丽</td><td>TOTO TCF491CS</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
@@ -103,12 +107,15 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>网线插座</td><td>施耐德</td><td>6</td><td></td></tr>
+<tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>6</td><td></td></tr>
 <tr><td>水晶头</td><td></td><td></td><td></td></tr>
+<tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule</td><td>1</td><td><del>1799</del></td></tr>
-<tr><td>交换机</td><td>netgear 308</td><td>2</td><td></td></tr>
+<tr><td>交换机</td><td>netgear GS308</td><td>2</td><td></td></tr>
 <tr><td>中继</td><td>apple airport express</td><td>3</td><td></td></tr>
 <tr><td>网线</td><td>安普 6类 100米</td><td>1</td><td></td></tr>
+<tr><td>NAS</td><td>西数 mycloud mirror</td><td>1</td><td><del>2849</del></td></tr>
+<tr><td>NAS</td><td>西数 my booklive</td><td>1</td><td><del>1149</del></td></tr>
 </tbody>
 </table>
 
@@ -119,14 +126,15 @@ tags: 装修
 <tr><td>床</td><td></td><td>3</td><td></td></tr>
 <tr><td>床柜</td><td></td><td>6</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
-<tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>餐桌</td><td></td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
-<tr><td>电脑桌</td><td>ikea</td><td>1</td><td><del>799</del></td></tr>
-<tr><td>电脑椅</td><td>ikea</td><td>1</td><td><del>399</del></td></tr>
+<tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>储藏室挂架</td><td></td><td>6</td><td></td></tr>
 <tr><td>储藏室移门</td><td></td><td>1</td><td></td></tr>
 <tr><td>书房挂架</td><td></td><td>4</td><td></td></tr>
+<tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
+<tr><td>电脑桌</td><td>ikea</td><td>1</td><td><del>799</del></td></tr>
+<tr><td>电脑椅</td><td>ikea</td><td>1</td><td><del>399</del></td></tr>
 </tbody>
 </table>
 
@@ -138,6 +146,9 @@ tags: 装修
 <tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
 <tr><td>厕所门</td><td>推拉</td><td>2</td><td></td></tr>
 <tr><td>厨房门</td><td>推拉</td><td>1</td><td></td></tr>
+<tr><td>厕所门</td><td>推拉</td><td>2</td><td></td></tr>
+<tr><td>卧室门锁</td><td>多灵</td><td>3</td><td></td></tr>
+<tr><td>厕所门锁</td><td>多灵</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
@@ -182,6 +193,26 @@ tags: 装修
 <tr><td>微波炉</td><td></td><td></td><td></td></tr>
 <tr><td>电磁炉</td><td></td><td></td><td></td></tr>
 <tr><td>饮水机</td><td></td><td></td><td></td></tr>
+<tr><td>豆浆机</td><td></td><td></td><td></td></tr>
+<tr><td>空气炸锅</td><td>飞利浦</td><td></td><td></td></tr>
+<tr><td>榨汁机</td><td></td><td></td><td></td></tr>
+<tr><td>电饼铛</td><td></td><td></td><td></td></tr>
+<tr><td>电烤箱</td><td></td><td></td><td></td></tr>
+<tr><td>面包机</td><td></td><td></td><td></td></tr>
+<tr><td>咖啡机</td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
+###日常电器
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>吸尘器</td><td></td><td></td><td></td></tr>
+<tr><td>空气净化器</td><td></td><td></td><td></td></tr>
+<tr><td>扫地机器人</td><td></td><td></td><td></td></tr>
+<tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
+<tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
+<tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
+<tr><td>刮胡刀</td><td>飞利浦 RQ370</td><td>1</td><td><del>418</del></td></tr>
+</tbody>
+</table>
