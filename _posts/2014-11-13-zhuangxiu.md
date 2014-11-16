@@ -21,6 +21,7 @@ tags: 装修
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>科勒</td><td>2</td><td></td></tr>
 <tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
+<tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
 </tbody>
 </table>
@@ -39,7 +40,7 @@ tags: 装修
 </tbody>
 </table>
 
-###电灯
+###灯
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
@@ -51,8 +52,10 @@ tags: 装修
 <tr><td>餐厅灯</td><td>飞利浦灵丽</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦22w</td><td>2</td><td></td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0416 5W LED</td><td>2</td><td></td></tr>
-<tr><td>筒灯</td><td>欧普</td><td>8</td><td></td></tr>
+<tr><td>筒灯</td><td>欧普</td><td>10</td><td></td></tr>
+<tr><td>灯带</td><td></td><td></td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
+<tr><td>衣柜灯</td><td>感应</td><td>16</td><td></td></tr>
 </tbody>
 </table>
 
@@ -70,11 +73,108 @@ tags: 装修
 <tr><td>垃圾处理机</td><td></td><td>1</td><td></td></tr>
 <tr><td>集成空调</td><td></td><td>1</td><td></td></tr>
 <tr><td>壁挂空调</td><td></td><td>3</td><td></td></tr>
-<tr><td>冰箱</td><td></td><td>1</td><td></td></tr>
-<tr><td>洗衣机</td><td></td><td>1</td><td></td></tr>
-<tr><td>卫洗丽</td><td>TOTO</td><td>2</td><td></td></tr>
+<tr><td>冰箱</td><td>松下/达米尼</td><td>1</td><td></td></tr>
+<tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
+<tr><td>卫洗丽</td><td>TOTO TCF491CS</td><td>2</td><td></td></tr>
 <tr><td>风暖</td><td>松下 FV-30BE1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
+</tbody>
+</table>
+
+###厨用电器
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>电饭锅</td><td></td><td></td><td></td></tr>
+<tr><td>微波炉</td><td></td><td></td><td></td></tr>
+<tr><td>电磁炉</td><td></td><td></td><td></td></tr>
+<tr><td>饮水机</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+###视听
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>电视</td><td></td><td>3</td><td></td></tr>
+<tr><td>机顶盒</td><td>apple tv</td><td>4</td><td></td></tr>
+<tr><td>投影仪</td><td></td><td>1</td><td></td></tr>
+<tr><td>幕布</td><td></td><td>1</td><td></td></tr>
+<tr><td>功放</td><td></td><td>1</td><td></td></tr>
+<tr><td>客厅</td><td>b&o a9</td><td>1</td><td></td></tr>
+<tr><td>卧室</td><td></td><td></td><td></td></tr>
+<tr><td>书房</td><td>karman kardon aura</td><td>1</td><td>~~2300~~</td></tr>
+</tbody>
+</table>
+
+###网络
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>网线插座</td><td>施耐德</td><td>6</td><td></td></tr>
+<tr><td>水晶头</td><td></td><td></td><td></td></tr>
+<tr><td>路由</td><td>apple timecapsule</td><td>1</td><td></td></tr>
+<tr><td>交换机</td><td>netgear 308</td><td>2</td><td></td></tr>
+<tr><td>中继</td><td>apple airport</td><td>2</td><td></td></tr>
+<tr><td>网线</td><td>安普 6类</td><td>1</td><td></td></tr>
+</tbody>
+</table>
+
+###家具
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>床</td><td></td><td>3</td><td></td></tr>
+<tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
+<tr><td>鞋柜</td><td></td><td>3</td><td></td></tr>
+<tr><td>储藏室</td><td></td><td>1</td><td></td></tr>
+<tr><td>电脑桌</td><td></td><td>1</td><td></td></tr>
+<tr><td>餐桌</td><td></td><td>1</td><td></td></tr>
+<tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
+</tbody>
+</table>
+
+###门
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>入户门</td><td></td><td>1</td><td></td></tr>
+<tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
+<tr><td>厕所门</td><td>推拉</td><td>2</td><td></td></tr>
+<tr><td>厨房门</td><td>推拉</td><td>1</td><td></td></tr>
+</tbody>
+</table>
+
+###地面
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>地板</td><td></td><td>3</td><td></td></tr>
+<tr><td>地砖</td><td></td><td>3</td><td></td></tr>
+</tbody>
+</table>
+
+###墙壁
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>厨房</td><td></td><td>1</td><td></td></tr>
+<tr><td>卫生间</td><td></td><td>2</td><td></td></tr>
+<tr><td>卧室</td><td></td><td>3</td><td></td></tr>
+<tr><td>客厅</td><td></td><td>1</td><td></td></tr>
+<tr><td>阳台</td><td></td><td>2</td><td></td></tr>
+</tbody>
+</table>
+
+###顶
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>厨房</td><td>集成吊顶</td><td></td><td></td></tr>
+<tr><td>卫生间</td><td>集成吊顶</td><td></td><td></td></tr>
+<tr><td>卧室</td><td></td><td></td><td></td></tr>
+<tr><td>餐厅</td><td></td><td></td><td></td></tr>
+<tr><td>客厅</td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
