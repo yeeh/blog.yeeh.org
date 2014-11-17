@@ -19,10 +19,12 @@ tags: 装修
 <tr><td>前置</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1578</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
-<tr><td>花洒</td><td>科勒</td><td>2</td><td></td></tr>
+<tr><td>花洒</td><td>科勒 K-5428T</td><td>2</td><td></td></tr>
 <tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
+<tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
+<tr><td>角阀</td><td>科勒 K-5428T</td><td>7冷3热</td><td></td></tr>
 <tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>日丰ppr 25mm 壁厚3.4mm</td><td></td><td></td></tr>
 </tbody>
@@ -144,14 +146,15 @@ tags: 装修
 <tr><td>热水器</td><td>能率 GQ-1880CAFE/1680AFE</td><td>1</td><td></td></tr>
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
-<tr><td>新风机</td><td>霍尼韦尔 FC400</td><td>1</td><td></td></tr>
+<tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td></td></tr>
+<tr><td>空气净化</td><td>霍尼韦尔 FC400</td><td>1</td><td></td></tr>
 <tr><td>垃圾处理机</td><td></td><td>1</td><td></td></tr>
 <tr><td>集成空调(客餐厅)</td><td></td><td>1</td><td></td></tr>
 <tr><td>壁挂空调(卧室)</td><td></td><td>3</td><td></td></tr>
 <tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
-<tr><td>冰箱</td><td>松下</td><td>1</td><td></td></tr>
+<tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
-<tr><td>风暖</td><td>松下 FV-30BE1C</td><td>2</td><td></td></tr>
+<tr><td>浴室风暖</td><td>松下 FV-30BE1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>2</td><td></td></tr>
 <tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
@@ -184,12 +187,12 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>6</td><td></td></tr>
-<tr><td>水晶头</td><td></td><td></td><td></td></tr>
+<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
+<tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS308</td><td>2</td><td></td></tr>
 <tr><td>中继</td><td>apple airport express</td><td>3</td><td></td></tr>
-<tr><td>网线</td><td>安普 6类</td><td>100</td><td></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my booklive</td><td>1</td><td><del>1149</del></td></tr>
 <tr><td>摄像头</td><td></td><td>2</td><td></td></tr>
@@ -213,6 +216,8 @@ tags: 装修
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
+<tr><td>沙发</td><td></td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -241,7 +246,6 @@ tags: 装修
 <tbody>
 <tr><td>吸尘器</td><td></td><td></td><td></td></tr>
 <tr><td>扫地机器人</td><td></td><td></td><td></td></tr>
-<tr><td>空气净化器</td><td></td><td></td><td></td></tr>
 <tr><td>加湿器</td><td></td><td></td><td></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
