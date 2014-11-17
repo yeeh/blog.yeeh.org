@@ -169,8 +169,8 @@ tags: 装修
 <tbody>
 <tr><td>电视</td><td></td><td>3</td><td></td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>4</td><td></td></tr>
-<tr><td>投影仪</td><td></td><td>1</td><td></td></tr>
-<tr><td>幕布</td><td></td><td>1</td><td></td></tr>
+<tr><td>投影仪</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
+<tr><td>幕布</td><td>红叶 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
 <tr><td>喇叭</td><td>harman/kardon</td><td></td><td></td></tr>
 <tr><td>音频线</td><td></td><td></td><td></td></tr>
