@@ -176,7 +176,7 @@ tags: 装修
 <tr><td>音频线</td><td></td><td></td><td></td></tr>
 <tr><td>hdmi线</td><td>10米</td><td></td><td></td></tr>
 <tr><td>有线电视线</td><td></td><td></td><td></td></tr>
-<tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td></td></tr>
+<tr><td>客厅音响</td><td>b&o A9</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td></td><td>3</td><td></td></tr>
 <tr><td>书房音响</td><td>harman/kardon Aura</td><td>1</td><td><del>2300</del></td></tr>
 </tbody>
@@ -190,11 +190,11 @@ tags: 装修
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
 <tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
-<tr><td>路由</td><td>apple time capsule</td><td>1</td><td><del>1799</del></td></tr>
+<tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS308</td><td>2</td><td></td></tr>
 <tr><td>中继</td><td>apple airport express</td><td>3</td><td></td></tr>
-<tr><td>NAS</td><td>西数 mycloud mirror</td><td>1</td><td><del>2849</del></td></tr>
-<tr><td>NAS</td><td>西数 my booklive</td><td>1</td><td><del>1149</del></td></tr>
+<tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
+<tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
 <tr><td>摄像头</td><td></td><td>2</td><td></td></tr>
 <tr><td>硬盘机</td><td></td><td>1</td><td></td></tr>
 </tbody>
