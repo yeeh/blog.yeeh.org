@@ -43,7 +43,7 @@ tags: 装修
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td></td></tr>
 <tr><td>穿线管</td><td>联塑 pvc阻燃</td><td></td><td></td></tr>
-<tr><td>电线</td><td>远东</td><td></td><td></td></tr>
+<tr><td>电线</td><td>熊猫</td><td></td><td></td></tr>
 </tbody>
 </table>
 
