@@ -87,7 +87,7 @@ tags: 装修
 </tbody>
 </table>
 
-###门
+###门窗
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
@@ -97,6 +97,7 @@ tags: 装修
 <tr><td>厨房门</td><td>推拉</td><td>1</td><td></td></tr>
 <tr><td>卧室门锁</td><td>多灵</td><td>3</td><td></td></tr>
 <tr><td>厕所门锁</td><td>多灵</td><td>2</td><td></td></tr>
+<tr><td>封阳台</td><td></td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
@@ -149,7 +150,7 @@ tags: 装修
 <tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td></td></tr>
 <tr><td>空气净化</td><td>霍尼韦尔 FC400</td><td>1</td><td></td></tr>
 <tr><td>垃圾处理机</td><td></td><td>1</td><td></td></tr>
-<tr><td>集成空调(客餐厅)</td><td></td><td>1</td><td></td></tr>
+<tr><td>集成空调(客餐厅)</td><td>格力 3匹</td><td>1</td><td></td></tr>
 <tr><td>壁挂空调(卧室)</td><td></td><td>3</td><td></td></tr>
 <tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
@@ -191,6 +192,7 @@ tags: 装修
 <tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
+<tr><td>交换机</td><td>d-link DGS-1008P</td><td>2</td><td></td></tr>
 <tr><td>交换机</td><td>netgear GS308</td><td>2</td><td></td></tr>
 <tr><td>中继</td><td>apple airport express</td><td>3</td><td></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
