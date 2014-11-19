@@ -170,13 +170,13 @@ tags: 装修
 <tbody>
 <tr><td>电视</td><td></td><td>3</td><td></td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>4</td><td></td></tr>
-<tr><td>投影仪</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
+<tr><td>投影</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
 <tr><td>幕布</td><td>红叶 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
-<tr><td>喇叭</td><td>harman/kardon HKTS 20BQ/230C</td><td></td><td></td></tr>
-<tr><td>音频线</td><td></td><td></td><td></td></tr>
-<tr><td>hdmi线</td><td>10米</td><td></td><td></td></tr>
-<tr><td>有线电视线</td><td></td><td></td><td></td></tr>
+<tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
+<tr><td>音频线</td><td>飞利浦 100米</td><td>1</td><td></td></tr>
+<tr><td>hdmi线</td><td>10米</td><td>1</td><td></td></tr>
+<tr><td>卫星电视线</td><td>5米</td><td>1</td><td></td></tr>
 <tr><td>客厅音响</td><td>b&o A9</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td></td><td>3</td><td></td></tr>
 <tr><td>书房音响</td><td>harman/kardon Aura</td><td>1</td><td><del>2300</del></td></tr>
@@ -212,14 +212,14 @@ tags: 装修
 <tr><td>餐桌</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
-<tr><td>储藏室墙轨</td><td>海蒂诗</td><td>6</td><td></td></tr>
+<tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>8</td><td></td></tr>
 <tr><td>储藏室折叠门</td><td></td><td>1</td><td></td></tr>
 <tr><td>书房墙轨</td><td>海蒂诗</td><td>4</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
-<tr><td>沙发</td><td></td><td>1</td><td></td></tr>
-<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
+<tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td>ikea</td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -228,17 +228,17 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>电饭锅</td><td></td><td></td><td></td></tr>
-<tr><td>微波炉</td><td></td><td></td><td></td></tr>
-<tr><td>电磁炉</td><td></td><td></td><td></td></tr>
-<tr><td>饮水机</td><td></td><td></td><td></td></tr>
-<tr><td>豆浆机</td><td></td><td></td><td></td></tr>
-<tr><td>空气炸锅</td><td>飞利浦</td><td></td><td></td></tr>
-<tr><td>榨汁机</td><td></td><td></td><td></td></tr>
-<tr><td>电饼铛</td><td></td><td></td><td></td></tr>
-<tr><td>电烤箱</td><td></td><td></td><td></td></tr>
-<tr><td>面包机</td><td></td><td></td><td></td></tr>
-<tr><td>咖啡机</td><td></td><td></td><td></td></tr>
+<tr><td>电饭锅</td><td></td><td>1</td><td></td></tr>
+<tr><td>微波炉</td><td></td><td>1</td><td></td></tr>
+<tr><td>电磁炉</td><td></td><td>1</td><td></td></tr>
+<tr><td>饮水机</td><td></td><td>1</td><td></td></tr>
+<tr><td>豆浆机</td><td></td><td>1</td><td></td></tr>
+<tr><td>空气炸锅</td><td>飞利浦</td><td>1</td><td></td></tr>
+<tr><td>榨汁机</td><td></td><td>1</td><td></td></tr>
+<tr><td>电饼铛</td><td></td><td>1</td><td></td></tr>
+<tr><td>电烤箱</td><td></td><td>1</td><td></td></tr>
+<tr><td>面包机</td><td></td><td>1</td><td></td></tr>
+<tr><td>咖啡机</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -246,9 +246,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>吸尘器</td><td></td><td></td><td></td></tr>
-<tr><td>扫地机器人</td><td></td><td></td><td></td></tr>
-<tr><td>加湿器</td><td></td><td></td><td></td></tr>
+<tr><td>吸尘器</td><td></td><td>1</td><td></td></tr>
+<tr><td>扫地机器人</td><td></td><td>2</td><td></td></tr>
+<tr><td>加湿器</td><td></td><td>1</td><td></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
 <tr><td>刮胡刀</td><td>飞利浦 RQ370</td><td>1</td><td><del>418</del></td></tr>
