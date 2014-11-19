@@ -194,7 +194,7 @@ tags: 装修
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>d-link DGS-1008P</td><td>2</td><td></td></tr>
 <tr><td>交换机</td><td>netgear GS308</td><td>2</td><td></td></tr>
-<tr><td>中继</td><td>apple airport express</td><td>3</td><td></td></tr>
+<tr><td>中继</td><td>apple airport express</td><td>1</td><td></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
 <tr><td>摄像头</td><td></td><td>2</td><td></td></tr>
