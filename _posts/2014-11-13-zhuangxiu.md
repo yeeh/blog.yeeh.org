@@ -155,9 +155,9 @@ tags: 装修
 <tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
-<tr><td>浴室风暖</td><td>松下 FV-30BE1C</td><td>2</td><td></td></tr>
+<tr><td>浴室风暖</td><td>松下 FV-30BK1C/FV-30BE1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
-<tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>2</td><td></td></tr>
+<tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td></td></tr>
 <tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
 <tr><td>卫洗丽</td><td>TOTO TCF491CS</td><td>2</td><td></td></tr>
 </tbody>
