@@ -223,7 +223,8 @@ tags: 装修
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
-<tr><td>茶几</td><td>ikea</td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
+<tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
