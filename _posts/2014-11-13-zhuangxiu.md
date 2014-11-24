@@ -94,13 +94,15 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
+<tr><td>封阳台</td><td></td><td>2</td><td></td></tr>
 <tr><td>入户门</td><td></td><td>1</td><td></td></tr>
 <tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
 <tr><td>厕所门</td><td></td><td>2</td><td></td></tr>
-<tr><td>厨房门</td><td>推拉</td><td>1</td><td></td></tr>
+<tr><td>厨房门</td><td>移动门</td><td>1</td><td></td></tr>
 <tr><td>卧室门锁</td><td>多灵</td><td>3</td><td></td></tr>
 <tr><td>厕所门锁</td><td>多灵</td><td>2</td><td></td></tr>
-<tr><td>封阳台</td><td></td><td>2</td><td></td></tr>
+<tr><td>指纹锁</td><td></td><td>2</td><td></td></tr>
+<tr><td>电子猫眼</td><td></td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
