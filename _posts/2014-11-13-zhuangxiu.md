@@ -210,7 +210,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>床</td><td>ikea 马尔姆 1.8米</td><td>3</td><td></td></tr>
+<tr><td>床+抽屉</td><td>ikea 马尔姆 1.8米</td><td>3</td><td></td></tr>
 <tr><td>床柜</td><td>ikea 特里索</td><td>6</td><td></td></tr>
 <tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
@@ -218,7 +218,7 @@ tags: 装修
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>8</td><td></td></tr>
-<tr><td>储藏室折叠门</td><td></td><td>1</td><td></td></tr>
+<tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
 <tr><td>书房墙轨</td><td>海蒂诗</td><td>4</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
@@ -237,7 +237,7 @@ tags: 装修
 <tr><td>电饭锅</td><td>苏泊尔</td><td>1</td><td><del>399</del></td></tr>
 <tr><td>微波炉</td><td>格兰仕</td><td>1</td><td></td></tr>
 <tr><td>电磁炉</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
-<tr><td>饮水机</td><td></td><td>1</td><td><del>99</del></td></tr>
+<tr><td>饮水机</td><td>朗宁</td><td>1</td><td><del>99</del></td></tr>
 <tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>空气炸锅</td><td>飞利浦</td><td>1</td><td></td></tr>
 <tr><td>榨汁机</td><td>美的</td><td>1</td><td><del>349</del></td></tr>
@@ -254,7 +254,7 @@ tags: 装修
 <tbody>
 <tr><td>吸尘器</td><td></td><td>1</td><td></td></tr>
 <tr><td>扫地机器人</td><td></td><td>2</td><td></td></tr>
-<tr><td>加湿器</td><td></td><td>1</td><td></td></tr>
+<tr><td>加湿器</td><td>美的</td><td>1</td><td><del>199</del></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
 <tr><td>刮胡刀</td><td>飞利浦 RQ370</td><td>1</td><td><del>418</del></td></tr>
