@@ -69,6 +69,8 @@ tags: 装修
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
 <tr><td>床边台灯</td><td>ikea</td><td>6</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
+<tr><td>灯泡 e14</td><td>飞利浦</td><td></td><td></td></tr>
+<tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
 </tbody>
 </table>
 
