@@ -197,6 +197,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
+<tr><td>弱电箱</td><td>施耐德</td><td></td><td></td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
 <tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
