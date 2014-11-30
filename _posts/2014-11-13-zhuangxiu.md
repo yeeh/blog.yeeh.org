@@ -24,7 +24,7 @@ tags: 装修
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
-<tr><td>角阀</td><td>科勒 K-5428T</td><td>8冷2热</td><td>232.04</td></tr>
+<tr><td>角阀</td><td>摩恩</td><td>8冷2热</td><td>232.04</td></tr>
 <tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>日丰ppr 25mm 壁厚3.4mm</td><td></td><td></td></tr>
 </tbody>
@@ -34,6 +34,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
+<tr><td>强电箱</td><td>施耐德20回路</td><td></td><td></td></tr>
 <tr><td>空开</td><td>施耐德 C65套装</td><td>1</td><td>349</td></tr>
 <tr><td>暗盒</td><td>施耐德 S060</td><td>90</td><td>531</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
@@ -52,7 +53,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>入户灯</td><td>松下 感应 HHLA0607</td><td>1</td><td>99</td></tr>
-<tr><td>客厅灯</td><td>松下 未来光 HFAC1057WS02</td><td>1</td><td></td></tr>
+<tr><td>客厅灯</td><td>松下 未来光 HFAC1057</td><td>1</td><td></td></tr>
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
 <tr><td>厨房吊柜灯</td><td>ikea 照明条</td><td>2</td><td></td></tr>
@@ -175,6 +176,8 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
+<tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>2</td><td></td></tr>
+<tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
 <tr><td>电视</td><td></td><td>3</td><td></td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>4</td><td></td></tr>
 <tr><td>投影</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
