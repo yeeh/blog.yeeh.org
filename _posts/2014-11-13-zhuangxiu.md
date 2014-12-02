@@ -19,7 +19,7 @@ tags: 装修
 <tr><td>前置</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1587.98</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
-<tr><td>花洒</td><td>科勒 K-5428T</td><td>2</td><td></td></tr>
+<tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td></td></tr>
 <tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
