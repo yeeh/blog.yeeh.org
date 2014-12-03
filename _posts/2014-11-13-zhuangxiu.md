@@ -220,12 +220,13 @@ tags: 装修
 <tr><td>床柜</td><td>ikea 特里索</td><td>6</td><td></td></tr>
 <tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
+<tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>4</td><td></td></tr>
 <tr><td>餐桌</td><td>ikea 比约斯 伸缩型</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>8</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
-<tr><td>书房墙轨</td><td>海蒂诗</td><td>4</td><td></td></tr>
+<tr><td>书房墙轨</td><td>海蒂诗2米</td><td>4</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
