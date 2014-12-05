@@ -19,7 +19,7 @@ tags: 装修
 <tr><td>前置</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1587.98</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
-<tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td></td></tr>
+<tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3690+3699</td></tr>
 <tr><td>马桶</td><td>TOTO CW886B</td><td>2</td><td></td></tr>
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
@@ -151,7 +151,7 @@ tags: 装修
 <tr><td>油烟机</td><td>方太 JQ01T</td><td>1</td><td></td></tr>
 <tr><td>燃气灶</td><td>方太 HA21BE</td><td>1</td><td></td></tr>
 <tr><td>消毒柜</td><td>方太 40QE</td><td>1</td><td></td></tr>
-<tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td></td></tr>
+<tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
 <tr><td>热水器</td><td>能率 GQ-1680AFE</td><td>1</td><td></td></tr>
 <tr><td>热水循环</td><td>能率</td><td>1</td><td></td></tr>
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
