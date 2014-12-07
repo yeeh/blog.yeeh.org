@@ -24,7 +24,7 @@ tags: 装修
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
-<tr><td>角阀</td><td>摩恩</td><td>8冷2热</td><td>232.04</td></tr>
+<tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>日丰ppr 25mm 壁厚3.4mm</td><td></td><td></td></tr>
 </tbody>
