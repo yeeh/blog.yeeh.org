@@ -179,15 +179,14 @@ tags: 装修
 <tbody>
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>2</td><td></td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
-<tr><td>电视</td><td></td><td>3</td><td></td></tr>
+<tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>4</td><td></td></tr>
 <tr><td>投影</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
-<tr><td>幕布</td><td>红叶 120寸</td><td>1</td><td></td></tr>
+<tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
 <tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
 <tr><td>音频线</td><td>飞利浦 100米</td><td>1</td><td></td></tr>
 <tr><td>hdmi线</td><td>10米</td><td>1</td><td></td></tr>
-<tr><td>卫星电视线</td><td>5米</td><td>1</td><td></td></tr>
 <tr><td>客厅音响</td><td>b&o A9</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td></td><td>3</td><td></td></tr>
 <tr><td>书房音响</td><td>harman/kardon Aura</td><td>1</td><td><del>2300</del></td></tr>
