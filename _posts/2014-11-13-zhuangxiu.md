@@ -21,6 +21,7 @@ tags: 装修
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶</td><td>TOTO CW636CB/CW781B</td><td>2</td><td></td></tr>
+<tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
 <tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
@@ -53,7 +54,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>入户灯</td><td>松下 感应 HHLA0607</td><td>1</td><td>99</td></tr>
-<tr><td>客厅灯</td><td>松下 未来光 HFAC1057</td><td>1</td><td>999</td></tr>
+<tr><td>客厅灯</td><td>松下 未来光 HFAC1057WS02</td><td>1</td><td>996.9</td></tr>
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
 <tr><td>厨房吊柜灯</td><td>ikea 照明条</td><td>2</td><td></td></tr>
