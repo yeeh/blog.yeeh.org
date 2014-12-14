@@ -17,7 +17,7 @@ tags: 装修
 <tr><td>生料带</td><td>潜水艇</td><td>5</td><td>29.9</td></tr>
 <tr><td>洗衣机水龙头</td><td>潜水艇</td><td>1</td><td>49</td></tr>
 <tr><td>前置</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
-<tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1587.98</td></tr>
+<tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶</td><td>TOTO CW636CB/CW781B</td><td>2</td><td></td></tr>
