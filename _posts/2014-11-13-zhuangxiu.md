@@ -159,7 +159,7 @@ tags: 装修
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
 <tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td></td></tr>
 <tr><td>空气净化</td><td>霍尼韦尔 FC400</td><td>1</td><td></td></tr>
-<tr><td>垃圾处理机</td><td></td><td>1</td><td></td></tr>
+<tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
 <tr><td>集成空调(客餐厅)</td><td>格力 3匹</td><td>1</td><td></td></tr>
 <tr><td>壁挂空调(卧室)</td><td></td><td>3</td><td></td></tr>
 <tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
