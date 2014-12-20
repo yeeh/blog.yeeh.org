@@ -209,7 +209,7 @@ tags: 装修
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
 <tr><td>摄像头</td><td></td><td>2</td><td></td></tr>
-<tr><td>硬盘机</td><td></td><td>1</td><td></td></tr>
+<tr><td>硬盘机</td><td>nvr</td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
