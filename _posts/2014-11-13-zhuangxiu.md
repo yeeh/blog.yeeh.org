@@ -188,10 +188,10 @@ tags: 装修
 <tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
 <tr><td>音频线</td><td>飞利浦 100米</td><td>1</td><td></td></tr>
 <tr><td>hdmi线</td><td>10米</td><td>1</td><td></td></tr>
-<tr><td>客厅音响</td><td>b&o A9</td><td>1</td><td></td></tr>
+<tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td>libratone loop</td><td>1</td><td>2995.58</td></tr>
+<tr><td>卧室音响</td><td>b&w zeppelin air</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td>sony srs-x9</td><td>1</td><td></td></tr>
-<tr><td>卧室音响</td><td>b&w</td><td></td><td></td></tr>
 <tr><td>书房音响</td><td>harman/kardon Aura</td><td>1</td><td><del>2300</del></td></tr>
 </tbody>
 </table>
