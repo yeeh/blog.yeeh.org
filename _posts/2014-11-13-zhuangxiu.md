@@ -181,7 +181,8 @@ tags: 装修
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>2</td><td></td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
 <tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
-<tr><td>机顶盒</td><td>apple tv</td><td>4</td><td></td></tr>
+<tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
+<tr><td>机顶盒</td><td>apple tv</td><td>3</td><td></td></tr>
 <tr><td>投影</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
 <tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
@@ -263,10 +264,11 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>吸尘器</td><td></td><td>1</td><td></td></tr>
-<tr><td>扫地机器人</td><td></td><td>2</td><td></td></tr>
+<tr><td>扫地/拖地</td><td>iRobot</td><td>1</td><td></td></tr>
 <tr><td>加湿器</td><td>美的</td><td>1</td><td><del>199</del></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
 <tr><td>刮胡刀</td><td>飞利浦 RQ370</td><td>1</td><td><del>418</del></td></tr>
+<tr><td>理发器</td><td>飞利浦 QC5570</td><td>1</td><td>310</td></tr>
 </tbody>
 </table>
