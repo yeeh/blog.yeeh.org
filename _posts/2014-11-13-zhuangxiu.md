@@ -173,6 +173,25 @@ tags: 装修
 </tbody>
 </table>
 
+###网络
+<table>
+<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
+<tbody>
+<tr><td>弱电箱</td><td>施耐德</td><td>1</td><td></td></tr>
+<tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
+<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
+<tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
+<tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
+<tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
+<tr><td>交换机</td><td>netgear GS308</td><td>1</td><td><del>219</del></td></tr>
+<tr><td>中继</td><td>apple airport express</td><td>1</td><td></td></tr>
+<tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
+<tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
+<tr><td>摄像头</td><td>小蚁</td><td>1</td><td>149</td></tr>
+<tr><td>摄像头</td><td></td><td>1</td><td></td></tr>
+<tr><td>硬盘机</td><td>nvr 泡泡云</td><td>1</td><td></td></tr>
+</tbody>
+</table>
 
 ###视听
 <table>
@@ -193,26 +212,8 @@ tags: 装修
 <tr><td>卧室音响</td><td>libratone loop</td><td>1</td><td>2995.58</td></tr>
 <tr><td>卧室音响</td><td>b&w zeppelin air</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td>sony srs-x9</td><td>1</td><td></td></tr>
-<tr><td>书房音响</td><td>harman/kardon Aura</td><td>1</td><td><del>2300</del></td></tr>
-</tbody>
-</table>
-
-###网络
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>弱电箱</td><td>施耐德</td><td></td><td></td></tr>
-<tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
-<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
-<tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
-<tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
-<tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
-<tr><td>交换机</td><td>netgear GS308</td><td>1</td><td><del>219</del></td></tr>
-<tr><td>中继</td><td>apple airport express</td><td>1</td><td></td></tr>
-<tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
-<tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
-<tr><td>摄像头</td><td></td><td>2</td><td></td></tr>
-<tr><td>硬盘机</td><td>nvr 泡泡云</td><td>1</td><td></td></tr>
+<tr><td>书房音响</td><td>harman/kardon aura</td><td>1</td><td><del>2300</del></td></tr>
+<tr><td>书房耳机</td><td>b&o h8</td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
