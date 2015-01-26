@@ -227,7 +227,7 @@ tags: 装修
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
 <tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>4</td><td></td></tr>
 <tr><td>餐桌</td><td>ikea 比约斯 伸缩型</td><td>1</td><td></td></tr>
-<tr><td>餐椅</td><td></td><td>4</td><td></td></tr>
+<tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>8</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
