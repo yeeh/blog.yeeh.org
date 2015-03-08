@@ -99,13 +99,13 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>封阳台</td><td></td><td>2</td><td></td></tr>
-<tr><td>入户门</td><td></td><td>1</td><td></td></tr>
+<tr><td>入户门</td><td>盼盼 甲级</td><td>1</td><td></td></tr>
 <tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
 <tr><td>厕所门</td><td></td><td>2</td><td></td></tr>
 <tr><td>厨房门</td><td>移动门</td><td>1</td><td></td></tr>
 <tr><td>卧室门锁</td><td>多灵</td><td>3</td><td></td></tr>
 <tr><td>厕所门锁</td><td>多灵</td><td>2</td><td></td></tr>
-<tr><td>指纹锁</td><td></td><td>1</td><td></td></tr>
+<tr><td>指纹锁</td>三星<td></td><td>1</td><td></td></tr>
 <tr><td>电子猫眼</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
@@ -116,8 +116,10 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>地板</td><td>必美 Kaindl 强化地板(130/平)</td><td>80</td><td></td></tr>
-<tr><td>地垫宝</td><td>法宁格 2cm厚</td><td>80</td><td></td></tr>
-<tr><td>地砖</td><td></td><td>20</td><td></td></tr>
+<tr><td>地垫宝</td><td>法宁格/绿羽 2cm厚</td><td>80</td><td></td></tr>
+<tr><td>厨房地砖</td><td></td><td></td><td></td></tr>
+<tr><td>卫生间地砖</td><td></td><td></td><td></td></tr>
+<tr><td>阳台地砖</td><td></td><td></td><td></td></tr>**
 </tbody>
 </table>
 
@@ -125,11 +127,15 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房</td><td></td><td>1</td><td></td></tr>
-<tr><td>卫生间</td><td></td><td>2</td><td></td></tr>
+<tr><td>厨房墙砖</td><td></td><td>1</td><td></td></tr>
+<tr><td>卫生间墙砖</td><td></td><td>2</td><td></td></tr>
 <tr><td>卧室</td><td></td><td>3</td><td></td></tr>
 <tr><td>客厅</td><td></td><td>1</td><td></td></tr>
 <tr><td>阳台</td><td></td><td>2</td><td></td></tr>
+<tr><td>厕所镜</td><td>ikea 司铎约</td><td>2</td><td></td></tr>
+<tr><td>门边镜</td><td>ikea 斯塔贝壳</td><td>1</td><td></td></tr>
+<tr><td>橱柜</td><td></td><td>1</td><td></td></tr>
+<tr><td>淋浴房</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -180,7 +186,7 @@ tags: 装修
 <tr><td>弱电箱</td><td>施耐德</td><td>1</td><td></td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
-<tr><td>网线</td><td>安普 6类 100米</td><td>100</td><td></td></tr>
+<tr><td>网线</td><td>安普 6类 150米</td><td>100</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS308</td><td>1</td><td><del>219</del></td></tr>
@@ -221,22 +227,22 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>床+抽屉</td><td>ikea 马尔姆 1.8米</td><td>3</td><td></td></tr>
+<tr><td>床+底抽屉</td><td>ikea 马尔姆 1.8米</td><td>3</td><td></td></tr>
 <tr><td>床柜</td><td>ikea 特里索</td><td>6</td><td></td></tr>
 <tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
-<tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>4</td><td></td></tr>
+<tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>3</td><td></td></tr>
 <tr><td>餐桌</td><td>ikea 比约斯 伸缩型</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
-<tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>8</td><td></td></tr>
+<tr><td>储藏室墙轨</td><td>海蒂诗4米</td><td>8</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
-<tr><td>书房墙轨</td><td>海蒂诗2米</td><td>4</td><td></td></tr>
+<tr><td>书房墙轨</td><td>海蒂诗4米＋2米</td><td>4</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
-<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
@@ -264,8 +270,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>吸尘器</td><td></td><td>1</td><td></td></tr>
-<tr><td>扫地/拖地</td><td>iRobot</td><td>1</td><td></td></tr>
+<tr><td>吸尘器</td><td>戴森</td><td>1</td><td></td></tr>
+<tr><td>扫地</td><td>iRobot</td><td>1</td><td></td></tr>
+<tr><td>拖地</td><td>iRobot</td><td>1</td><td></td></tr>
 <tr><td>加湿器</td><td>美的</td><td>1</td><td><del>199</del></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
