@@ -22,7 +22,7 @@ tags: 装修
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶</td><td>TOTO CW636CB/CW781B</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
-<tr><td>浴室挂件</td><td></td><td>2</td><td></td></tr>
+<tr><td>淋浴房</td><td></td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td></td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
@@ -57,19 +57,20 @@ tags: 装修
 <tr><td>客厅灯</td><td>松下 未来光 HFAC1057WS02</td><td>1</td><td>996.9</td></tr>
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
-<tr><td>厨房吊柜灯</td><td>ikea 照明条</td><td>2</td><td></td></tr>
-<tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>3</td><td>280.5</td></tr>
+<tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
+<tr><td>厨房吊柜灯</td><td>ikea 照明条</td><td>3</td><td></td></tr>
+<tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
 <tr><td>餐厅灯</td><td>ikea 克劳比 双盏吊灯</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
 <tr><td>筒灯</td><td>欧普</td><td>10</td><td></td></tr>
-<tr><td>吊顶灯带</td><td>欧普</td><td></td><td></td></tr>
+<tr><td>灯带</td><td>欧普</td><td></td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
-<tr><td>衣柜灯</td><td>ikea 茵瑞达/斯奇伯 照明条</td><td>10</td><td></td></tr>
+<tr><td>衣柜灯</td><td>ikea 茵瑞达/斯奇伯 照明条</td><td>20</td><td></td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 LED感应</td><td>9</td><td></td></tr>
 <tr><td>飘窗灯</td><td>ikea 莫恩达(小)</td><td>2</td><td></td></tr>
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
-<tr><td>床边台灯</td><td>ikea</td><td>6</td><td></td></tr>
+<tr><td>床边台灯</td><td>ikea</td><td>5</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
 <tr><td>灯泡 e14</td><td>飞利浦</td><td></td><td></td></tr>
 <tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
@@ -99,13 +100,14 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>封阳台</td><td></td><td>2</td><td></td></tr>
-<tr><td>入户门</td><td>盼盼 甲级</td><td>1</td><td></td></tr>
-<tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
+<tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
+<tr><td>卧室门</td><td></td><td>4</td><td></td></tr>
 <tr><td>厕所门</td><td></td><td>2</td><td></td></tr>
-<tr><td>厨房门</td><td>移动门</td><td>1</td><td></td></tr>
+<tr><td>厨房门</td><td>移门</td><td>1</td><td></td></tr>
+<tr><td>书房门</td><td>移门</td><td>1</td><td></td></tr>
 <tr><td>卧室门锁</td><td>多灵</td><td>3</td><td></td></tr>
 <tr><td>厕所门锁</td><td>多灵</td><td>2</td><td></td></tr>
-<tr><td>指纹锁</td>三星<td></td><td>1</td><td></td></tr>
+<tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
 <tr><td>电子猫眼</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
@@ -119,7 +121,7 @@ tags: 装修
 <tr><td>地垫宝</td><td>法宁格/绿羽 2cm厚</td><td>80</td><td></td></tr>
 <tr><td>厨房地砖</td><td></td><td></td><td></td></tr>
 <tr><td>卫生间地砖</td><td></td><td></td><td></td></tr>
-<tr><td>阳台地砖</td><td></td><td></td><td></td></tr>**
+<tr><td>阳台地砖</td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
 
@@ -133,7 +135,7 @@ tags: 装修
 <tr><td>客厅</td><td></td><td>1</td><td></td></tr>
 <tr><td>阳台</td><td></td><td>2</td><td></td></tr>
 <tr><td>厕所镜</td><td>ikea 司铎约</td><td>2</td><td></td></tr>
-<tr><td>门边镜</td><td>ikea 斯塔贝壳</td><td>1</td><td></td></tr>
+<tr><td>门边镜</td><td>ikea 斯塔贝壳/法拉科纳</td><td>1</td><td></td></tr>
 <tr><td>橱柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>淋浴房</td><td></td><td>1</td><td></td></tr>
 </tbody>
@@ -143,8 +145,8 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房</td><td>集成吊顶</td><td></td><td></td></tr>
-<tr><td>卫生间</td><td>集成吊顶</td><td></td><td></td></tr>
+<tr><td>厨房</td><td>新飞 集成吊顶</td><td>1</td><td></td></tr>
+<tr><td>卫生间</td><td>新飞 集成吊顶</td><td>2</td><td></td></tr>
 <tr><td>卧室</td><td></td><td></td><td></td></tr>
 <tr><td>餐厅</td><td></td><td></td><td></td></tr>
 <tr><td>客厅</td><td></td><td></td><td></td></tr>
@@ -159,7 +161,7 @@ tags: 装修
 <tr><td>燃气灶</td><td>方太 HA21BE</td><td>1</td><td>2500</td></tr>
 <tr><td>消毒柜</td><td>方太 40QE</td><td>1</td><td>3099</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
-<tr><td>热水器</td><td>能率 GQ-1680AFE</td><td>1</td><td></td></tr>
+<tr><td>热水器</td><td>能率 GQ-1680CAFE</td><td>1</td><td></td></tr>
 <tr><td>热水循环</td><td>能率</td><td>1</td><td></td></tr>
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
@@ -171,7 +173,7 @@ tags: 装修
 <tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
-<tr><td>浴室风暖</td><td>松下 FV-30BK1C/FV-30BE1C</td><td>2</td><td></td></tr>
+<tr><td>浴室风暖</td><td>松下 FV-30BK1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td></td></tr>
 <tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
@@ -185,8 +187,8 @@ tags: 装修
 <tbody>
 <tr><td>弱电箱</td><td>e代家园</td><td>1</td><td></td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>5</td><td></td></tr>
-<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td></td><td></td></tr>
-<tr><td>网线</td><td>安普 6类 150米</td><td>100</td><td></td></tr>
+<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td></td></tr>
+<tr><td>网线</td><td>安普 6类</td><td>150</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS308</td><td>1</td><td><del>219</del></td></tr>
@@ -228,16 +230,22 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>床+底抽屉</td><td>ikea 马尔姆 1.8米</td><td>3</td><td></td></tr>
-<tr><td>床柜</td><td>ikea 特里索</td><td>6</td><td></td></tr>
+<tr><td>床柜</td><td>ikea 特里索</td><td>5</td><td></td></tr>
 <tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
 <tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>3</td><td></td></tr>
-<tr><td>餐桌</td><td>ikea 比约斯 伸缩型</td><td>1</td><td></td></tr>
+<tr><td>客厅书隔板</td><td>ikea 拉克 1.1米</td><td>5</td><td></td></tr>
+<tr><td>客厅电视柜隔板</td><td>ikea 拉克 1.9米</td><td>2</td><td></td></tr>
+<tr><td>餐厅隔板</td><td>ikea 拉克 1.1米</td><td>6</td><td></td></tr>
+<tr><td>餐桌</td><td>ikea 比约斯/斯多纳 伸缩型</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td></td></tr>
+<tr><td>厨房隔板</td><td>ikea 格兰代 0.8米</td><td>6</td><td></td></tr>
 <tr><td>鞋柜</td><td></td><td>1</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗4米</td><td>8</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
+<tr><td>储藏室隔板</td><td> </td><td>4</td><td></td></tr>
 <tr><td>书房墙轨</td><td>海蒂诗4米＋2米</td><td>4</td><td></td></tr>
+<tr><td>书房隔板</td><td></td><td>8+3</td><td></td></tr>
 <tr><td>晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
