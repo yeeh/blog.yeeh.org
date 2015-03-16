@@ -16,7 +16,8 @@ tags: 装修
 <tr><td>地漏三通</td><td>潜水艇</td><td>1</td><td>12</td></tr>
 <tr><td>生料带</td><td>潜水艇</td><td>5</td><td>29.9</td></tr>
 <tr><td>洗衣机水龙头</td><td>潜水艇</td><td>1</td><td>49</td></tr>
-<tr><td>前置</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
+<tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
+<tr><td>水净化</td><td></td><td>1</td><td></td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
@@ -99,7 +100,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>封阳台</td><td></td><td>2</td><td></td></tr>
+<tr><td>封阳台</td><td>凤铝</td><td>2</td><td></td></tr>
 <tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
 <tr><td>卧室门</td><td></td><td>4</td><td></td></tr>
 <tr><td>厕所门</td><td></td><td>2</td><td></td></tr>
@@ -136,7 +137,7 @@ tags: 装修
 <tr><td>阳台</td><td></td><td>2</td><td></td></tr>
 <tr><td>厕所镜</td><td>ikea 司铎约</td><td>2</td><td></td></tr>
 <tr><td>门边镜</td><td>ikea 斯塔贝壳/法拉科纳</td><td>1</td><td></td></tr>
-<tr><td>橱柜</td><td></td><td>1</td><td></td></tr>
+<tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
 <tr><td>淋浴房</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
