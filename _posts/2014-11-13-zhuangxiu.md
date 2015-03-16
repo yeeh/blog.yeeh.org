@@ -162,7 +162,7 @@ tags: 装修
 <tr><td>燃气灶</td><td>方太 HA21BE</td><td>1</td><td>2500</td></tr>
 <tr><td>消毒柜</td><td>方太 40QE</td><td>1</td><td>3099</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
-<tr><td>热水器</td><td>能率 GQ-1680CAFE</td><td>1</td><td></td></tr>
+<tr><td>热水器</td><td>林内RUS-R16E65ARF/能率GQ-1680CAFE</td><td>1</td><td></td></tr>
 <tr><td>热水循环</td><td>能率</td><td>1</td><td></td></tr>
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
