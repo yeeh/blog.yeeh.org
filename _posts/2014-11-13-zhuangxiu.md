@@ -169,9 +169,12 @@ tags: 装修
 <tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td></td></tr>
 <tr><td>空气净化</td><td>霍尼韦尔 FC400</td><td>1</td><td></td></tr>
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
-<tr><td>集成空调(客餐厅)</td><td>格力 3匹</td><td>1</td><td></td></tr>
-<tr><td>壁挂空调(卧室)</td><td></td><td>3</td><td></td></tr>
-<tr><td>壁挂空调(书房)</td><td></td><td>1</td><td></td></tr>
+<tr><td>中央空调(外机)</td><td>格力GMV-H160WL/A</td><td>1</td><td></td></tr>
+<tr><td>中央空调(客厅)</td><td>格力GMV-NHR50PL/A</td><td>1</td><td></td></tr>
+<tr><td>中央空调(餐厅)</td><td>格力GMV-NHR25PL/A</td><td>1</td><td></td></tr>
+<tr><td>壁挂空调(卧室)</td><td>格力GMV-NHR32PL/A</td><td>2</td><td></td></tr>
+<tr><td>壁挂空调(卧室)</td><td>格力GMV-NHR22PL/A</td><td>1</td><td></td></tr>
+<tr><td>壁挂空调(书房)</td><td>格力GMV-NHR22PL/A</td><td>1</td><td></td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
 <tr><td>浴室风暖</td><td>松下 FV-30BK1C</td><td>2</td><td></td></tr>
