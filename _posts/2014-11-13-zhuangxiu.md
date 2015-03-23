@@ -260,6 +260,7 @@ tags: 装修
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>茶几</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
+<tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
