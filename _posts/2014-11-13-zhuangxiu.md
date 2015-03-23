@@ -123,12 +123,9 @@ tags: 装修
 <tbody>
 <tr><td>地板</td><td>Kaindl 3720</td><td>80</td><td></td></tr>
 <tr><td>地垫宝</td><td>法宁格 20mm</td><td>80</td><td></td></tr>
-<tr><td>厨房地砖</td><td>东鹏</td><td></td><td></td></tr>
-<tr><td>厨房墙砖</td><td>东鹏</td><td></td><td></td></tr>
-<tr><td>厨房墙砖</td><td>东鹏</td><td></td><td></td></tr>
-<tr><td>卫生间地砖</td><td>东鹏</td><td></td><td></td></tr>
-<tr><td>卫生间墙砖</td><td>东鹏</td><td></td><td></td></tr>
-<tr><td>阳台地砖</td><td>东鹏</td><td></td><td></td></tr>
+<tr><td>厨房地砖</td><td>东鹏 YF633403</td><td></td><td></td></tr>
+<tr><td>卫生间地砖</td><td>东鹏 YF633405</td><td></td><td></td></tr>
+<tr><td>阳台地砖</td><td>东鹏 YF602205</td><td></td><td></td></tr>
 </tbody>
 </table>
 
@@ -136,8 +133,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房墙砖</td><td></td><td>1</td><td></td></tr>
-<tr><td>卫生间墙砖</td><td></td><td>2</td><td></td></tr>
+<tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td></td><td></td></tr>
+<tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td></td><td></td></tr>
+<tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>2</td><td></td></tr>
 <tr><td>卧室</td><td></td><td>3</td><td></td></tr>
 <tr><td>客厅</td><td></td><td>1</td><td></td></tr>
 <tr><td>阳台</td><td></td><td>2</td><td></td></tr>
@@ -146,7 +144,6 @@ tags: 装修
 <tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
 <tr><td>鞋柜</td><td>德意</td><td>1</td><td></td></tr>
 <tr><td>台盆柜</td><td>德意</td><td>2</td><td></td></tr>
-<tr><td>淋浴房</td><td></td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
@@ -166,9 +163,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>油烟机</td><td>方太 JQ01T</td><td>1</td><td>4000</td></tr>
-<tr><td>燃气灶</td><td>方太 HA21BE</td><td>1</td><td>2500</td></tr>
-<tr><td>消毒柜</td><td>方太 40QE</td><td>1</td><td>3099</td></tr>
+<tr><td>油烟机</td><td>方太 JQ02T.D</td><td>1</td><td>4000</td></tr>
+<tr><td>燃气灶</td><td>方太 HC3BE.D</td><td>1</td><td>2500</td></tr>
+<tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
 <tr><td>热水器</td><td>林内RUS-R16E65ARF/能率GQ-1680CAFE</td><td>1</td><td></td></tr>
