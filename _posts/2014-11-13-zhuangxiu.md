@@ -17,17 +17,17 @@ tags: 装修
 <tr><td>生料带</td><td>潜水艇</td><td>5</td><td>29.9</td></tr>
 <tr><td>洗衣机水龙头</td><td>潜水艇</td><td>1</td><td>49</td></tr>
 <tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
-<tr><td>水净化</td><td></td><td>1</td><td></td></tr>
+<tr><td>水净化</td><td></td><td></td><td></td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶</td><td>TOTO CW636CB/CW781B</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
-<tr><td>淋浴房</td><td></td><td>2</td><td></td></tr>
+<tr><td>淋浴房</td><td>科勒</td><td>2</td><td></td></tr>
 <tr><td>浴室置物架</td><td>TOTO</td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
-<tr><td>拖把池</td><td>米朗 B051 + TOTO DBS105龙头</td><td>1</td><td></td></tr>
+<tr><td>拖把池</td><td></td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>土耳其 皮尔萨 25mm 壁厚3.4mm</td><td></td><td></td></tr>
 </tbody>
 </table>
@@ -36,8 +36,12 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>强电箱</td><td>施耐德20回路</td><td></td><td></td></tr>
-<tr><td>空开</td><td>施耐德 C65套装</td><td>1</td><td>349</td></tr>
+<tr><td>强电箱</td><td>施耐德20回路</td><td>1</td><td>226.02</td></tr>
+<tr><td>空开</td><td>施耐德 C65 2p63a</td><td>1</td><td>127</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac16a</td><td>2</td><td>70</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac20a</td><td>4</td><td>152</td></tr>
+<tr><td>空开（空调室外/厨/卫2/阳台）</td><td>施耐德 vigi＋ dpna32a</td><td>5</td><td>548.3</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac40a</td><td>5</td><td>548.3</td></tr>
 <tr><td>暗盒</td><td>施耐德 S060</td><td>90</td><td>531</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>防溅盒</td><td>施耐德 E223DV</td><td>10</td><td></td></tr>
@@ -47,6 +51,27 @@ tags: 装修
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td></td></tr>
 <tr><td>线管</td><td>中财/联塑 pvc阻燃</td><td></td><td></td></tr>
 <tr><td>电线</td><td>熊猫</td><td></td><td></td></tr>
+</tbody>
+</table>
+
+###空开安排
+<table>
+<thead><tr><th>位置</th><th>安培</th><th>数量</th></tr></thead>
+<tbody>
+<tr><td>总－带漏电</td><td>63a</td><td>1</td></tr>
+<tr><td>灯－入户/南卧/客厅/主卧/主卫/南过道</td><td>16a</td><td>1</td></tr>
+<tr><td>灯－厨/餐厅/书房/北卧/客卫/北过道</td><td>16a</td><td>1</td></tr>
+<tr><td>插座－新风＋储藏</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－网络</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－餐厅</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－客厅</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－厨房－带漏电</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－阳台－带漏电</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－厕所+过道－带漏电</td><td>25a</td><td>2</td></tr>
+<tr><td>空调室外－带漏电</td><td>25a</td><td>1</td></tr>
+<tr><td>空调客餐厅</td><td>40a</td><td>1</td></tr>
+<tr><td>插座－卧室＋空调</td><td>40a</td><td>3</td></tr>
+<tr><td>插座－书房＋空调</td><td>40a</td><td>1</td></tr>
 </tbody>
 </table>
 
@@ -64,7 +89,7 @@ tags: 装修
 <tr><td>餐厅灯</td><td>ikea 克劳比 双盏吊灯</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
-<tr><td>筒灯</td><td>欧普</td><td>12</td><td></td></tr>
+<tr><td>筒灯</td><td>欧普</td><td>16</td><td></td></tr>
 <tr><td>灯带</td><td>欧普</td><td></td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>衣柜灯</td><td>ikea 茵瑞达/斯奇伯 照明条</td><td>20</td><td></td></tr>
@@ -136,9 +161,7 @@ tags: 装修
 <tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td></td><td></td></tr>
 <tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td></td><td></td></tr>
 <tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>2</td><td></td></tr>
-<tr><td>卧室</td><td></td><td>3</td><td></td></tr>
-<tr><td>客厅</td><td></td><td>1</td><td></td></tr>
-<tr><td>阳台</td><td></td><td>2</td><td></td></tr>
+<tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td></td></tr>
 <tr><td>厕所镜</td><td>ikea 司铎约</td><td>2</td><td></td></tr>
 <tr><td>门边镜</td><td>ikea 法拉科纳 30cm宽</td><td>1</td><td></td></tr>
 <tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
@@ -153,9 +176,7 @@ tags: 装修
 <tbody>
 <tr><td>厨房</td><td>集成吊顶</td><td>1</td><td></td></tr>
 <tr><td>卫生间</td><td>集成吊顶</td><td>2</td><td></td></tr>
-<tr><td>卧室</td><td></td><td></td><td></td></tr>
-<tr><td>餐厅</td><td></td><td></td><td></td></tr>
-<tr><td>客厅</td><td></td><td></td><td></td></tr>
+<tr><td>卧室＋客餐厅</td><td>吊顶</td><td></td><td></td></tr>
 </tbody>
 </table>
 
@@ -194,7 +215,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>弱电箱</td><td>e代家园</td><td>1</td><td></td></tr>
+<tr><td>弱电箱</td><td>e代家园 GRS11-40</td><td>1</td><td>198.8</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td></td></tr>
 <tr><td>网线</td><td>安普 6类</td><td>150</td><td></td></tr>
@@ -214,7 +235,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>2</td><td></td></tr>
+<tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
 <tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
@@ -249,9 +270,11 @@ tags: 装修
 <tr><td>餐桌</td><td>ikea 比约斯/斯多纳 伸缩型</td><td>1</td><td></td></tr>
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td></td></tr>
 <tr><td>厨房隔板</td><td>ikea 格兰代 0.8米</td><td>6</td><td></td></tr>
-<tr><td>储藏室墙轨</td><td>海蒂诗1米</td><td>4</td><td></td></tr>
+<tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
+<tr><td>储藏室墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
 <tr><td>储藏室隔板</td><td> </td><td>4</td><td></td></tr>
-<tr><td>书房墙轨</td><td>海蒂诗1米</td><td>6</td><td></td></tr>
+<tr><td>书房墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
+<tr><td>书房墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
 <tr><td>书房隔板</td><td></td><td>8+3</td><td></td></tr>
 <tr><td>阳台晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
 <tr><td>户外晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
@@ -276,7 +299,7 @@ tags: 装修
 <tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>空气炸锅</td><td>飞利浦</td><td>1</td><td></td></tr>
 <tr><td>榨汁机</td><td>美的</td><td>1</td><td><del>349</del></td></tr>
-<tr><td>电饼铛</td><td></td><td>1</td><td></td></tr>
+<tr><td>电饼铛</td><td></td><td>1</td><td><del>0</del></td></tr>
 <tr><td>电烤箱</td><td></td><td>1</td><td></td></tr>
 <tr><td>面包机</td><td></td><td>1</td><td></td></tr>
 <tr><td>咖啡机</td><td></td><td>1</td><td></td></tr>
