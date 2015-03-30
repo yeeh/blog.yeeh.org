@@ -65,10 +65,10 @@ tags: 装修
 <tr><td>插座－网络</td><td>20a</td><td>1</td></tr>
 <tr><td>插座－餐厅</td><td>20a</td><td>1</td></tr>
 <tr><td>插座－客厅</td><td>20a</td><td>1</td></tr>
-<tr><td>插座－厨房－带漏电</td><td>25a</td><td>1</td></tr>
-<tr><td>插座－阳台－带漏电</td><td>25a</td><td>1</td></tr>
-<tr><td>插座－厕所+过道－带漏电</td><td>25a</td><td>2</td></tr>
-<tr><td>空调室外－带漏电</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－厨房－带漏电</td><td>32a</td><td>1</td></tr>
+<tr><td>插座－阳台－带漏电</td><td>32a</td><td>1</td></tr>
+<tr><td>插座－厕所+过道－带漏电</td><td>32a</td><td>2</td></tr>
+<tr><td>空调室外－带漏电</td><td>32a</td><td>1</td></tr>
 <tr><td>空调客餐厅</td><td>40a</td><td>1</td></tr>
 <tr><td>插座－卧室＋空调</td><td>40a</td><td>3</td></tr>
 <tr><td>插座－书房＋空调</td><td>40a</td><td>1</td></tr>
