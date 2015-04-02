@@ -41,7 +41,7 @@ tags: 装修
 <tr><td>空开</td><td>施耐德 dpnac16a</td><td>2</td><td>70</td></tr>
 <tr><td>空开</td><td>施耐德 dpnac20a</td><td>4</td><td>152</td></tr>
 <tr><td>空开</td><td>施耐德 vigi＋ dpna32a</td><td>5</td><td>548.3</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac40a</td><td>5</td><td>548.3</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac40a</td><td>5</td><td>233.63</td></tr>
 <tr><td>暗盒</td><td>施耐德 S060</td><td>90</td><td>531</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>防溅盒</td><td>施耐德 E223DV</td><td>10</td><td></td></tr>
