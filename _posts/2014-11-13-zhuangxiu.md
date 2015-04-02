@@ -24,7 +24,7 @@ tags: 装修
 <tr><td>马桶</td><td>TOTO CW636CB/CW781B</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
 <tr><td>淋浴房</td><td>科勒</td><td>2</td><td></td></tr>
-<tr><td>浴室置物架</td><td>TOTO</td><td>4</td><td></td></tr>
+<tr><td>浴室挂架</td><td>TOTO</td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>拖把池</td><td></td><td>1</td><td></td></tr>
@@ -162,8 +162,9 @@ tags: 装修
 <tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td></td><td></td></tr>
 <tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>2</td><td></td></tr>
 <tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td></td></tr>
-<tr><td>厕所镜</td><td>ikea 司铎约</td><td>2</td><td></td></tr>
-<tr><td>门边镜</td><td>ikea 法拉科纳 30cm宽</td><td>1</td><td></td></tr>
+<tr><td>浴室镜</td><td>ikea 利兰根 702.103.54/toto LMCW751W</td><td>2</td><td></td></tr>
+<tr><td>浴室边镜</td><td>ikea 富拉克 001.819.82</td><td>2</td><td></td></tr>
+<tr><td>门边镜</td><td>ikea 伦德摩 802.518.53</td><td>1</td><td></td></tr>
 <tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
 <tr><td>鞋柜</td><td>德意</td><td>1</td><td></td></tr>
 <tr><td>台盆柜</td><td>德意</td><td>2</td><td></td></tr>
@@ -264,6 +265,7 @@ tags: 装修
 <tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
 <tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>3</td><td></td></tr>
+<tr><td>衣柜镜子</td><td>ikea 帕克思002.938.71</td><td>3</td><td></td></tr>
 <tr><td>客厅书隔板</td><td>ikea 拉克 1.1米</td><td>5</td><td></td></tr>
 <tr><td>客厅电视柜隔板</td><td>ikea 拉克 1.9米</td><td>2</td><td></td></tr>
 <tr><td>餐厅隔板</td><td>ikea 拉克 1.1米</td><td>6</td><td></td></tr>
