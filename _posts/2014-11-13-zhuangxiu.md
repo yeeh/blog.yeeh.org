@@ -21,14 +21,14 @@ tags: 装修
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>脸盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
-<tr><td>马桶</td><td>TOTO CW636CB/CW781B</td><td>2</td><td></td></tr>
+<tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
-<tr><td>淋浴房</td><td>科勒</td><td>2</td><td></td></tr>
-<tr><td>浴室挂架</td><td>TOTO</td><td>4</td><td></td></tr>
-<tr><td>厨房挂件</td><td></td><td>2</td><td></td></tr>
+<tr><td>淋浴房</td><td>科勒 17116/37466</td><td>2</td><td></td></tr>
+<tr><td>浴室挂架</td><td>科勒 </td><td>4</td><td></td></tr>
+<tr><td>厨房挂件</td><td>ikea </td><td>2</td><td></td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
-<tr><td>拖把池</td><td></td><td>1</td><td></td></tr>
-<tr><td>水管</td><td>土耳其 皮尔萨 25mm 壁厚3.4mm</td><td></td><td></td></tr>
+<tr><td>洗衣池/拖把池</td><td></td><td>1</td><td></td></tr>
+<tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td></td><td></td></tr>
 </tbody>
 </table>
 
@@ -48,8 +48,8 @@ tags: 装修
 <tr><td>开孔盒</td><td>松日</td><td>3</td><td></td></tr>
 <tr><td>空白盒</td><td>施耐德 丰尚</td><td>10</td><td></td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
-<tr><td>中途开关</td><td>施耐德</td><td>3</td><td></td></tr>
-<tr><td>线管</td><td>中财/联塑 pvc阻燃</td><td></td><td></td></tr>
+<tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
+<tr><td>线管</td><td>中财</td><td></td><td></td></tr>
 <tr><td>电线</td><td>熊猫</td><td></td><td></td></tr>
 </tbody>
 </table>
@@ -125,15 +125,16 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>封阳台</td><td>凤铝</td><td>2</td><td></td></tr>
+<tr><td>封阳台</td><td>凤铝 799 1.8mm</td><td>2</td><td></td></tr>
+<tr><td>窗户</td><td>凤铝 50</td><td>2</td><td></td></tr>
 <tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
 <tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
 <tr><td>电子猫眼</td><td></td><td>1</td><td></td></tr>
-<tr><td>卧室门</td><td></td><td>3</td><td></td></tr>
-<tr><td>厕所门</td><td></td><td>2</td><td></td></tr>
-<tr><td>厨房门</td><td>移门</td><td>1</td><td></td></tr>
-<tr><td>书房门</td><td>移门</td><td>1</td><td></td></tr>
-<tr><td>阳台门</td><td>移门</td><td>1</td><td></td></tr>
+<tr><td>卧室门</td><td>久聚 AQH-077 烤漆</td><td>3</td><td></td></tr>
+<tr><td>厕所门</td><td>久聚 AQH-080 烤漆</td><td>2</td><td></td></tr>
+<tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
+<tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
+<tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
 <tr><td>门锁</td><td>多灵 歌丽尔(右内开3，左内开2)</td><td>5</td><td></td></tr>
 <tr><td>合页/地吸</td><td>多灵 纯铜</td><td>5</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
@@ -208,7 +209,6 @@ tags: 装修
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td></td></tr>
 <tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
-<tr><td>卫洗丽</td><td>TOTO CES4731CS</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
