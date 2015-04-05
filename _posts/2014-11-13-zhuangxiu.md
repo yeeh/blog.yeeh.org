@@ -54,6 +54,49 @@ tags: 装修
 </tbody>
 </table>
 
+###开关分布
+<table>
+<thead><tr><th>位置</th><th>型号</th><th>数量</th></tr></thead>
+<tbody>
+<tr><td>厨房</td><td>三联单控</td><td>1</td></tr>
+<tr><td></td><td>单联双控</td><td>1</td></tr>
+<tr><td>餐厅</td><td>单联双控</td><td>3</td></tr>
+<tr><td></td><td>双联双控</td><td>2</td></tr>
+<tr><td>书房</td><td>单联单控</td><td>1</td></tr>
+<tr><td>客厅</td><td>双联双控</td><td>2</td></tr>
+<tr><td>阳台</td><td>单联单控</td><td>1</td></tr>
+<tr><td>主卧</td><td>单联双控</td><td>2</td></tr>
+<tr><td></td><td>中途开关</td><td>1</td></tr>
+<tr><td></td><td>单联单控</td><td>1</td></tr>
+<tr><td>北卧</td><td>单联双控</td><td>2</td></tr>
+<tr><td></td><td>中途开关</td><td>1</td></tr>
+<tr><td></td><td>单联单控</td><td>1</td></tr>
+<tr><td>客卧</td><td>单联双控</td><td>2</td></tr>
+<tr><td></td><td>中途开关</td><td>1</td></tr>
+<tr><td>主厕</td><td>双极开关</td><td>1</td></tr>
+<tr><td></td><td>双联单控</td><td>1</td></tr>
+<tr><td>客厕</td><td>双极开关</td><td>1</td></tr>
+<tr><td></td><td>双联单控</td><td>1</td></tr>
+<tr><td>南过道</td><td>单联单控</td><td>1</td></tr>
+<tr><td>北过道</td><td>单联单控</td><td>1</td></tr>
+</tbody>
+</table>
+
+###开关合计
+<table>
+<thead><tr><th>类型</th><th>数量</th></tr></thead>
+<tbody>
+<tr><td>三联单控</td><td>1</td></tr>
+<tr><td>单联单控</td><td>6</td></tr>
+<tr><td>单联双控</td><td>10</td></tr>
+<tr><td>双联单控</td><td>2</td></tr>
+<tr><td>双联双控</td><td>4</td></tr>
+<tr><td>中途开关</td><td>3</td></tr>
+<tr><td>双极开关</td><td>2</td></tr>
+</tbody>
+</table>
+
+
 ###空开安排
 <table>
 <thead><tr><th>位置</th><th>安培</th><th>数量</th></tr></thead>
@@ -84,19 +127,19 @@ tags: 装修
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
-<tr><td>厨房吊柜灯</td><td>ikea 照明条</td><td>3</td><td></td></tr>
+<tr><td>厨房吊柜灯</td><td>飞利浦 38112</td><td>2</td><td></td></tr>
 <tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
-<tr><td>餐厅灯</td><td>ikea 克劳比 双盏吊灯</td><td>1</td><td></td></tr>
+<tr><td>餐厅灯</td><td>ikea 克劳比</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
 <tr><td>筒灯</td><td>欧普</td><td>16</td><td></td></tr>
 <tr><td>灯带</td><td>欧普</td><td></td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
-<tr><td>衣柜灯</td><td>ikea 茵瑞达/斯奇伯 照明条</td><td>20</td><td></td></tr>
+<tr><td>衣柜灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 LED感应</td><td>9</td><td></td></tr>
-<tr><td>飘窗灯</td><td>ikea 莫恩达(小)</td><td>2</td><td></td></tr>
+<tr><td>飘窗灯</td><td>ikea 伊斯伯/维特</td><td>2</td><td></td></tr>
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
-<tr><td>床边台灯</td><td>ikea</td><td>5</td><td></td></tr>
+<tr><td>床边台灯</td><td>ikea 卡秋塔</td><td>5</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
 <tr><td>灯泡 e14</td><td>飞利浦</td><td></td><td></td></tr>
 <tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
@@ -131,7 +174,7 @@ tags: 装修
 <tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
 <tr><td>电子猫眼</td><td></td><td>1</td><td></td></tr>
 <tr><td>卧室门</td><td>久聚 AQH-077 烤漆</td><td>3</td><td></td></tr>
-<tr><td>厕所门</td><td>久聚 AQH-080 烤漆</td><td>2</td><td></td></tr>
+《粉r c<tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td></td></tr>
 <tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
 <tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
 <tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
@@ -148,7 +191,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>地板</td><td>Kaindl 3720</td><td>80</td><td></td></tr>
-<tr><td>地垫宝</td><td>法宁格 20mm</td><td>80</td><td></td></tr>
+<tr><td>地垫宝</td><td>法宁格 25mm</td><td>80</td><td></td></tr>
 <tr><td>厨房地砖</td><td>东鹏 YF633403</td><td></td><td></td></tr>
 <tr><td>卫生间地砖</td><td>东鹏 YF633405</td><td></td><td></td></tr>
 <tr><td>阳台地砖</td><td>东鹏 YF602205</td><td></td><td></td></tr>
@@ -163,7 +206,7 @@ tags: 装修
 <tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td></td><td></td></tr>
 <tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>2</td><td></td></tr>
 <tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td></td></tr>
-<tr><td>浴室镜</td><td>ikea 利兰根 702.103.54/toto LMCW751W</td><td>2</td><td></td></tr>
+<tr><td>浴室镜</td><td>箭牌 ayj348-a/apyjgap</td><td>2</td><td>950</td></tr>
 <tr><td>浴室边镜</td><td>ikea 富拉克 001.819.82</td><td>2</td><td></td></tr>
 <tr><td>门边镜</td><td>ikea 伦德摩 802.518.53</td><td>1</td><td></td></tr>
 <tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
@@ -176,8 +219,8 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房</td><td>集成吊顶</td><td>1</td><td></td></tr>
-<tr><td>卫生间</td><td>集成吊顶</td><td>2</td><td></td></tr>
+<tr><td>厨房</td><td>新飞 集成吊顶</td><td>1</td><td></td></tr>
+<tr><td>卫生间</td><td>新飞 集成吊顶</td><td>2</td><td></td></tr>
 <tr><td>卧室＋客餐厅</td><td>吊顶</td><td></td><td></td></tr>
 </tbody>
 </table>
