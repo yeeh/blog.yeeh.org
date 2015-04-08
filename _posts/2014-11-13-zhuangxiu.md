@@ -53,7 +53,7 @@ tags: 装修
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
 <tr><td>线管</td><td>中财</td><td></td><td></td></tr>
-<tr><td>电线</td><td>熊猫</td><td>1200米</td><td>4877.44</td></tr>
+<tr><td>电线</td><td>熊猫</td><td>1200米</td><td>4677.44</td></tr>
 </tbody>
 </table>
 
@@ -285,6 +285,7 @@ tags: 装修
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
 <tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
+<tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>3</td><td></td></tr>
 <tr><td>投影</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
