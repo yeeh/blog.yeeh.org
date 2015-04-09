@@ -266,7 +266,7 @@ tags: 装修
 <tr><td>网线</td><td>安普 6类</td><td>150</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
-<tr><td>交换机</td><td>netgear GS308</td><td>1</td><td><del>219</del></td></tr>
+<tr><td>交换机</td><td>netgear GS308/GS116E</td><td>1</td><td><del>219</del></td></tr>
 <tr><td>中继</td><td>apple airport express</td><td>1</td><td></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
