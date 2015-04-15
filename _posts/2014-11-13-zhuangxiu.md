@@ -96,8 +96,7 @@ tags: 装修
 <tr><td></td><td>双联单控</td><td>1</td></tr>
 <tr><td>客厕</td><td>双极开关</td><td>1</td></tr>
 <tr><td></td><td>双联单控</td><td>1</td></tr>
-<tr><td>南过道</td><td>单联单控</td><td>1</td></tr>
-<tr><td>北过道</td><td>单联单控</td><td>1</td></tr>
+<tr><td>南北过道</td><td>双联单控</td><td>1</td></tr>
 </tbody>
 </table>
 
@@ -106,9 +105,9 @@ tags: 装修
 <thead><tr><th>类型</th><th>数量</th></tr></thead>
 <tbody>
 <tr><td>三联单控</td><td>1</td></tr>
-<tr><td>单联单控</td><td>6</td></tr>
+<tr><td>单联单控</td><td>4</td></tr>
 <tr><td>单联双控</td><td>10</td></tr>
-<tr><td>双联单控</td><td>2</td></tr>
+<tr><td>双联单控</td><td>3</td></tr>
 <tr><td>双联双控</td><td>4</td></tr>
 <tr><td>中途开关</td><td>3</td></tr>
 <tr><td>双极开关</td><td>2</td></tr>
@@ -123,17 +122,17 @@ tags: 装修
 <tr><td>总－带漏电</td><td>63a</td><td>1</td></tr>
 <tr><td>灯－入户/南卧/客厅/主卧/主卫/南过道</td><td>16a</td><td>1</td></tr>
 <tr><td>灯－厨/餐厅/书房/北卧/客卫/北过道</td><td>16a</td><td>1</td></tr>
-<tr><td>插座－新风＋储藏</td><td>20a</td><td>1</td></tr>
-<tr><td>插座－网络</td><td>20a</td><td>1</td></tr>
-<tr><td>插座－餐厅</td><td>20a</td><td>1</td></tr>
-<tr><td>插座－客厅</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－新风</td><td>16a</td><td>1</td></tr>
+<tr><td>插座－网络＋储藏间</td><td>16a</td><td>1</td></tr>
+<tr><td>插座－卧室</td><td>20a</td><td>3</td></tr>
+<tr><td>插座－书房</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－餐厅</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－客厅</td><td>25a</td><td>1</td></tr>
 <tr><td>插座－厨房－带漏电</td><td>32a</td><td>1</td></tr>
 <tr><td>插座－阳台－带漏电</td><td>32a</td><td>1</td></tr>
 <tr><td>插座－厕所+过道－带漏电</td><td>32a</td><td>2</td></tr>
 <tr><td>空调室外－带漏电</td><td>32a</td><td>1</td></tr>
-<tr><td>空调客餐厅</td><td>40a</td><td>1</td></tr>
-<tr><td>插座－卧室＋空调</td><td>40a</td><td>3</td></tr>
-<tr><td>插座－书房＋空调</td><td>40a</td><td>1</td></tr>
+<tr><td>空调室内</td><td>40a</td><td>1</td></tr>
 </tbody>
 </table>
 
@@ -282,6 +281,7 @@ tags: 装修
 <tbody>
 <tr><td>音频线</td><td>熊猫 100股 100米</td><td>1</td><td>360.56</td></tr>
 <tr><td>hdmi线</td><td>霍尼韦尔 G3075</td><td>1</td><td>99</td></tr>
+<tr><td>卫星电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
 <tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
