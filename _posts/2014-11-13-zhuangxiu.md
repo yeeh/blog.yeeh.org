@@ -39,15 +39,17 @@ tags: 装修
 <tbody>
 <tr><td>强电箱</td><td>施耐德 20回路</td><td>1</td><td>226.02</td></tr>
 <tr><td>空开</td><td>施耐德 C65 2p63a</td><td>1</td><td>127</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac16a</td><td>2</td><td>70</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac16a</td><td>4</td><td>143.68</td></tr>
 <tr><td>空开</td><td>施耐德 dpnac20a</td><td>4</td><td>152</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac25a</td><td>2</td><td>93.96</td></tr>
 <tr><td>空开</td><td>施耐德 vigi＋ dpna32a</td><td>5</td><td>548.3</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac40a</td><td>5</td><td>233.63</td></tr>
-<tr><td>暗盒</td><td>施耐德 S060</td><td>90</td><td>531</td></tr>
+<tr><td>空开</td><td>施耐德 dpnac40a</td><td>1</td><td>41.27</td></tr>
+<tr><td>暗盒</td><td>施耐德 S060</td><td>140</td><td>860.5</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>开关</td><td>施耐德 丰尚</td><td>7</td><td>100</td></tr>
-<tr><td>插座</td><td>施耐德 丰尚</td><td>26</td><td>364</td></tr>
-<tr><td>防溅盒</td><td>施耐德 E223DV</td><td>10</td><td></td></tr>
+<tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>26</td><td>364</td></tr>
+<tr><td>插座</td><td>施耐德 丰尚 4孔</td><td>5</td><td>79.85</td></tr>
+<tr><td>防溅盒</td><td>施耐德 E223DV</td><td>8</td><td>101.52</td></tr>
 <tr><td>开孔盒</td><td>松日</td><td>2</td><td></td></tr>
 <tr><td>空白盒</td><td>施耐德 丰尚</td><td>10</td><td></td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
@@ -259,7 +261,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>弱电箱</td><td>e代家园 GRS11-40</td><td>1</td><td>198.8</td></tr>
-<tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>7</td><td></td></tr>
+<tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>7</td><td>664.79</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚单孔</td><td>4</td><td></td></tr>
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td></td></tr>
 <tr><td>网线</td><td>安普 6类</td><td>150</td><td></td></tr>
@@ -282,9 +284,10 @@ tags: 装修
 <tr><td>音频线</td><td>熊猫 100股 100米</td><td>1</td><td>360.56</td></tr>
 <tr><td>hdmi线</td><td>霍尼韦尔 G3075</td><td>1</td><td>99</td></tr>
 <tr><td>卫星电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
-<tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td></td></tr>
+<tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td>394.6</td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td></td></tr>
-<tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
+<tr><td>电视插座</td><td>施耐德 丰尚</td><td>5</td><td>121</td></tr>
+<tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td>358.32</td></tr>
 <tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>3</td><td></td></tr>
