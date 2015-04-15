@@ -102,7 +102,7 @@ tags: 装修
 </tbody>
 </table>
 
-###开关合计 数量28
+###开关合计 数量27
 <table>
 <thead><tr><th>类型</th><th>数量</th></tr></thead>
 <tbody>
