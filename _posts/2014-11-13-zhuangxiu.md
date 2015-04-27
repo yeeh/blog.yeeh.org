@@ -44,7 +44,7 @@ tags: 装修
 <tr><td>空开</td><td>施耐德 dpnac25a</td><td>2</td><td>93.96</td></tr>
 <tr><td>空开</td><td>施耐德 vigi＋ dpna32a</td><td>5</td><td>548.3</td></tr>
 <tr><td>空开</td><td>施耐德 dpnac40a</td><td>1</td><td>41.27</td></tr>
-<tr><td>暗盒</td><td>施耐德 S060</td><td>140</td><td>860.5</td></tr>
+<tr><td>暗盒</td><td>施耐德 S060</td><td>170</td><td>1056.84</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>开关</td><td>施耐德 丰尚</td><td>7</td><td>100</td></tr>
 <tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>26</td><td>364</td></tr>
@@ -55,7 +55,7 @@ tags: 装修
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
 <tr><td>线管</td><td>中财</td><td></td><td></td></tr>
-<tr><td>电线</td><td>熊猫</td><td>1200米</td><td>4677.44</td></tr>
+<tr><td>电线</td><td>熊猫</td><td>1550米</td><td>5427.44</td></tr>
 </tbody>
 </table>
 
@@ -69,8 +69,10 @@ tags: 装修
 <tr><td>4平方</td><td>红色</td><td>200</td></tr>
 <tr><td></td><td>蓝色</td><td>200</td></tr>
 <tr><td></td><td>黄绿双色</td><td>200</td></tr>
-<tr><td>2.5平方</td><td>红色</td><td>200</td></tr>
-<tr><td></td><td>蓝色</td><td>100</td></tr>
+<tr><td>2.5平方</td><td>红色</td><td>250</td></tr>
+<tr><td></td><td>绿色</td><td>100</td></tr>
+<tr><td></td><td>黄色</td><td>100</td></tr>
+<tr><td></td><td>蓝色</td><td>150</td></tr>
 </tbody>
 </table>
 
@@ -247,6 +249,7 @@ tags: 装修
 <tr><td>空调(卧室)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
 <tr><td>空调(书房)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
 <tr><td>安装</td><td>－－</td><td>1</td><td>8900</td></tr>
+<tr><td>安装改线路</td><td>－－</td><td>1</td><td>2800</td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
 <tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td></td></tr>
