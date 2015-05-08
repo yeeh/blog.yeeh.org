@@ -55,7 +55,7 @@ tags: 装修
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
 <tr><td>线管</td><td>中财</td><td></td><td></td></tr>
-<tr><td>电线</td><td>熊猫</td><td>1550米</td><td>5427.44</td></tr>
+<tr><td>电线</td><td>熊猫</td><td>1650米</td><td>5820.41</td></tr>
 </tbody>
 </table>
 
@@ -66,8 +66,8 @@ tags: 装修
 <tr><td>6平方</td><td>红色</td><td>100</td></tr>
 <tr><td></td><td>蓝色</td><td>100</td></tr>
 <tr><td></td><td>黄绿双色</td><td>100</td></tr>
-<tr><td>4平方</td><td>红色</td><td>200</td></tr>
-<tr><td></td><td>蓝色</td><td>200</td></tr>
+<tr><td>4平方</td><td>红色</td><td>250</td></tr>
+<tr><td></td><td>蓝色</td><td>250</td></tr>
 <tr><td></td><td>黄绿双色</td><td>200</td></tr>
 <tr><td>2.5平方</td><td>红色</td><td>250</td></tr>
 <tr><td></td><td>绿色</td><td>100</td></tr>
@@ -126,7 +126,7 @@ tags: 装修
 <tr><td>总－带漏电</td><td>63a</td><td>1</td></tr>
 <tr><td>灯－入户/南卧/客厅/主卧/主卫/南过道</td><td>16a</td><td>1</td></tr>
 <tr><td>灯－厨/餐厅/书房/北卧/客卫/北过道</td><td>16a</td><td>1</td></tr>
-<tr><td>插座－新风</td><td>16a</td><td>1</td></tr>
+<tr><td>插座－新风＋冰箱</td><td>16a</td><td>1</td></tr>
 <tr><td>插座－网络＋储藏间</td><td>16a</td><td>1</td></tr>
 <tr><td>插座－卧室</td><td>20a</td><td>3</td></tr>
 <tr><td>插座－书房</td><td>20a</td><td>1</td></tr>
@@ -151,7 +151,7 @@ tags: 装修
 <tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
 <tr><td>厨房吊柜灯</td><td>飞利浦 38112</td><td>2</td><td></td></tr>
 <tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
-<tr><td>餐厅灯</td><td>ikea 克劳比</td><td>1</td><td></td></tr>
+<tr><td>餐厅灯</td><td>ikea 布里萨/克劳比</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
 <tr><td>筒灯</td><td>欧普</td><td>10</td><td></td></tr>
@@ -320,8 +320,8 @@ tags: 装修
 <tr><td>客厅书隔板</td><td>ikea 拉克 1.1米</td><td>5</td><td></td></tr>
 <tr><td>客厅电视柜隔板</td><td>ikea 拉克 1.9米</td><td>2</td><td></td></tr>
 <tr><td>餐厅隔板</td><td>ikea 拉克 1.1米</td><td>6</td><td></td></tr>
-<tr><td>餐桌</td><td>ikea 比约斯/斯多纳 伸缩型</td><td>1</td><td></td></tr>
-<tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td></td></tr>
+<tr><td>餐桌</td><td>ikea 斯多纳</td><td>1</td><td></td></tr>
+<tr><td>餐椅</td><td>ikea 卡思比</td><td>4</td><td></td></tr>
 <tr><td>厨房隔板</td><td>ikea 格兰代 0.8米</td><td>6</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
@@ -334,7 +334,7 @@ tags: 装修
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
-<tr><td>茶几</td><td>ikea</td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td>ikea 斯德歌尔摩</td><td>1</td><td></td></tr>
 <tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 </tbody>
