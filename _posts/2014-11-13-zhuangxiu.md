@@ -248,7 +248,7 @@ tags: 装修
 <tr><td>空调(书房)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
 <tr><td>安装</td><td>－－</td><td>1</td><td>8900</td></tr>
 <tr><td>安装改线路</td><td>－－</td><td>1</td><td>2800</td></tr>
-<tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td></td></tr>
+<tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td>6999</td></tr>
 <tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
 <tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
@@ -289,7 +289,7 @@ tags: 装修
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td>315.68</td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td>358.32</td></tr>
 <tr><td>电视插座</td><td>施耐德 丰尚</td><td>5</td><td>121</td></tr>
-<tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td>358.32</td></tr>
+<tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
 <tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>3</td><td></td></tr>
