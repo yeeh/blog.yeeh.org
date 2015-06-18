@@ -172,11 +172,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>封阳台</td><td>凤铝 799 1.8mm</td><td>2</td><td></td></tr>
-<tr><td>窗户</td><td>凤铝 50</td><td>6</td><td></td></tr>
+<tr><td>封阳台</td><td>凤铝 799 1.8mm</td><td>2</td><td>8000</td></tr>
+<tr><td>窗户</td><td>凤铝 50</td><td>6</td><td>9000</td></tr>
 <tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
-<tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
-<tr><td>电子猫眼</td><td></td><td>1</td><td></td></tr>
 <tr><td>卧室门</td><td>久聚 AQH-077 烤漆</td><td>3</td><td></td></tr>
 <tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td></td></tr>
 <tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
@@ -267,16 +265,17 @@ tags: 装修
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>7</td><td>664.79</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚单孔</td><td>4</td><td>0</td></tr>
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td></td></tr>
-<tr><td>网线</td><td>安普 6类</td><td>150</td><td></td></tr>
+<tr><td>网线</td><td>安普 6类</td><td>120</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS308/GS116E</td><td>1</td><td><del>219</del></td></tr>
 <tr><td>中继</td><td>apple airport express</td><td>1</td><td></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
-<tr><td>摄像头</td><td>小蚁</td><td>1</td><td>149</td></tr>
-<tr><td>摄像头</td><td></td><td>1</td><td></td></tr>
-<tr><td>硬盘机</td><td>nvr 泡泡云</td><td>1</td><td></td></tr>
+<tr><td>硬盘机</td><td>小米 路由</td><td>1</td><td>699</td></tr>
+<tr><td>摄像头</td><td>小米</td><td>2</td><td>298</td></tr>
+<tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
+<tr><td>猫眼</td><td>移康智能 叮咚mini</td><td>1</td><td>479</td></tr>
 </tbody>
 </table>
 
