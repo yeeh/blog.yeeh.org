@@ -249,7 +249,7 @@ tags: 装修
 <tr><td>安装</td><td>－－</td><td>1</td><td>8900</td></tr>
 <tr><td>安装改线路</td><td>－－</td><td>1</td><td>2800</td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td>6999</td></tr>
-<tr><td>洗衣机</td><td>LG WD-T12410D/T12411DN</td><td>1</td><td></td></tr>
+<tr><td>洗衣机</td><td>LG WD-T14410DL</td><td>1</td><td>2899</td></tr>
 <tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td></td></tr>
