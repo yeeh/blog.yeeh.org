@@ -154,14 +154,14 @@ tags: 装修
 <tr><td>餐厅灯</td><td>ikea 布里萨/克劳比</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
-<tr><td>筒灯</td><td>欧普</td><td>10</td><td></td></tr>
-<tr><td>灯带</td><td>欧普</td><td>22米</td><td></td></tr>
+<tr><td>筒灯</td><td>欧普 6cm 3w</td><td>10</td><td></td></tr>
+<tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>21米</td><td></td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 感应</td><td>9</td><td></td></tr>
 <tr><td>飘窗灯</td><td>ikea 伊斯伯/维特</td><td>2</td><td></td></tr>
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
-<tr><td>床边台灯</td><td>ikea 卡秋塔</td><td>5</td><td></td></tr>
+<tr><td>床边台灯</td><td>小米 床头灯</td><td>4</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
 <tr><td>灯泡 e14</td><td>飞利浦</td><td></td><td></td></tr>
 <tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
@@ -248,7 +248,7 @@ tags: 装修
 <tr><td>空调(书房)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
 <tr><td>安装</td><td>－－</td><td>1</td><td>8900</td></tr>
 <tr><td>安装改线路</td><td>－－</td><td>1</td><td>2800</td></tr>
-<tr><td>冰箱</td><td>松下 NR-W56S1 白</td><td>1</td><td>6999</td></tr>
+<tr><td>冰箱</td><td>松下 NR-W56S1</td><td>1</td><td>6999</td></tr>
 <tr><td>洗衣机</td><td>LG WD-T14410DL</td><td>1</td><td>2899</td></tr>
 <tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td></td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
