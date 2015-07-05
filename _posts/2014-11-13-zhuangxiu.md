@@ -24,12 +24,12 @@ tags: 装修
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
-<tr><td>淋浴房</td><td>科勒 17116/37466</td><td>2</td><td></td></tr>
+<tr><td>淋浴房</td><td>绿叶</td><td>2</td><td>3500</td></tr>
 <tr><td>浴室挂架</td><td>科勒 </td><td>4</td><td></td></tr>
 <tr><td>厨房挂件</td><td>ikea </td><td>2</td><td></td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>洗衣架</td><td></td><td>1</td><td></td></tr>
-<tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td></td><td></td></tr>
+<tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td></td></tr>
 </tbody>
 </table>
 
@@ -39,6 +39,8 @@ tags: 装修
 <tbody>
 <tr><td>强电箱</td><td>施耐德 20回路</td><td>1</td><td>226.02</td></tr>
 <tr><td>空开</td><td>施耐德 C65 2p63a</td><td>1</td><td>127</td></tr>
+<tr><td>过欠压</td><td>施耐德 2p63a</td><td>1</td><td>299</td></tr>
+<tr><td>汇流排</td><td>施耐德</td><td>1</td><td>84</td></tr>
 <tr><td>空开</td><td>施耐德 dpnac16a</td><td>4</td><td>143.68</td></tr>
 <tr><td>空开</td><td>施耐德 dpnac20a</td><td>4</td><td>152</td></tr>
 <tr><td>空开</td><td>施耐德 dpnac25a</td><td>2</td><td>93.96</td></tr>
@@ -50,12 +52,12 @@ tags: 装修
 <tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>26</td><td>364</td></tr>
 <tr><td>插座</td><td>施耐德 丰尚 4孔</td><td>5</td><td>79.85</td></tr>
 <tr><td>防溅盒</td><td>施耐德 E223DV</td><td>8</td><td>101.52</td></tr>
-<tr><td>开孔盒</td><td>松日</td><td>2</td><td></td></tr>
+<tr><td>开孔盒</td><td>施耐德</td><td>2</td><td></td></tr>
 <tr><td>空白盒</td><td>施耐德 丰尚</td><td>10</td><td></td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
-<tr><td>线管</td><td>中财</td><td></td><td></td></tr>
-<tr><td>电线</td><td>熊猫</td><td>1650米</td><td>5820.41</td></tr>
+<tr><td>线管</td><td>中财</td><td>500</td><td></td></tr>
+<tr><td>电线</td><td>熊猫</td><td>1600米</td><td>5700.41</td></tr>
 </tbody>
 </table>
 
@@ -148,13 +150,13 @@ tags: 装修
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
-<tr><td>厨房吊柜灯</td><td>飞利浦 38112</td><td>2</td><td></td></tr>
+<tr><td>厨房吊柜灯</td><td>飞利浦 38112</td><td>2</td><td>196</td></tr>
 <tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
 <tr><td>餐厅灯</td><td>ikea 布里萨/克劳比</td><td>1</td><td></td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
-<tr><td>筒灯</td><td>欧普 6cm 3w</td><td>10</td><td></td></tr>
-<tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>21米</td><td></td></tr>
+<tr><td>筒灯</td><td>欧普 6cm 3w</td><td>10</td><td>299</td></tr>
+<tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>22米</td><td>258.5</td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 感应</td><td>9</td><td></td></tr>
@@ -249,7 +251,7 @@ tags: 装修
 <tr><td>安装改线路</td><td>－－</td><td>1</td><td>2800</td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1</td><td>1</td><td>6999</td></tr>
 <tr><td>洗衣机</td><td>LG WD-T14410DL</td><td>1</td><td>2899</td></tr>
-<tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td></td></tr>
+<tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td>3398</td></tr>
 <tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td></td></tr>
 <tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
