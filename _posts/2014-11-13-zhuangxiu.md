@@ -53,7 +53,7 @@ tags: 装修
 <tr><td>插座</td><td>施耐德 丰尚 4孔</td><td>5</td><td>79.85</td></tr>
 <tr><td>防溅盒</td><td>施耐德 E223DV</td><td>8</td><td>101.52</td></tr>
 <tr><td>开孔盒</td><td>施耐德</td><td>2</td><td></td></tr>
-<tr><td>空白盒</td><td>施耐德 丰尚</td><td>10</td><td></td></tr>
+<tr><td>空白盒</td><td>施耐德</td><td>10</td><td></td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
 <tr><td>线管</td><td>中财</td><td>500</td><td></td></tr>
@@ -176,11 +176,11 @@ tags: 装修
 <tr><td>封阳台</td><td>凤铝 799 1.8mm</td><td>2</td><td>8000</td></tr>
 <tr><td>窗户</td><td>凤铝 50</td><td>6</td><td>9000</td></tr>
 <tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
-<tr><td>卧室门</td><td>久聚 AQH-077 烤漆</td><td>3</td><td></td></tr>
-<tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td></td></tr>
-<tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
-<tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
-<tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td></td></tr>
+<tr><td>卧室门</td><td>久聚 AQH-077</td><td>3</td><td>3750</td></tr>
+<tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td>2700</td></tr>
+<tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td>700</td></tr>
+<tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td>800</td></tr>
+<tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td>1160</td></tr>
 <tr><td>门锁</td><td>多灵 歌丽尔(右内开3，左内开2)</td><td>5</td><td></td></tr>
 <tr><td>合页/地吸</td><td>多灵 纯铜</td><td>5</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
@@ -195,9 +195,9 @@ tags: 装修
 <tbody>
 <tr><td>地板</td><td>Kaindl 3720</td><td>80</td><td></td></tr>
 <tr><td>地垫宝</td><td>法宁格 25mm</td><td>80</td><td></td></tr>
-<tr><td>厨房地砖</td><td>东鹏 YF633403</td><td></td><td></td></tr>
-<tr><td>卫生间地砖</td><td>东鹏 YF633405</td><td></td><td></td></tr>
-<tr><td>阳台地砖</td><td>东鹏 YF602205</td><td></td><td></td></tr>
+<tr><td>厨房地砖</td><td>东鹏 YF633403</td><td>--</td><td>1500</td></tr>
+<tr><td>卫生间地砖</td><td>东鹏 YF633405</td><td>--</td><td>2500</td></tr>
+<tr><td>阳台地砖</td><td>东鹏 YF602205</td><td>--</td><td>1000</td></tr>
 </tbody>
 </table>
 
@@ -205,9 +205,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td></td><td></td></tr>
-<tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td></td><td></td></tr>
-<tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>2</td><td></td></tr>
+<tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td>--</td><td>2000</td></tr>
+<tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td>--</td><td>1000</td></tr>
+<tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>--</td><td>3000</td></tr>
 <tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td></td></tr>
 <tr><td>门边镜</td><td>ikea 伦德摩 802.518.53</td><td>1</td><td></td></tr>
 <tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
@@ -219,9 +219,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房</td><td>新飞 集成吊顶</td><td>1</td><td></td></tr>
-<tr><td>卫生间</td><td>新飞 集成吊顶</td><td>2</td><td></td></tr>
-<tr><td>卧室＋客餐厅</td><td>吊顶</td><td></td><td></td></tr>
+<tr><td>厨房</td><td>集成吊顶</td><td>1</td><td>2000</td></tr>
+<tr><td>卫生间</td><td>集成吊顶</td><td>2</td><td>2000</td></tr>
+<tr><td>卧室＋客餐厅</td><td>吊顶</td><td>--</td><td>--</td></tr>
 </tbody>
 </table>
 
