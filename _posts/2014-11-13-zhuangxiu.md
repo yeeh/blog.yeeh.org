@@ -25,8 +25,11 @@ tags: 装修
 <tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
 <tr><td>淋浴房</td><td>绿叶</td><td>2</td><td>3500</td></tr>
-<tr><td>浴室挂架</td><td>科勒 </td><td>4</td><td></td></tr>
-<tr><td>厨房挂件</td><td>ikea </td><td>2</td><td></td></tr>
+<tr><td>双层角蓝</td><td>摩恩 90102</td><td>3</td><td>761.74</td></tr>
+<tr><td>单层毛巾架</td><td>摩恩 aac1303</td><td>2</td><td>252.6</td></tr>
+<tr><td>双层毛巾架</td><td>摩恩 aac1301</td><td>3</td><td>907.6</td></tr>
+<tr><td>双杆毛巾架</td><td>摩恩 aac9927</td><td>1</td><td>455</td></tr>
+<tr><td>调料架</td><td>摩恩 kac010sl</td><td>1</td><td>292.75</td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>洗衣架</td><td></td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td></td></tr>
@@ -152,7 +155,7 @@ tags: 装修
 <tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
 <tr><td>厨房吊柜灯</td><td>飞利浦 38112</td><td>2</td><td>196</td></tr>
 <tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
-<tr><td>餐厅灯</td><td>ikea 布里萨/克劳比</td><td>1</td><td></td></tr>
+<tr><td>餐厅灯</td><td>ikea 布里萨</td><td>1</td><td>249</td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
 <tr><td>筒灯</td><td>欧普 6cm 3w</td><td>10</td><td>299</td></tr>
@@ -160,7 +163,8 @@ tags: 装修
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 感应</td><td>9</td><td></td></tr>
-<tr><td>飘窗灯</td><td>ikea 伊斯伯/维特</td><td>2</td><td></td></tr>
+<tr><td>飘窗灯</td><td>ikea 麦勒迪</td><td>1</td><td>39.9</td></tr>
+<tr><td>飘窗灯</td><td>ikea 布洛玛</td><td>2</td><td>39.9</td></tr>
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
 <tr><td>床边台灯</td><td>小米 床头灯</td><td>4</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
@@ -329,8 +333,8 @@ tags: 装修
 <tr><td>书房墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
 <tr><td>书房墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
 <tr><td>书房隔板</td><td></td><td>8+3</td><td></td></tr>
-<tr><td>阳台晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
-<tr><td>户外晾衣架</td><td>好太太</td><td>1</td><td></td></tr>
+<tr><td>阳台晾衣架</td><td></td><td>1</td><td>788</td></tr>
+<tr><td>户外晾衣架</td><td></td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
