@@ -19,7 +19,7 @@ tags: 装修
 <tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>台盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
-<tr><td>台盆柜</td><td>德意</td><td>2</td><td></td></tr>
+<tr><td>台盆柜</td><td>德意</td><td>2</td><td>4000</td></tr>
 <tr><td>浴室镜</td><td>箭牌 ayj348-a/apyjgap</td><td>2</td><td>950</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
@@ -214,8 +214,8 @@ tags: 装修
 <tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>--</td><td>3000</td></tr>
 <tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td></td></tr>
 <tr><td>门边镜</td><td>ikea 伦德摩 802.518.53</td><td>1</td><td></td></tr>
-<tr><td>橱柜</td><td>德意</td><td>1</td><td></td></tr>
-<tr><td>鞋柜</td><td>德意</td><td>1</td><td></td></tr>
+<tr><td>橱柜</td><td>德意</td><td>1</td><td>15000</td></tr>
+<tr><td>鞋柜</td><td>德意</td><td>1</td><td>3000</td></tr>
 </tbody>
 </table>
 
@@ -253,11 +253,13 @@ tags: 装修
 <tr><td>空调(书房)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
 <tr><td>安装</td><td>－－</td><td>1</td><td>8900</td></tr>
 <tr><td>安装改线路</td><td>－－</td><td>1</td><td>2800</td></tr>
+<tr><td>空调外罩</td><td>－</td><td>1</td><td>100</td></tr>
 <tr><td>冰箱</td><td>松下 NR-W56S1</td><td>1</td><td>6999</td></tr>
 <tr><td>洗衣机</td><td>LG WD-T14410DL</td><td>1</td><td>2899</td></tr>
 <tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td>3398</td></tr>
-<tr><td>小厨宝</td><td></td><td>2</td><td></td></tr>
-<tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td></td></tr>
+<tr><td>小厨宝</td><td></td><td></td><td></td></tr>
+<tr><td>自动皂液器</td><td>欧碧宝 老款1＋新款2</td><td>3</td><td>492</td></tr>
+<tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td>3930</td></tr>
 <tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
 </tbody>
 </table>
