@@ -81,6 +81,30 @@ tags: 装修
 </tbody>
 </table>
 
+###暗盒分布
+<table>
+<thead><tr><th>位置</th><th>分布</th><th>合计数量</th></tr></thead>
+<tbody>
+<tr><td>空调</td><td></td><td>6</td></tr>
+<tr><td>新风</td><td></td><td>1</td></tr>
+<tr><td>开关</td><td></td><td>27</td></tr>
+<tr><td>音箱</td><td></td><td>12</td></tr>
+<tr><td>网络</td><td>9备份2</td><td>11</td></tr>
+<tr><td>有线电视</td><td></td><td>4</td></tr>
+<tr><td>卫星电视</td><td></td><td>1</td></tr>
+<tr><td>璧脚灯</td><td></td><td>2</td></tr>
+<tr><td>厨房</td><td>上4中8下6备份2</td><td>20</td></tr>
+<tr><td>储藏间</td><td></td><td>4</td></tr>
+<tr><td>大门</td><td></td><td>1</td></tr>
+<tr><td>南阳台</td><td>左右各1</td><td>2</td></tr>
+<tr><td>北阳台</td><td>上2下2</td><td>4</td></tr>
+<tr><td>卧室</td><td>（电视3+床边4+角落1）×3</td><td>24</td></tr>
+<tr><td>客厅</td><td>大音响1 低音炮1 背景墙8 投影1 幕布1</td><td>12</td></tr>
+<tr><td>餐厅</td><td></td><td>4</td></tr>
+<tr><td>衣柜</td><td></td><td>3</td></tr>
+<tr><td>卫生间</td><td>（中4+下3）×2</td><td>14</td></tr>
+</tbody>
+</table>
 
 ###开关分布
 <table>
