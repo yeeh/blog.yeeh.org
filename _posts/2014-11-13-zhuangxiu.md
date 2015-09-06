@@ -19,6 +19,7 @@ tags: 装修
 <tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>台盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
+<tr><td>台盆</td><td>TOTO LW537</td><td>1</td><td>343.46</td></tr>
 <tr><td>台盆柜</td><td>德意</td><td>2</td><td>4000</td></tr>
 <tr><td>浴室镜</td><td>箭牌 ayj348-a/apyjgap</td><td>2</td><td>950</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
@@ -52,11 +53,11 @@ tags: 装修
 <tr><td>暗盒</td><td>施耐德 S060</td><td>170</td><td>1056.84</td></tr>
 <tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
 <tr><td>开关</td><td>施耐德 丰尚</td><td>7</td><td>100</td></tr>
-<tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>26</td><td>364</td></tr>
+<tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>34</td><td>454</td></tr>
 <tr><td>插座</td><td>施耐德 丰尚 4孔</td><td>5</td><td>79.85</td></tr>
-<tr><td>防溅盒</td><td>施耐德 E223DV</td><td>8</td><td>101.52</td></tr>
+<tr><td>防溅盒</td><td>施耐德 c080</td><td>5</td><td>90</td></tr>
 <tr><td>开孔盒</td><td>施耐德</td><td>2</td><td></td></tr>
-<tr><td>空白盒</td><td>施耐德</td><td>10</td><td></td></tr>
+<tr><td>空白盒</td><td>施耐德</td><td>5</td><td>47.5</td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
 <tr><td>线管</td><td>中财</td><td>500</td><td></td></tr>
@@ -182,7 +183,7 @@ tags: 装修
 <tr><td>餐厅灯</td><td>ikea 布里萨</td><td>1</td><td>249</td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
 <tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
-<tr><td>筒灯</td><td>欧普 6cm 3w</td><td>10</td><td>299</td></tr>
+<tr><td>筒灯</td><td>欧普 6cm 3w</td><td>14</td><td>418</td></tr>
 <tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>22米</td><td>258.5</td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
@@ -192,7 +193,7 @@ tags: 装修
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
 <tr><td>床边台灯</td><td>小米 床头灯</td><td>4</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
-<tr><td>灯泡 e14</td><td>飞利浦</td><td></td><td></td></tr>
+<tr><td>灯泡 e14</td><td>飞利浦</td><td>1</td><td>14</td></tr>
 <tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
 </tbody>
 </table>
@@ -203,6 +204,8 @@ tags: 装修
 <tbody>
 <tr><td>封阳台</td><td>凤铝 799 1.8mm</td><td>2</td><td>8000</td></tr>
 <tr><td>窗户</td><td>凤铝 50</td><td>6</td><td>9000</td></tr>
+<tr><td>纱窗</td><td>钢丝网</td><td>13</td><td>3500</td></tr>
+<tr><td>2扇换4扇窗</td><td>凤铝 50</td><td>6</td><td>1500</td></tr>
 <tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
 <tr><td>卧室门</td><td>久聚 AQH-077</td><td>3</td><td>3750</td></tr>
 <tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td>2700</td></tr>
@@ -221,8 +224,10 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>地板</td><td>Kaindl 3720</td><td>80</td><td></td></tr>
-<tr><td>地垫宝</td><td>法宁格 25mm</td><td>80</td><td></td></tr>
+<tr><td>地板</td><td>Kaindl 3720</td><td>73</td><td>10877</td></tr>
+<tr><td>踢脚线＋封条</td><td>必美</td><td>73</td><td>4324</td></tr>
+<tr><td>地垫宝</td><td>法宁格 20mm</td><td>73</td><td>1574.97</td></tr>
+<tr><td>地垫宝安装</td><td></td><td>73</td><td>90</td></tr>
 <tr><td>厨房地砖</td><td>东鹏 YF633403</td><td>--</td><td>1500</td></tr>
 <tr><td>卫生间地砖</td><td>东鹏 YF633405</td><td>--</td><td>2500</td></tr>
 <tr><td>阳台地砖</td><td>东鹏 YF602205</td><td>--</td><td>1000</td></tr>
@@ -307,6 +312,8 @@ tags: 装修
 <tr><td>摄像头</td><td>小米</td><td>2</td><td>298</td></tr>
 <tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
 <tr><td>猫眼</td><td>移康智能 叮咚mini</td><td>1</td><td>479</td></tr>
+<tr><td>红外遥控</td><td>小米</td><td>1</td><td>105</td></tr>
+<tr><td>家庭网关</td><td>小米</td><td>1</td><td>199</td></tr>
 </tbody>
 </table>
 
