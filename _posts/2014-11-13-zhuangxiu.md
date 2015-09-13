@@ -158,15 +158,15 @@ tags: 装修
 <tr><td>过欠压</td><td>63a</td><td>1</td></tr>
 <tr><td>灯－入户/南卧/客厅/主卧/主卫/南过道</td><td>16a</td><td>1</td></tr>
 <tr><td>灯－厨/餐厅/书房/北卧/客卫/北过道</td><td>16a</td><td>1</td></tr>
-<tr><td>插座－网络＋储藏间/新风＋冰箱</td><td>16a</td><td>1</td></tr>
+<tr><td>插座－网络/储藏间＋冰箱</td><td>16a</td><td>1</td></tr>
 <tr><td>插座－卧室</td><td>20a</td><td>3</td></tr>
-<tr><td>插座－书房</td><td>20a</td><td>1</td></tr>
+<tr><td>插座－书房/新风</td><td>25a</td><td>1</td></tr>
 <tr><td>插座－餐厅</td><td>25a</td><td>1</td></tr>
-<tr><td>插座－客厅</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－客厅</td><td>20a</td><td>1</td></tr>
 <tr><td>插座－厨房/阳台－带漏电</td><td>32a</td><td>1</td></tr>
 <tr><td>插座－厕所+过道－带漏电</td><td>32a</td><td>2</td></tr>
 <tr><td>空调室外－带漏电</td><td>32a</td><td>1</td></tr>
-<tr><td>空调室内</td><td>40a</td><td>1</td></tr>
+<tr><td>空调室内-带漏电</td><td>32a</td><td>1</td></tr>
 </tbody>
 </table>
 
