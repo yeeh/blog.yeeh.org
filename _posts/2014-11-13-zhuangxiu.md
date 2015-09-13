@@ -18,8 +18,8 @@ tags: 装修
 <tr><td>洗衣机水龙头</td><td>潜水艇</td><td>1</td><td>49</td></tr>
 <tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
-<tr><td>台盆</td><td>TOTO LW546+DL35A</td><td>2</td><td>1778</td></tr>
-<tr><td>台盆</td><td>TOTO LW537</td><td>1</td><td>343.46</td></tr>
+<tr><td>台盆</td><td>TOTO LW546+DL35A</td><td>1</td><td>889</td></tr>
+<tr><td>台盆</td><td>TOTO LW537+DL35A</td><td>1</td><td>932.46</td></tr>
 <tr><td>台盆柜</td><td>德意</td><td>2</td><td>4000</td></tr>
 <tr><td>浴室镜</td><td>箭牌 ayj348-a/apyjgap</td><td>2</td><td>950</td></tr>
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
