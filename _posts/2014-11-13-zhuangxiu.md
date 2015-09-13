@@ -215,8 +215,6 @@ tags: 装修
 <tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td>700</td></tr>
 <tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td>800</td></tr>
 <tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td>1160</td></tr>
-<tr><td>门锁</td><td>多灵 歌丽尔(右内开3，左内开2)</td><td>5</td><td></td></tr>
-<tr><td>合页/地吸</td><td>多灵 纯铜</td><td>5</td><td></td></tr>
 <tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
 <tr><td>储藏室把手</td><td>多灵 天竺 银大号</td><td>1</td><td></td></tr>
 </tbody>
@@ -244,7 +242,7 @@ tags: 装修
 <tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td>--</td><td>2000</td></tr>
 <tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td>--</td><td>1000</td></tr>
 <tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>--</td><td>3000</td></tr>
-<tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td></td></tr>
+<tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td>0</td></tr>
 <tr><td>门边镜</td><td>ikea 伦德摩 802.518.53</td><td>1</td><td></td></tr>
 <tr><td>橱柜</td><td>德意</td><td>1</td><td>15000</td></tr>
 <tr><td>鞋柜</td><td>德意</td><td>1</td><td>3000</td></tr>
@@ -255,9 +253,9 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>厨房</td><td>集成吊顶</td><td>1</td><td>2000</td></tr>
-<tr><td>卫生间</td><td>集成吊顶</td><td>2</td><td>2000</td></tr>
-<tr><td>卧室＋客餐厅</td><td>吊顶</td><td>--</td><td>--</td></tr>
+<tr><td>厨房</td><td>集成吊顶</td><td>1</td><td>0</td></tr>
+<tr><td>卫生间</td><td>集成吊顶</td><td>2</td><td>0</td></tr>
+<tr><td>卧室＋客餐厅</td><td>吊顶</td><td>2</td><td>0</td></tr>
 </tbody>
 </table>
 
@@ -333,8 +331,8 @@ tags: 装修
 <tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
 <tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
-<tr><td>机顶盒</td><td>apple tv</td><td>3</td><td></td></tr>
-<tr><td>投影</td><td>爱普生 TW5200</td><td>1</td><td></td></tr>
+<tr><td>机顶盒</td><td>apple tv</td><td>1</td><td></td></tr>
+<tr><td>投影</td><td>爱普生 TW5350</td><td>1</td><td></td></tr>
 <tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
 <tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
@@ -367,12 +365,11 @@ tags: 装修
 <tr><td>储藏室墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
 <tr><td>储藏室隔板</td><td> </td><td>5＋3</td><td></td></tr>
 <tr><td>书房墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
-<tr><td>书房墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
 <tr><td>书房隔板</td><td></td><td>8+3</td><td></td></tr>
-<tr><td>阳台晾衣架</td><td></td><td>1</td><td>788</td></tr>
-<tr><td>户外晾衣架</td><td></td><td>1</td><td>638</td></tr>
+<tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
+<tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
-<tr><td>电脑椅</td><td>ikea 贝肯特</td><td>1</td><td><del>399</del></td></tr>
+<tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td><del>999</del></td></tr>
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>茶几</td><td>ikea 斯德歌尔摩</td><td>1</td><td></td></tr>
 <tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
@@ -386,14 +383,13 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>电饭锅</td><td>苏泊尔</td><td>1</td><td><del>399</del></td></tr>
-<tr><td>微波炉</td><td>格兰仕</td><td>1</td><td></td></tr>
+<tr><td>微波/烤炉</td><td>松下 NN-DF382M</td><td>1</td><td></td></tr>
 <tr><td>电磁炉</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>饮水机</td><td>朗宁</td><td>1</td><td><del>99</del></td></tr>
 <tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>榨汁机</td><td>美的</td><td>1</td><td><del>349</del></td></tr>
 <tr><td>电饼铛</td><td></td><td>1</td><td><del>0</del></td></tr>
 <tr><td>空气炸锅</td><td>飞利浦</td><td>1</td><td></td></tr>
-<tr><td>电烤箱</td><td></td><td>1</td><td></td></tr>
 <tr><td>面包机</td><td></td><td>1</td><td></td></tr>
 <tr><td>咖啡机</td><td></td><td>1</td><td></td></tr>
 </tbody>
@@ -418,7 +414,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>硬装</td><td>－－－</td><td></td><td>51000</td></tr>
+<tr><td>硬装</td><td>－－－</td><td></td><td>81000</td></tr>
 <tr><td>水泥</td><td>海螺</td><td></td><td></td></tr>
 <tr><td>轻钢龙骨</td><td>泰山王</td><td></td><td></td></tr>
 <tr><td>石膏板</td><td>兔宝宝</td><td></td><td></td></tr>
