@@ -25,7 +25,7 @@ tags: 装修
 <tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
 <tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
-<tr><td>淋浴房</td><td>绿叶</td><td>2</td><td>3500</td></tr>
+<tr><td>淋浴房</td><td>绿叶</td><td>2</td><td>3550</td></tr>
 <tr><td>双层角蓝</td><td>摩恩 90102</td><td>3</td><td>761.74</td></tr>
 <tr><td>单层毛巾架</td><td>摩恩 aac1303</td><td>2</td><td>252.6</td></tr>
 <tr><td>双层毛巾架</td><td>摩恩 aac1301</td><td>3</td><td>907.6</td></tr>
@@ -34,6 +34,7 @@ tags: 装修
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>洗衣架</td><td></td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td></td></tr>
+<tr><td>下水管</td><td>潜水艇</td><td>2</td><td>176</td></tr>
 </tbody>
 </table>
 
@@ -173,7 +174,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>入户灯</td><td>松下 HHLA0607 感应</td><td>1</td><td>99</td></tr>
+<tr><td>入户灯</td><td>松下 HHLA0607 感应</td><td>2</td><td>218</td></tr>
 <tr><td>客厅灯</td><td>松下 未来光 HFAC1057WS02</td><td>1</td><td>996.9</td></tr>
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
@@ -194,6 +195,7 @@ tags: 装修
 <tr><td>床边台灯</td><td>小米 床头灯</td><td>4</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
 <tr><td>灯泡 e14</td><td>飞利浦</td><td>1</td><td>14</td></tr>
+<tr><td>灯泡 e14</td><td>松下</td><td>4</td><td>79.6</td></tr>
 <tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
 </tbody>
 </table>
@@ -209,6 +211,7 @@ tags: 装修
 <tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
 <tr><td>卧室门</td><td>久聚 AQH-077</td><td>3</td><td>3750</td></tr>
 <tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td>2700</td></tr>
+<tr><td>门套/窗套</td><td>久聚</td><td>2</td><td>502</td></tr>
 <tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td>700</td></tr>
 <tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td>800</td></tr>
 <tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td>1160</td></tr>
@@ -305,9 +308,9 @@ tags: 装修
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS308/GS116E</td><td>1</td><td><del>219</del></td></tr>
-<tr><td>中继</td><td>apple airport express</td><td>1</td><td></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
+<tr><td>前置路由</td><td>netgear 4300</td><td>1</td><td>245</td></tr>
 <tr><td>硬盘机</td><td>小米 路由</td><td>1</td><td>699</td></tr>
 <tr><td>摄像头</td><td>小米</td><td>2</td><td>298</td></tr>
 <tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
