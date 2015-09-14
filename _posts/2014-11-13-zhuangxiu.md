@@ -290,7 +290,7 @@ tags: 装修
 <tr><td>小厨宝</td><td></td><td></td><td></td></tr>
 <tr><td>自动皂液器</td><td>欧碧宝 老款1＋新款2</td><td>3</td><td>492</td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td>3930</td></tr>
-<tr><td>电吹风</td><td>创点 CD-730A</td><td>2</td><td></td></tr>
+<tr><td>电吹风</td><td>松下 EH-NA45-W</td><td>2</td><td></td></tr>
 </tbody>
 </table>
 
