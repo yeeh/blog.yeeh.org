@@ -268,8 +268,9 @@ tags: 装修
 <tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
-<tr><td>热水器</td><td>能率GQ-1680CAFE</td><td>1</td><td></td></tr>
-<tr><td>热水循环</td><td>能率</td><td>1</td><td></td></tr>
+<tr><td>热水器</td><td>能率GQ-1680CAFE</td><td>1</td><td>3605</td></tr>
+<tr><td>热水循环</td><td>能率</td><td>1</td><td>2030</td></tr>
+<tr><td>热水器安装材料</td><td></td><td>1</td><td>110</td></tr>
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
 <tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td>4500</td></tr>
