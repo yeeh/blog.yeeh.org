@@ -26,7 +26,7 @@ tags: 装修
 <tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
 <tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
 <tr><td>淋浴房</td><td>绿叶</td><td>2</td><td>3550</td></tr>
-<tr><td>双层角蓝</td><td>摩恩 90102</td><td>3</td><td>761.74</td></tr>
+<tr><td>双层角蓝</td><td>摩恩 90102</td><td>2</td><td>761.74</td></tr>
 <tr><td>单层毛巾架</td><td>摩恩 aac1303</td><td>2</td><td>252.6</td></tr>
 <tr><td>双层毛巾架</td><td>摩恩 aac1301</td><td>3</td><td>907.6</td></tr>
 <tr><td>双杆毛巾架</td><td>摩恩 aac9927</td><td>1</td><td>455</td></tr>
