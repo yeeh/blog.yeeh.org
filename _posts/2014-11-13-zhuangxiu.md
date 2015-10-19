@@ -32,6 +32,7 @@ tags: 装修
 <tr><td>双杆毛巾架</td><td>摩恩 aac9927</td><td>1</td><td>455</td></tr>
 <tr><td>调料架</td><td>摩恩 kac010sl</td><td>1</td><td>292.75</td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
+<tr><td>洗碗机角阀</td><td>潜水艇</td><td>1</td><td>83.18</td></tr>
 <tr><td>洗衣架</td><td></td><td>1</td><td></td></tr>
 <tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td></td></tr>
 <tr><td>下水管</td><td>潜水艇</td><td>2</td><td>176</td></tr>
@@ -188,6 +189,7 @@ tags: 装修
 <tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>22米</td><td>258.5</td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
 <tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
+<tr><td>柜下灯</td><td>松下 05104</td><td>2</td><td>470</td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 感应</td><td>9</td><td></td></tr>
 <tr><td>飘窗灯</td><td>ikea 麦勒迪</td><td>1</td><td>39.9</td></tr>
 <tr><td>飘窗灯</td><td>ikea 布洛玛</td><td>2</td><td>39.9</td></tr>
@@ -266,11 +268,13 @@ tags: 装修
 <tr><td>油烟机</td><td>方太 JQ02T.D</td><td>1</td><td>4000</td></tr>
 <tr><td>燃气灶</td><td>方太 HC3BE.D</td><td>1</td><td>2500</td></tr>
 <tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
+<tr><td>安装</td><td>方太 </td><td>1</td><td>260</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
 <tr><td>热水器</td><td>能率GQ-1680CAFE</td><td>1</td><td>3605</td></tr>
 <tr><td>热水循环</td><td>能率</td><td>1</td><td>2030</td></tr>
 <tr><td>热水器安装材料</td><td></td><td>1</td><td>110</td></tr>
+<tr><td>安装</td><td></td><td>1</td><td>250</td></tr>
 <tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
 <tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td>4500</td></tr>
@@ -350,8 +354,8 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>床+底抽屉</td><td>ikea 马尔姆 1.8米</td><td>3</td><td></td></tr>
-<tr><td>床柜</td><td>ikea 特里索</td><td>5</td><td></td></tr>
+<tr><td>床</td><td>原始原素 橡木1.8米</td><td>2</td><td>8300</td></tr>
+<tr><td>床柜</td><td>原始原素</td><td>5</td><td>3040</td></tr>
 <tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
 <tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>3</td><td></td></tr>
@@ -359,7 +363,7 @@ tags: 装修
 <tr><td>客厅书隔板</td><td>ikea 拉克 1.1米</td><td>5</td><td></td></tr>
 <tr><td>客厅电视柜隔板</td><td>ikea 拉克 1.9米</td><td>2</td><td></td></tr>
 <tr><td>餐厅隔板</td><td>ikea 拉克 1.1米</td><td>6</td><td></td></tr>
-<tr><td>餐桌</td><td>ikea 斯多纳</td><td>1</td><td></td></tr>
+<tr><td>餐桌</td><td>ikea 贝肯特</td><td>1</td><td>699</td></tr>
 <tr><td>餐椅</td><td>ikea 卡思比</td><td>4</td><td></td></tr>
 <tr><td>厨房隔板</td><td>ikea 格兰代 0.8米</td><td>6</td><td></td></tr>
 <tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
@@ -370,11 +374,12 @@ tags: 装修
 <tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
 <tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
-<tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td><del>999</del></td></tr>
+<tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td>999</td></tr>
 <tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
 <tr><td>茶几</td><td>ikea 斯德歌尔摩</td><td>1</td><td></td></tr>
 <tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
+<tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 </tbody>
 </table>
 
@@ -427,5 +432,6 @@ tags: 装修
 <tr><td>万能胶</td><td>德力</td><td></td><td></td></tr>
 <tr><td>801胶水</td><td>兔宝宝</td><td></td><td></td></tr>
 <tr><td>石膏板</td><td>张氏</td><td></td><td></td></tr>
+<tr><td>竹炭</td><td>1</td><td>1</td><td>110</td></tr>
 </tbody>
 </table>
