@@ -33,8 +33,8 @@ tags: 装修
 <tr><td>调料架</td><td>摩恩 kac010sl</td><td>1</td><td>292.75</td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>洗碗机角阀</td><td>潜水艇</td><td>1</td><td>83.18</td></tr>
-<tr><td>洗衣架</td><td></td><td>1</td><td></td></tr>
-<tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td></td></tr>
+<tr><td>洗衣机柜</td><td>爱瑞仕</td><td>1</td><td>1478.75</td></tr>
+<tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td>－</td></tr>
 <tr><td>下水管</td><td>潜水艇</td><td>2</td><td>176</td></tr>
 </tbody>
 </table>
@@ -58,11 +58,10 @@ tags: 装修
 <tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>34</td><td>454</td></tr>
 <tr><td>插座</td><td>施耐德 丰尚 4孔</td><td>5</td><td>79.85</td></tr>
 <tr><td>防溅盒</td><td>施耐德 c080</td><td>5</td><td>90</td></tr>
-<tr><td>开孔盒</td><td>施耐德</td><td>2</td><td></td></tr>
 <tr><td>空白盒</td><td>施耐德</td><td>5</td><td>47.5</td></tr>
 <tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
 <tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
-<tr><td>线管</td><td>中财</td><td>500</td><td></td></tr>
+<tr><td>线管</td><td>中财</td><td>500</td><td>－</td></tr>
 <tr><td>电线</td><td>熊猫</td><td>1600米</td><td>5700.41</td></tr>
 </tbody>
 </table>
@@ -180,7 +179,8 @@ tags: 装修
 <tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
 <tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
-<tr><td>厨房吊柜灯</td><td>飞利浦 38112</td><td>2</td><td>196</td></tr>
+<tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
+<tr><td>柜下灯</td><td>松下 05104</td><td>2</td><td>470</td></tr>
 <tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
 <tr><td>餐厅灯</td><td>ikea 布里萨</td><td>1</td><td>249</td></tr>
 <tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
@@ -188,17 +188,15 @@ tags: 装修
 <tr><td>筒灯</td><td>欧普 6cm 3w</td><td>14</td><td>418</td></tr>
 <tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>22米</td><td>258.5</td></tr>
 <tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
-<tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
-<tr><td>柜下灯</td><td>松下 05104</td><td>2</td><td>470</td></tr>
 <tr><td>床脚灯</td><td>松下 HHLT0205 感应</td><td>9</td><td></td></tr>
 <tr><td>飘窗灯</td><td>ikea 麦勒迪</td><td>1</td><td>39.9</td></tr>
 <tr><td>飘窗灯</td><td>ikea 布洛玛</td><td>2</td><td>39.9</td></tr>
 <tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
 <tr><td>床边台灯</td><td>小米 床头灯</td><td>4</td><td></td></tr>
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
-<tr><td>灯泡 e14</td><td>飞利浦</td><td>1</td><td>14</td></tr>
-<tr><td>灯泡 e14</td><td>松下</td><td>4</td><td>79.6</td></tr>
-<tr><td>灯泡 e27</td><td>飞利浦</td><td></td><td></td></tr>
+<tr><td>灯泡 e14</td><td>飞利浦 冷光</td><td>1</td><td>14</td></tr>
+<tr><td>灯泡 e14</td><td>松下 暖光</td><td>4</td><td>79.6</td></tr>
+<tr><td>灯泡 e27</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -244,8 +242,9 @@ tags: 装修
 <tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td>--</td><td>2000</td></tr>
 <tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td>--</td><td>1000</td></tr>
 <tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>--</td><td>3000</td></tr>
-<tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td>0</td></tr>
-<tr><td>门边镜</td><td>ikea 伦德摩 802.518.53</td><td>1</td><td></td></tr>
+<tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td>－</td></tr>
+<tr><td>门边镜</td><td>定做</td><td>1</td><td>150</td></tr>
+<tr><td>窗帘轨道</td><td>定做</td><td>1</td><td>700</td></tr>
 <tr><td>橱柜</td><td>德意</td><td>1</td><td>15000</td></tr>
 <tr><td>鞋柜</td><td>德意</td><td>1</td><td>3000</td></tr>
 </tbody>
@@ -270,6 +269,8 @@ tags: 装修
 <tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
 <tr><td>安装</td><td>方太 </td><td>1</td><td>260</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
+<tr><td>洗碗机安装材料</td><td>西门子</td><td>1</td><td>240</td></tr>
+
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
 <tr><td>热水器</td><td>能率GQ-1680CAFE</td><td>1</td><td>3605</td></tr>
 <tr><td>热水循环</td><td>能率</td><td>1</td><td>2030</td></tr>
@@ -356,26 +357,26 @@ tags: 装修
 <tbody>
 <tr><td>床</td><td>原始原素 橡木1.8米</td><td>2</td><td>8300</td></tr>
 <tr><td>床柜</td><td>原始原素</td><td>5</td><td>3040</td></tr>
-<tr><td>床垫</td><td>ikea </td><td>3</td><td></td></tr>
-<tr><td>衣柜</td><td></td><td>3</td><td></td></tr>
+<tr><td>床垫</td><td>ikea 若克兰/海沃格</td><td>2</td><td>3698</td></tr>
+<tr><td>床垫送货</td><td></td><td>2</td><td>140</td></tr>
+<tr><td>衣柜</td><td></td><td>3</td><td>－</td></tr>
 <tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>3</td><td></td></tr>
-<tr><td>衣柜镜子</td><td>ikea 帕克思002.938.71</td><td>3</td><td></td></tr>
 <tr><td>客厅书隔板</td><td>ikea 拉克 1.1米</td><td>5</td><td></td></tr>
 <tr><td>客厅电视柜隔板</td><td>ikea 拉克 1.9米</td><td>2</td><td></td></tr>
 <tr><td>餐厅隔板</td><td>ikea 拉克 1.1米</td><td>6</td><td></td></tr>
-<tr><td>餐桌</td><td>ikea 贝肯特</td><td>1</td><td>699</td></tr>
-<tr><td>餐椅</td><td>ikea 卡思比</td><td>4</td><td></td></tr>
-<tr><td>厨房隔板</td><td>ikea 格兰代 0.8米</td><td>6</td><td></td></tr>
-<tr><td>储藏室墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
-<tr><td>储藏室墙轨</td><td>海蒂诗1米</td><td>2</td><td></td></tr>
+<tr><td>餐桌</td><td>ikea 赫格斯比</td><td>1</td><td>999</td></tr>
+<tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
+<tr><td>储藏室墙轨</td><td>ikea </td><td>2</td><td></td></tr>
 <tr><td>储藏室隔板</td><td> </td><td>5＋3</td><td></td></tr>
-<tr><td>书房墙轨</td><td>海蒂诗2米</td><td>2</td><td></td></tr>
+<tr><td>书房墙轨</td><td></td><td>2</td><td></td></tr>
 <tr><td>书房隔板</td><td></td><td>8+3</td><td></td></tr>
 <tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
 <tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
+<tr><td>电脑桌面</td><td>榆木 5cm厚</td><td>1</td><td>860</td></tr>
 <tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td>999</td></tr>
-<tr><td>沙发</td><td>ikea</td><td>1</td><td></td></tr>
+<tr><td>沙发</td><td>ikea</td><td>1</td><td>4299</td></tr>
+<tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
 <tr><td>茶几</td><td>ikea 斯德歌尔摩</td><td>1</td><td></td></tr>
 <tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
