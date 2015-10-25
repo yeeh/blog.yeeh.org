@@ -375,10 +375,9 @@ tags: 装修
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
 <tr><td>电脑桌面</td><td>榆木 5cm厚</td><td>1</td><td>860</td></tr>
 <tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td>999</td></tr>
-<tr><td>沙发</td><td>ikea</td><td>1</td><td>4299</td></tr>
+<tr><td>沙发</td><td>ikea 奇维</td><td>1</td><td>4299</td></tr>
 <tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
 <tr><td>茶几</td><td>ikea 斯德歌尔摩</td><td>1</td><td></td></tr>
-<tr><td>衣帽架</td><td></td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 </tbody>
