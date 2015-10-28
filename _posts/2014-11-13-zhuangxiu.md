@@ -355,7 +355,7 @@ tags: 装修
 <table>
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
-<tr><td>床</td><td>原始原素 橡木1.8米</td><td>2</td><td>8300</td></tr>
+<tr><td>床</td><td>原始原素 白橡1.8米</td><td>2</td><td>8300</td></tr>
 <tr><td>床柜</td><td>原始原素</td><td>5</td><td>3040</td></tr>
 <tr><td>床垫</td><td>ikea 若克兰/海沃格</td><td>2</td><td>3698</td></tr>
 <tr><td>床垫送货</td><td></td><td>2</td><td>140</td></tr>
