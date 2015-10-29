@@ -15,7 +15,7 @@ tags: 装修
 <tr><td>洗衣机地漏</td><td>潜水艇</td><td>1</td><td>58</td></tr>
 <tr><td>地漏三通</td><td>潜水艇</td><td>1</td><td>12</td></tr>
 <tr><td>生料带</td><td>潜水艇</td><td>5</td><td>29.9</td></tr>
-<tr><td>洗衣机水龙头</td><td>潜水艇</td><td>1</td><td>49</td></tr>
+<tr><td>洗衣机角阀</td><td>潜水艇 双头</td><td>1</td><td>92.55</td></tr>
 <tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
 <tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
 <tr><td>台盆</td><td>TOTO LW546+DL35A</td><td>1</td><td>889</td></tr>
@@ -32,10 +32,10 @@ tags: 装修
 <tr><td>双杆毛巾架</td><td>摩恩 aac9927</td><td>1</td><td>455</td></tr>
 <tr><td>调料架</td><td>摩恩 kac010sl</td><td>1</td><td>292.75</td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
-<tr><td>洗碗机角阀</td><td>潜水艇</td><td>1</td><td>83.18</td></tr>
+<tr><td>洗碗机角阀</td><td>潜水艇 双头</td><td>1</td><td>83.18</td></tr>
 <tr><td>洗衣机柜</td><td>爱瑞仕</td><td>1</td><td>1478.75</td></tr>
 <tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td>－</td></tr>
-<tr><td>下水管</td><td>潜水艇</td><td>2</td><td>176</td></tr>
+<tr><td>脸盆下水管</td><td>潜水艇</td><td>2</td><td>176</td></tr>
 </tbody>
 </table>
 
