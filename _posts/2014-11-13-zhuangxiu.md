@@ -307,8 +307,8 @@ tags: 装修
 <tr><td>弱电箱</td><td>e代家园 GRS11-40</td><td>1</td><td>198.8</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>7</td><td>664.79</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚单孔</td><td>4</td><td>0</td></tr>
-<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td></td></tr>
-<tr><td>网线</td><td>安普 6类</td><td>120</td><td></td></tr>
+<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td>-</td></tr>
+<tr><td>网线</td><td>安普 6类</td><td>120</td><td>-</td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
 <tr><td>交换机</td><td>netgear GS116</td><td>1</td><td><del>190</del></td></tr>
@@ -317,7 +317,7 @@ tags: 装修
 <tr><td>前置路由</td><td>netgear 4300</td><td>1</td><td>245</td></tr>
 <tr><td>硬盘机</td><td>小米 路由</td><td>1</td><td>699</td></tr>
 <tr><td>摄像头</td><td>小米</td><td>2</td><td>298</td></tr>
-<tr><td>指纹锁</td><td>三星</td><td>1</td><td></td></tr>
+<tr><td>指纹锁</td><td>耶鲁</td><td>1</td><td></td></tr>
 <tr><td>猫眼</td><td>移康智能 叮咚mini</td><td>1</td><td>479</td></tr>
 <tr><td>红外遥控</td><td>小米</td><td>1</td><td>105</td></tr>
 <tr><td>家庭网关</td><td>小米</td><td>1</td><td>199</td></tr>
@@ -334,20 +334,19 @@ tags: 装修
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td>315.68</td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td>358.32</td></tr>
 <tr><td>电视插座</td><td>施耐德 丰尚</td><td>5</td><td>121</td></tr>
-<tr><td>电视</td><td>LG 非智能55'</td><td>3</td><td></td></tr>
-<tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
+<tr><td>电视</td><td>小米 60'</td><td>2</td><td></td></tr>
+<tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr> 
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
-<tr><td>机顶盒</td><td>apple tv</td><td>1</td><td></td></tr>
+<tr><td>机顶盒</td><td>小米 电视主机</td><td>1</td><td></td></tr>
 <tr><td>投影</td><td>爱普生 TW5350</td><td>1</td><td></td></tr>
 <tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
 <tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
 <tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td>libratone loop</td><td>1</td><td>2995.58</td></tr>
-<tr><td>卧室音响</td><td>b&w zeppelin air</td><td>1</td><td></td></tr>
 <tr><td>卧室音响</td><td>sony srs-x9</td><td>1</td><td></td></tr>
 <tr><td>书房音响</td><td>harman/kardon aura</td><td>1</td><td><del>2300</del></td></tr>
-<tr><td>书房耳机</td><td>b&o h8</td><td>1</td><td></td></tr>
+<tr><td>书房耳机</td><td>b&o h8</td><td>1</td><td>2850</td></tr>
 </tbody>
 </table>
 
@@ -367,8 +366,8 @@ tags: 装修
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
 <tr><td>储藏室墙轨</td><td>ikea </td><td>2</td><td></td></tr>
 <tr><td>储藏室隔板</td><td> </td><td>5＋3</td><td></td></tr>
-<tr><td>书房墙轨</td><td></td><td>2</td><td></td></tr>
-<tr><td>书房隔板</td><td></td><td>8+3</td><td></td></tr>
+<tr><td>书房墙轨</td><td></td><td>2</td><td>-</td></tr>
+<tr><td>书房隔板</td><td></td><td>8+3</td><td>-</td></tr>
 <tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
 <tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
@@ -376,7 +375,7 @@ tags: 装修
 <tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td>999</td></tr>
 <tr><td>沙发</td><td>ikea 奇维</td><td>1</td><td>4299</td></tr>
 <tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
-<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td>白橡</td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 <tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
