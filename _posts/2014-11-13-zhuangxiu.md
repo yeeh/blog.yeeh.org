@@ -215,8 +215,8 @@ tags: 装修
 <tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td>700</td></tr>
 <tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td>800</td></tr>
 <tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td>1160</td></tr>
-<tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td></td></tr>
-<tr><td>储藏室把手</td><td>多灵 天竺 银大号</td><td>1</td><td></td></tr>
+<tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td>188</td></tr>
+<tr><td>卫生间窗户贴膜</td><td></td><td>1</td><td>25</td></tr>
 </tbody>
 </table>
 
@@ -296,7 +296,7 @@ tags: 装修
 <tr><td>小厨宝</td><td></td><td></td><td></td></tr>
 <tr><td>自动皂液器</td><td>欧碧宝 老款1＋新款2</td><td>3</td><td>492</td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td>3930</td></tr>
-<tr><td>电吹风</td><td>松下 EH-NA45-W</td><td>2</td><td></td></tr>
+<tr><td>电吹风</td><td>松下 EH-NA30-R</td><td>1</td><td>342</td></tr>
 </tbody>
 </table>
 
@@ -311,7 +311,7 @@ tags: 装修
 <tr><td>网线</td><td>安普 6类</td><td>120</td><td></td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
 <tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
-<tr><td>交换机</td><td>netgear GS308/GS116E</td><td>1</td><td><del>219</del></td></tr>
+<tr><td>交换机</td><td>netgear GS116</td><td>1</td><td><del>190</del></td></tr>
 <tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
 <tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
 <tr><td>前置路由</td><td>netgear 4300</td><td>1</td><td>245</td></tr>
@@ -356,14 +356,13 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>床</td><td>原始原素 白橡1.8米</td><td>2</td><td>8300</td></tr>
-<tr><td>床柜</td><td>原始原素</td><td>5</td><td>3040</td></tr>
+<tr><td>床柜</td><td>原始原素</td><td>4</td><td>3040</td></tr>
 <tr><td>床垫</td><td>ikea 若克兰/海沃格</td><td>2</td><td>3698</td></tr>
 <tr><td>床垫送货</td><td></td><td>2</td><td>140</td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td>－</td></tr>
-<tr><td>衣柜墙轨</td><td>ikea 艾格特</td><td>3</td><td></td></tr>
-<tr><td>客厅书隔板</td><td>ikea 拉克 1.1米</td><td>5</td><td></td></tr>
-<tr><td>客厅电视柜隔板</td><td>ikea 拉克 1.9米</td><td>2</td><td></td></tr>
-<tr><td>餐厅隔板</td><td>ikea 拉克 1.1米</td><td>6</td><td></td></tr>
+<tr><td>衣柜墙轨+搁板</td><td>ikea 艾格特</td><td>3</td><td>4000</td></tr>
+<tr><td>客厅隔板</td><td>白橡 80cm</td><td>4</td><td>400</td></tr>
+<tr><td>餐厅隔板</td><td>白橡 80cm</td><td>2</td><td>217.11</td></tr>
 <tr><td>餐桌</td><td>ikea 赫格斯比</td><td>1</td><td>999</td></tr>
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
 <tr><td>储藏室墙轨</td><td>ikea </td><td>2</td><td></td></tr>
@@ -377,9 +376,10 @@ tags: 装修
 <tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td>999</td></tr>
 <tr><td>沙发</td><td>ikea 奇维</td><td>1</td><td>4299</td></tr>
 <tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
-<tr><td>茶几</td><td>ikea 斯德歌尔摩</td><td>1</td><td></td></tr>
+<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
+<tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -389,7 +389,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>电饭锅</td><td>苏泊尔</td><td>1</td><td><del>399</del></td></tr>
-<tr><td>微波/烤炉</td><td>松下 NN-DF382M</td><td>1</td><td></td></tr>
+<tr><td>微波/烤炉</td><td>松下 NN-DF382M</td><td>1</td><td>1630.24</td></tr>
 <tr><td>电磁炉</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>饮水机</td><td>朗宁</td><td>1</td><td><del>99</del></td></tr>
 <tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
