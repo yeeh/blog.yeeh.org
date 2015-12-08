@@ -30,6 +30,7 @@ tags: 装修
 <tr><td>单层毛巾架</td><td>摩恩 aac1303</td><td>2</td><td>252.6</td></tr>
 <tr><td>双层毛巾架</td><td>摩恩 aac1301</td><td>3</td><td>907.6</td></tr>
 <tr><td>双杆毛巾架</td><td>摩恩 aac9927</td><td>1</td><td>455</td></tr>
+<tr><td>吹风机架 马桶刷 毛巾架</td><td></td><td>1</td><td>215.6</td></tr>
 <tr><td>调料架</td><td>摩恩 kac010sl</td><td>1</td><td>292.75</td></tr>
 <tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
 <tr><td>洗碗机角阀</td><td>潜水艇 双头</td><td>1</td><td>83.18</td></tr>
@@ -376,6 +377,7 @@ tags: 装修
 <tr><td>沙发</td><td>ikea 奇维</td><td>1</td><td>4299</td></tr>
 <tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
 <tr><td>茶几</td><td>白橡</td><td>1</td><td></td></tr>
+<tr><td>电视柜</td><td>白橡</td><td>1</td><td></td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 <tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
