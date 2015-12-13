@@ -298,10 +298,7 @@ tags: 装修
 <tr><td>自动皂液器</td><td>欧碧宝 老款1＋新款2</td><td>3</td><td>492</td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td>3930</td></tr>
 <tr><td>电吹风</td><td>松下 EH-NA30-R</td><td>1</td><td>342</td></tr>
-<<<<<<< HEAD
 <tr><td>吹风机架 马桶刷 肥皂盒</td><td>dehub</td><td>2</td><td>215.6</td></tr>
-=======
->>>>>>> origin/gh-pages
 </tbody>
 </table>
 
@@ -365,25 +362,13 @@ tags: 装修
 <tr><td>床垫送货</td><td></td><td>2</td><td>140</td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td>－</td></tr>
 <tr><td>衣柜墙轨+搁板</td><td>ikea 艾格特</td><td>3</td><td>4000</td></tr>
-<<<<<<< HEAD
-<tr><td>客厅书隔板</td><td>ikea 拉克 0.8米</td><td>5</td><td></td></tr>
-<tr><td>客厅电视柜</td><td>实木</td><td>1</td><td></td></tr>
-<tr><td>餐厅隔板</td><td>ikea 拉克 0.8米</td><td>6</td><td></td></tr>
-<tr><td>餐桌</td><td>ikea 赫格斯比</td><td>1</td><td>999</td></tr>
-<tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
-<tr><td>储藏室墙轨</td><td>ikea 艾格特</td><td>1</td>500<td></td></tr>
-<tr><td>书房书柜</td><td></td><td>1</td><td></td></tr>
-<tr><td>书房隔板</td><td>ikea 艾格特</td><td>1</td><td>80</td></tr>
-=======
 <tr><td>客厅隔板</td><td>白橡 80cm</td><td>4</td><td>400</td></tr>
 <tr><td>餐厅隔板</td><td>白橡 80cm</td><td>2</td><td>217.11</td></tr>
 <tr><td>餐桌</td><td>ikea 赫格斯比</td><td>1</td><td>999</td></tr>
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
-<tr><td>储藏室墙轨</td><td>ikea </td><td>2</td><td></td></tr>
-<tr><td>储藏室隔板</td><td> </td><td>5＋3</td><td></td></tr>
+<tr><td>储藏室墙轨+搁板</td><td>ikea </td><td>2</td><td>500</td></tr>
 <tr><td>书房墙轨</td><td></td><td>2</td><td>-</td></tr>
 <tr><td>书房隔板</td><td></td><td>8+3</td><td>-</td></tr>
->>>>>>> origin/gh-pages
 <tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
 <tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
@@ -392,15 +377,14 @@ tags: 装修
 <tr><td>沙发</td><td>ikea 奇维</td><td>1</td><td>4299</td></tr>
 <tr><td>地毯</td><td>ikea 阿达姆</td><td>1</td><td>799</td></tr>
 <tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
-<<<<<<< HEAD
-<tr><td>茶几</td><td></td><td>1</td><td></td></tr>
-=======
-<tr><td>茶几</td><td>白橡</td><td>1</td><td></td></tr>
-<tr><td>电视柜</td><td>白橡</td><td>1</td><td></td></tr>
->>>>>>> origin/gh-pages
+<tr><td>电视柜</td><td>白橡</td><td>1</td><td>2690</td></tr>
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 <tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
+<tr><td>木盆</td><td></td><td>1</td><td></td></tr>
+<tr><td>肥料</td><td></td><td>1</td><td></td></tr>
+<tr><td>花盆</td><td></td><td>1</td><td></td></tr>
+<tr><td>树</td><td></td><td>1</td><td></td></tr>
 </tbody>
 </table>
 
@@ -410,11 +394,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>电饭锅</td><td>苏泊尔</td><td>1</td><td><del>399</del></td></tr>
-<<<<<<< HEAD
 <tr><td>微波炉/烤箱</td><td>松下 NN-DF382M</td><td>1</td><td>1630.24</td></tr>
-=======
-<tr><td>微波/烤炉</td><td>松下 NN-DF382M</td><td>1</td><td>1630.24</td></tr>
->>>>>>> origin/gh-pages
 <tr><td>电磁炉</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>饮水机</td><td>朗宁</td><td>1</td><td><del>99</del></td></tr>
 <tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
