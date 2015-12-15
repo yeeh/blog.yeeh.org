@@ -197,7 +197,7 @@ tags: 装修
 <tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
 <tr><td>灯泡 e14</td><td>飞利浦 冷光</td><td>1</td><td>14</td></tr>
 <tr><td>灯泡 e14</td><td>松下 暖光</td><td>4</td><td>79.6</td></tr>
-<tr><td>灯泡 e27</td><td></td><td>1</td><td></td></tr>
+<tr><td>灯泡 e27</td><td>小米</td><td>2</td><td>118</td></tr>
 </tbody>
 </table>
 
@@ -298,6 +298,7 @@ tags: 装修
 <tr><td>自动皂液器</td><td>欧碧宝 老款1＋新款2</td><td>3</td><td>492</td></tr>
 <tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td>3930</td></tr>
 <tr><td>电吹风</td><td>松下 EH-NA30-R</td><td>1</td><td>342</td></tr>
+<tr><td>电吹风</td><td>松下 EH-NA45-W</td><td>1</td><td>789</td></tr>
 <tr><td>吹风机架 马桶刷 肥皂盒</td><td>dehub</td><td>2</td><td>215.6</td></tr>
 </tbody>
 </table>
@@ -339,7 +340,7 @@ tags: 装修
 <tr><td>电视</td><td>小米 60'</td><td>2</td><td></td></tr>
 <tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr> 
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
-<tr><td>机顶盒</td><td>小米 电视主机</td><td>1</td><td></td></tr>
+<tr><td>机顶盒</td><td>小米 电视主机</td><td>1</td><td>1049</td></tr>
 <tr><td>投影</td><td>爱普生 TW5350</td><td>1</td><td></td></tr>
 <tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
@@ -381,7 +382,7 @@ tags: 装修
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 <tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
-<tr><td>木盆</td><td></td><td>1</td><td></td></tr>
+<tr><td>木盆</td><td></td><td>1</td><td>576.41</td></tr>
 <tr><td>肥料</td><td></td><td>1</td><td></td></tr>
 <tr><td>花盆</td><td></td><td>1</td><td></td></tr>
 <tr><td>树</td><td></td><td>1</td><td></td></tr>
