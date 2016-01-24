@@ -230,6 +230,6 @@ embed{ display: none;}
   .search form{ margin-top: 0; float: none;}
   .content{ margin-top: 66px;}
   body{ position: relative;}
-  .link{ position: fixed; bottom: 0; height: 600px;}
+  .link{ position: fixed; top: 230px; }
   .link h6{border-bottom: solid 1px #e2e2e2;}
 }
