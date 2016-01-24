@@ -231,6 +231,6 @@ embed{ display: none;}
   .content{ margin-top: 66px;}
   body{ position: relative;}
   .link{ position: fixed; bottom: 0; }
-  .links{ position: absolute; top: 230px; }
+  .links{ position: absolute; top: 180px; }
   .link h6, .links h6{border-bottom: solid 1px #e2e2e2;}
 }
