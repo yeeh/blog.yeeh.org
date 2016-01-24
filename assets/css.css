@@ -230,7 +230,8 @@ embed{ display: none;}
   .search form{ margin-top: 0; float: none;}
   .content{ margin-top: 66px;}
   body{ position: relative;}
-  .link{ position: fixed; bottom: 0; }
-  .links{ position: absolute; top: 180px; }
+  .link{ bottom: 0; }
+  .links{ top: 180px; }
+  .link, .links{ position: fixed;}
   .link h6, .links h6{border-bottom: solid 1px #e2e2e2;}
 }
