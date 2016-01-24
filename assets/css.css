@@ -219,7 +219,7 @@ embed{ display: none;}
 /* >1000px */
 
 @media screen and (min-width:1000px) {
-  .header, .nav, .search, .link{ width: 250px;  right:40px;}
+  .header, .nav, .search, .link, .links{ width: 250px;  right:40px;}
   .header, .nav, .search{ position: fixed;}
   .content, .footer{ width:auto; margin-right: 330px; margin-left: 40px;}
   .header{ top:0;}
@@ -230,6 +230,7 @@ embed{ display: none;}
   .search form{ margin-top: 0; float: none;}
   .content{ margin-top: 66px;}
   body{ position: relative;}
-  .link{ position: fixed; top: 230px; }
-  .link h6{border-bottom: solid 1px #e2e2e2;}
+  .link{ position: fixed; bottom: 0; }
+  .links{ position: absolute; top: 230px; }
+  .link h6, .links h6{border-bottom: solid 1px #e2e2e2;}
 }
