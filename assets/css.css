@@ -233,5 +233,5 @@ embed{ display: none;}
   .link{ bottom: 0; }
   .links{ top: 240px; }
   .link, .links{ position: fixed;}
-  .link h6, .links h6{border-bottom: solid 1px #e2e2e2;}
+  .link h6{border-bottom: solid 1px #e2e2e2;}
 }
