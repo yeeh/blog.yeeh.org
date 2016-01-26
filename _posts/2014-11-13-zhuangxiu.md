@@ -386,8 +386,8 @@ tags: 装修
 <tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 <tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
-<tr><td>木盆</td><td></td><td>1</td><td>576.41</td></tr>
-<tr><td>盖板</td><td>白橡</td><td>1</td><td>72.72</td></tr>
+<tr><td>木盆</td><td></td><td>2</td><td>576.41</td></tr>
+<tr><td>盖板</td><td>白橡</td><td>2</td><td>72.72</td></tr>
 <tr><td>框</td><td>白橡</td><td>1</td><td>106.5</td></tr>
 <tr><td>肥料</td><td></td><td>1</td><td>18.42</td></tr>
 <tr><td>花盆</td><td></td><td>1</td><td>195.9</td></tr>
