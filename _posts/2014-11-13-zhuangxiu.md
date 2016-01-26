@@ -269,7 +269,7 @@ tags: 装修
 <tr><td>燃气灶</td><td>方太 HC3BE.D</td><td>1</td><td>2500</td></tr>
 <tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
 <tr><td>安装</td><td>方太 </td><td>1</td><td>260</td></tr>
-<tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>3572</td></tr>
+<tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>4197.05</td></tr>
 <tr><td>洗碗机安装材料</td><td>西门子</td><td>1</td><td>240</td></tr>
 
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
@@ -281,6 +281,7 @@ tags: 装修
 <tr><td>净水器</td><td></td><td>1</td><td></td></tr>
 <tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td>4500</td></tr>
 <tr><td>空气净化</td><td>霍尼韦尔 FC400</td><td>1</td><td>4500</td></tr>
+<tr><td>新风控制器</td><td>霍尼韦尔</td><td>1</td><td>320</td></tr>
 <tr><td>安装</td><td>－－</td><td>1</td><td>3800</td></tr>
 <tr><td>中央空调(外机)</td><td>格力GMV-H160WL/A</td><td>1</td><td>13000</td></tr>
 <tr><td>空调(客厅)</td><td>格力GMV-NH50PL/A</td><td>1</td><td>3000</td></tr>
@@ -308,6 +309,7 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>弱电箱</td><td>e代家园 GRS11-40</td><td>1</td><td>198.8</td></tr>
+<tr><td>电源</td><td>e代家园</td><td>1</td><td>98</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>7</td><td>664.79</td></tr>
 <tr><td>网线插座</td><td>施耐德 丰尚单孔</td><td>4</td><td>0</td></tr>
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td>-</td></tr>
@@ -338,7 +340,7 @@ tags: 装修
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td>358.32</td></tr>
 <tr><td>电视插座</td><td>施耐德 丰尚</td><td>5</td><td>121</td></tr>
 <tr><td>电视</td><td>小米 60'</td><td>2</td><td></td></tr>
-<tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr> 
+<tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
 <tr><td>机顶盒</td><td>小米 电视主机</td><td>1</td><td>1049</td></tr>
 <tr><td>投影</td><td>爱普生 TW5350</td><td>1</td><td></td></tr>
@@ -358,18 +360,20 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>床</td><td>原始原素 白橡1.8米</td><td>2</td><td>8300</td></tr>
-<tr><td>床柜</td><td>原始原素</td><td>4</td><td>3040</td></tr>
+<tr><td>床柜</td><td>原始原素</td><td>4</td><td>3040+2679.35</td></tr>
 <tr><td>床垫</td><td>ikea 若克兰/海沃格</td><td>2</td><td>3698</td></tr>
 <tr><td>床垫送货</td><td></td><td>2</td><td>140</td></tr>
 <tr><td>衣柜</td><td></td><td>3</td><td>－</td></tr>
 <tr><td>衣柜墙轨+搁板</td><td>ikea 艾格特</td><td>3</td><td>4000</td></tr>
 <tr><td>客厅隔板</td><td>白橡 80cm</td><td>4</td><td>400</td></tr>
-<tr><td>餐厅隔板</td><td>白橡 80cm</td><td>2</td><td>217.11</td></tr>
+<tr><td>餐厅隔板</td><td>白橡 80cm</td><td>2+3</td><td>217.11+323</td></tr>
+<tr><td>电视隔板</td><td>白橡 100cm</td><td>3</td><td>360</td></tr>
 <tr><td>餐桌</td><td>ikea 赫格斯比</td><td>1</td><td>999</td></tr>
 <tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
 <tr><td>储藏室墙轨+搁板</td><td>ikea </td><td>2</td><td>500</td></tr>
-<tr><td>书房墙轨</td><td></td><td>2</td><td>-</td></tr>
-<tr><td>书房隔板</td><td></td><td>8+3</td><td>-</td></tr>
+<tr><td>书房墙轨</td><td></td><td>4</td><td>117.88</td></tr>
+<tr><td>书房支架</td><td></td><td>3+10</td><td>65.7+106.1</td></tr>
+<tr><td>书房隔板</td><td></td><td>10+3</td><td>850+630.24</td></tr>
 <tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
 <tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
@@ -383,9 +387,12 @@ tags: 装修
 <tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
 <tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
 <tr><td>木盆</td><td></td><td>1</td><td>576.41</td></tr>
-<tr><td>肥料</td><td></td><td>1</td><td></td></tr>
-<tr><td>花盆</td><td></td><td>1</td><td></td></tr>
-<tr><td>树</td><td></td><td>1</td><td></td></tr>
+<tr><td>盖板</td><td>白橡</td><td>1</td><td>72.72</td></tr>
+<tr><td>框</td><td>白橡</td><td>1</td><td>106.5</td></tr>
+<tr><td>肥料</td><td></td><td>1</td><td>18.42</td></tr>
+<tr><td>花盆</td><td></td><td>1</td><td>195.9</td></tr>
+<tr><td>鹅卵石</td><td></td><td>1</td><td>17</td></tr>
+<tr><td>树</td><td></td><td>1</td><td>22.52</td></tr>
 </tbody>
 </table>
 
