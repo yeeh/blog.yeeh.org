@@ -49,3 +49,5 @@ df -h
 ```sh
 START=21boot() {        /thunder/bin/run.sh &        sleep 10        mount -t cifs //192.168.1.125/sda1/1507 /media/sda5 -o username=,password=,rw}
 ```
+
+###注意：u盘不能拔，拔了就不认挂载的nas盘符了。
