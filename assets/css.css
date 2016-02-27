@@ -193,6 +193,7 @@ embed{ display: none;}
 @media screen and (min-width:480px) and (max-width:640px) {
   .entry-time:before{ margin-right:4px; color:#999; font-style:italic;}
   .entry-comment{ display:block;}
+  .entry-content iframe{ height: 90vw; }
 }
 
 /* <640 */
@@ -207,6 +208,7 @@ embed{ display: none;}
   .entry-year:before{ content:","; margin:0 4px;}
   .entry-author, .entry-cate{display:inline-block;}
   .entry-author{ margin-left:12px; }
+  .entry-content iframe{ height: 80vw; }
 }
 
 /* <1000px */
@@ -215,6 +217,7 @@ embed{ display: none;}
   .search{ height:auto;}
   .search form{ margin-top:4px; }
   .content{ margin-top: 60px;}
+  .entry-content iframe{ height: 70vw; }
 }
 
 /* >1000px */
@@ -230,6 +233,7 @@ embed{ display: none;}
   .search{height: auto; top:200px;}
   .search form{ margin-top: 0; float: none;}
   .content{ margin-top: 66px;}
+  .entry-content iframe{ height: 60vw; }
   body{ position: relative;}
   .link{ bottom: 0; }
   .links{ top: 240px; }
