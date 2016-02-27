@@ -170,12 +170,10 @@ embed{ display: none;}
 .type-csharp .highlight .sc { color: #A31515 }
 
 /*pagination*/
-.pagination{ line-height:40px; font-size:30px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
-.pagination a, .pagination span{margin:0 10px; }
-.pagination span{ color: #666;}
-.pagination-prev, .pagination-next{background-color:#e2e2e2; padding:0 20px; display:inline-block; height:40px; font-weight:700;}
-.pagination a.pagination-prev{ float:left; margin-left:0;}
-.pagination a.pagination-next{ margin-right:0;}
+.pagination{ line-height:40px; font-size:30px; }
+.pagination a{margin:5px 10px; background-color:#e2e2e2; padding:0 20px; font-weight:700;}
+.pagination a.pagination-prev{ text-align: left;}
+.pagination a.pagination-next{ text-align: right;}
 /*disque*/
 #disqus_thread{ margin-top:30px; padding-top: 10px; border-top:dashed 1px #e2e2e2;}
 
