@@ -90,6 +90,7 @@ embed{ display: none;}
 .entry-categories a, .entry-comments span, .entry-tags a{ font-style:normal; margin:0 4px;}
 .entry-categories a:nth-child(n+2):before, .entry-tags a:nth-child(n+2):before{ content: ","; padding-right: 12px;}
 .entry-content{ margin-top:20px; word-wrap:break-word; word-break:break-all;}
+.entry-content iframe{ width: 100%; }
 .entry-content a{ text-decoration: underline; color: #666;}
 .entry-content p{ margin-top:10px;}
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px;}
