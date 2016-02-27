@@ -189,18 +189,13 @@ embed{ display: none;}
 .footer a.yeh{text-align:left; height:18px; display:inline-block; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
 
 /*media query*/
-/* >480 <640 */
-@media screen and (min-width:480px) and (max-width:640px) {
-  .entry-time:before{ margin-right:4px; color:#999; font-style:italic;}
-  .entry-comment{ display:block;}
-  .entry-content iframe{ height: 90vw; }
-}
 
 /* <640 */
 @media screen and (max-width:640px) {
   .entry-header{ padding-left:0;}
   .entry-time, .entry-day, .entry-month{ width:auto; height:auto; line-height:20px; }
   .entry-time{ left:0; top:0; height:20px; display:inline-block; border-width:0; margin-left:10px; position:relative; background-color:#fff;}
+  .entry-time:before{ margin-right:4px; color:#999; font-style:italic;}
   .entry-day, .entry-month{ font-size:14px; display:inline;}
   .entry-day:before{ content:"/";}
   .entry-month{ margin-right: 0;}
@@ -209,6 +204,7 @@ embed{ display: none;}
   .entry-author, .entry-cate{display:inline-block;}
   .entry-author{ margin-left:12px; }
   .entry-content iframe{ height: 80vw; }
+  .entry-comment{ display:block;}
 }
 
 /* <1000px */
