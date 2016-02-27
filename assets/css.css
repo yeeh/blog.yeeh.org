@@ -173,7 +173,7 @@ embed{ display: none;}
 .pagination{ line-height:40px; font-size:30px; text-align:right; min-height:40px; *height:40px; *overflow:visible;}
 .pagination a, .pagination span{margin:5px 10px; }
 .pagination span{ color: #666;}
-.pagination-prev, .pagination-next{background-color:#e2e2e2; font-weight:700; display: block;}
+.pagination-prev, .pagination-next{background-color:#e2e2e2; font-weight:700; display: inline-block; padding: 0 10px;}
 .pagination a.pagination-prev{ margin-left:0; text-align: left;}
 .pagination a.pagination-next{ margin-right:0; text-align: right;}
 /*disque*/
