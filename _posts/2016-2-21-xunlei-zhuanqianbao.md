@@ -37,9 +37,9 @@ kill 进程号
 //先中断
 umount /media/sda2
 //解除硬盘挂载
-mount -t cifs //10.0.0.200/XiaoMi/xunlei /media/sda2 -o username=,password=,rw
-//挂载硬盘
-//如果报没权限，就在nas设备上把权限开启
+mount -t cifs //10.0.0.200/XiaoMi/xunlei /media/sda2 -o username=,password=,rwx
+//挂载硬盘，给读写执行权限
+//如果报没权限，要在nas设备上把权限开启
 df -h 
 //查看是否挂载成功
 ```
@@ -47,7 +47,13 @@ df -h
 + 如果已成功，那么后面就是把挂载程序加到启动项目。二代文件都拆散了，经过咨询，/etc/rc.d/S21thunder种增加sleep和mount这2行，保存重启即可。
 
 ```sh
-START=21boot() {        /thunder/bin/run.sh &        sleep 10        mount -t cifs //192.168.1.125/sda1/1507 /media/sda5 -o username=,password=,rw}
+START=21
+boot() 
+{
+        /thunder/bin/run.sh &
+        sleep 10
+        mount -t cifs //10.0.0.200/XiaoMi/xunlei /media/sda2 -o username=,password=,rwx
+}
 ```
 
 ###注意：u盘不能拔，拔了就不认挂载的nas盘符了。
