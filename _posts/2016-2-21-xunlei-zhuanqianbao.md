@@ -37,10 +37,10 @@ kill 进程号
 //先中断
 umount /media/sda2
 //解除硬盘挂载
-mount -t cifs //10.0.0.200/XiaoMi/xunlei /media/sda2 -o username=,password=,rwx
+mount -t cifs //10.0.0.200/XiaoMi/xunlei /media/sda2 -o username=,password=,dir_mode=0777,file_mode=0777
 //挂载硬盘，给读写执行权限
 //如果报没权限，要在nas设备上把权限开启
-df -h 
+df -h
 //查看是否挂载成功
 ```
 
@@ -48,7 +48,7 @@ df -h
 
 ```sh
 START=21
-boot() 
+boot()
 {
         /thunder/bin/run.sh &
         sleep 10
