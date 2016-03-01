@@ -6,7 +6,7 @@ baseurl:
 tagline: 闲言碎语
 author: Perry Yeh
 url: http://blog.yeh.sh
-keywords: front-end,javascript,html,css
+keywords: Perry Yeh
 description: Things to save and remember of life in Shanghai, China.
 permalink: /post/:year/:month/:day/:title.html
 paginate: 3
