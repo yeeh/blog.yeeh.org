@@ -161,8 +161,8 @@ tags: 装修
 <tr><td>灯－厨/餐厅/书房/北卧/客卫/北过道</td><td>16a</td><td>1</td></tr>
 <tr><td>插座－网络/储藏间＋冰箱</td><td>16a</td><td>1</td></tr>
 <tr><td>插座－卧室</td><td>20a</td><td>3</td></tr>
-<tr><td>插座－书房/新风</td><td>25a</td><td>1</td></tr>
-<tr><td>插座－餐厅</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－书房</td><td>25a</td><td>1</td></tr>
+<tr><td>插座－餐厅/新风</td><td>25a</td><td>1</td></tr>
 <tr><td>插座－客厅</td><td>20a</td><td>1</td></tr>
 <tr><td>插座－厨房/阳台－带漏电</td><td>32a</td><td>1</td></tr>
 <tr><td>插座－厕所+过道－带漏电</td><td>32a</td><td>2</td></tr>
