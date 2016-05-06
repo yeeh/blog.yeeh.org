@@ -18,7 +18,7 @@ excerpt_separator: '<!-- more -->'
 # ---------------------- #
 safe: true
 auto: true
-pygments: true
+rouge: true
 markdown: kramdown
 timezone: Asia/Shanghai
 
