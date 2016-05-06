@@ -53,7 +53,7 @@ boot()
         /thunder/bin/run.sh &
         sleep 10
         mount -t cifs //192.168.1.2/XiaoMi/xunlei /media/sda2 -o username=,password=,rw,dir_mode=0777,file_mode=0777
-        ##发现有些nas上，smb挂载成功但是dcdn_core_v2.db一直写不进去0字节（这时候重启下就缓存丢失），可以换nfs挂载
+        ##发现有些nas上，smb挂载成功但是dcdn_core_v2.db一直写不进去0字节（每次重启缓存就清空），可以换nfs挂载
         ##mount -t nfs -o nolock 192.168.1.3:/nfs/xunlei /media/sda2
 }
 ```
