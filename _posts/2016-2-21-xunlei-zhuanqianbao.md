@@ -37,7 +37,7 @@ kill 进程号
 //先中断
 umount /media/sda2
 //解除硬盘挂载
-mount -t cifs //10.0.0.200/XiaoMi/xunlei /media/sda2 -o username=,password=,rw,dir_mode=0777,file_mode=0777
+mount -t cifs //192.168.1.2/XiaoMi/xunlei /media/sda2 -o username=,password=,rw,dir_mode=0777,file_mode=0777
 //挂载硬盘，给读写执行权限
 //如果报没权限，要在nas设备上把权限开启
 df -h
@@ -54,7 +54,7 @@ boot()
         sleep 10
         mount -t cifs //192.168.1.2/XiaoMi/xunlei /media/sda2 -o username=,password=,rw,dir_mode=0777,file_mode=0777
         ##发现有些nas上，smb挂载成功但是dcdn_core_v2.db一直写不进去0字节（每次重启缓存就清空），可以换nfs挂载
-        ##mount -t nfs -o nolock 192.168.1.3:/nfs/xunlei /media/sda2
+        ##mount -t nfs -o nolock 192.168.1.2:/nfs/xunlei /media/sda2
 }
 ```
 
