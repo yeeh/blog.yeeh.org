@@ -1,4 +1,4 @@
-This is the site at http://blog.yeeh.org/
+This is the site @ http://blog.yeh.sh/
 ====
 
 个人博客
