@@ -101,7 +101,7 @@ embed{ display: none;}
 .entry-readmore{ padding:20px 0;}
 .entry-readmore a{ font-size:16px; font-weight:700;}
 /*highlight*/
-.highlight { background: #ffffff; }
+.highlight { background: #333; color: #fff;}
 .highlight .c { color: #999988; font-style: italic }
 .highlight .err { color: #a61717; background-color: #e3d2d2 }
 .highlight .k { font-weight: bold }
