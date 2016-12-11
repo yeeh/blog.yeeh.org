@@ -14,7 +14,7 @@ tags: 迅雷, mybook live,远程
 
 先把mybook live的ssh开了，在路由器ip/UI/ssh里可以直接打开ssh，直接ssh上去，输入密码进入。我的mybook live 3t的硬件配置是800m cpu，内存256mb。
 
-```
+```sh
 df -h
 ```
 
@@ -28,7 +28,7 @@ df -h
 
 把程序上传到/etc/xunlei/，之后直接
 
-```
+```sh
 cd /etc/xunlei/
 chmod 755 * -R
 ./portal
@@ -36,7 +36,7 @@ chmod 755 * -R
 
 运行
 
-```
+```sh
 initing...
 
 try stopping xunlei service...
@@ -62,7 +62,7 @@ finished.
 
 新建个sh文件,放在/etc/init.d/目录下，我命名为xunlei，无后缀，内容如下
 
-```
+```sh
 #!/bin/sh
 
 START=99
@@ -100,7 +100,7 @@ exit $?
 
 然后设置成开机自启
 
-```
+```sh
 update-rc.d xunlei defaults 99 1     
 ```
 
