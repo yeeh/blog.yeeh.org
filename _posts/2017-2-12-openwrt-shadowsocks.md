@@ -1,7 +1,7 @@
 ---
 layout: post
 title: lede折腾shadowsocks
-date: 2017-2-12 22:50:00 +0800
+date: 2017-2-12 22:25:00 +0800
 categories: 闲
 tags: lede,openwrt,shadowsocks,chinadns,路由
 ---
