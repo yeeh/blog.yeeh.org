@@ -55,11 +55,11 @@ arch ramips 400
 
 把下好的shadowsocks chinadns dns-forward丢到tmp目录，下载地址见下
 
-<https://github.com/shadowsocks/openwrt-shadowsocks/releases>
-<https://github.com/shadowsocks/luci-app-shadowsocks/releases>
-<https://github.com/aa65535/openwrt-chinadns/releases>
-<https://github.com/aa65535/openwrt-dns-forwarder/releases>
-<https://github.com/aa65535/openwrt-dist-luci/releases>
++ <https://github.com/shadowsocks/openwrt-shadowsocks/releases>
++ <https://github.com/shadowsocks/luci-app-shadowsocks/releases>
++ <https://github.com/aa65535/openwrt-chinadns/releases>
++ <https://github.com/aa65535/openwrt-dns-forwarder/releases>
++ <https://github.com/aa65535/openwrt-dist-luci/releases>
 
 ```sh
 scp shadowsocks-libev***.ipk root@192.168.1.1:/tmp
