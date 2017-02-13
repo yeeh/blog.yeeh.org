@@ -3,17 +3,17 @@ layout: post
 title: LEDE折腾shadowsocks
 date: 2017-2-12 22:25:00 +0800
 categories: 闲
-tags: lede,openwrt,shadowsocks,chinadns,路由
+tags: lede,openwrt,shadowsocks,chinadns,ubnt,路由
 ---
 
-之前搞了个ubnt的erx，就是系统不是openwrt找个新点的ss好麻烦，先刷成了openwrt。
+之前搞了个ubnt的erx，就是系统不是openwrt找个新点的ss要自己交叉编译好麻烦，于是刷成了openwrt。
 
-...然而我到今天才留意到lede，去年就从openwrt分家出来了。鉴于erx在openwrt那一直是trunk，lede已发了rc，就刷lede吧。
+...然而到今天才留意到lede，去年就从openwrt分家出来了。鉴于erx在openwrt那一直是trunk，lede已发了rc，就刷lede吧。
 
-从https://downloads.lede-project.org/releases/17.01.0-rc2/targets/ramips/mt7621/下erx的最新包，刷上去。
+从<https://downloads.lede-project.org/releases/17.01.0-rc2/targets/ramips/mt7621/>下erx的最新包，刷上去。
 
 ```sh
-sysupgrade -n ****.tar 
+sysupgrade -n ****.tar
 ```
 
 重启完成后，原版是连luci界面都没有的，先ssh进去装界面。
@@ -40,15 +40,15 @@ opkg install luci-app-upnp
 opkg install ip ipset iptables-mod-tproxy
 opkg install libopenssl
 ```
- 
+
 
 vi /etc/opkg.conf 或 opkg配置
 
 ```sh
-arch all 100  
-arch mipsel_24kc 200  
-arch ramips_24kec 300  
-arch ramips 400  
+arch all 100
+arch mipsel_24kc 200
+arch ramips_24kec 300
+arch ramips 400
 ```
 
 
