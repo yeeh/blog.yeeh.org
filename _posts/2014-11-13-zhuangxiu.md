@@ -269,9 +269,9 @@ tags: 装修
 <tr><td>燃气灶</td><td>方太 HC3BE.D</td><td>1</td><td>2500</td></tr>
 <tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
 <tr><td>安装</td><td>方太 </td><td>1</td><td>260</td></tr>
+<tr><td>微波炉/烤箱</td><td>松下 NN-DF382M</td><td>1</td><td>1630.24</td></tr>
 <tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>4197.05</td></tr>
 <tr><td>洗碗机安装材料</td><td>西门子</td><td>1</td><td>240</td></tr>
-
 <tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
 <tr><td>热水器</td><td>能率GQ-1680CAFE</td><td>1</td><td>3605</td></tr>
 <tr><td>热水循环</td><td>能率</td><td>1</td><td>2030</td></tr>
@@ -315,13 +315,13 @@ tags: 装修
 <tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td>-</td></tr>
 <tr><td>网线</td><td>安普 6类</td><td>120</td><td>-</td></tr>
 <tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
-<tr><td>路由</td><td>apple time capsule 2T</td><td>1</td><td><del>1799</del></td></tr>
-<tr><td>交换机</td><td>netgear GS116</td><td>1</td><td><del>190</del></td></tr>
-<tr><td>NAS</td><td>西数 mycloud mirror 6T</td><td>1</td><td><del>2849</del></td></tr>
-<tr><td>NAS</td><td>西数 my book live 3T</td><td>1</td><td><del>1149</del></td></tr>
-<tr><td>前置路由</td><td>netgear 4300</td><td>1</td><td>245</td></tr>
-<tr><td>硬盘机</td><td>小米 路由</td><td>1</td><td>699</td></tr>
-<tr><td>摄像头</td><td>小米</td><td>2</td><td>298</td></tr>
+<tr><td>路由</td><td>ubnt usg</td><td>1</td><td>650</td></tr>
+<tr><td>无线ap</td><td>ubnt uap-ac-pro</td><td>1</td><td>1150</td></tr>
+<tr><td>交换机</td><td>netgear GS116ev2</td><td>1</td><td>550</td></tr>
+<tr><td>NAS</td><td>群晖 ds916+</td><td>1</td><td>4100</td></tr>
+<tr><td>硬盘</td><td>4t*2 3t*2 3t*3</td><td>1</td><td>1998+1599+1500</td></tr>
+<tr><td>下载机</td><td>迅雷 下载宝+3t硬盘</td><td>1</td><td>199+799</td></tr>
+<tr><td>摄像头</td><td>中兴 720p</td><td>1</td><td>249</td></tr>
 <tr><td>指纹锁</td><td>耶鲁</td><td>1</td><td></td></tr>
 <tr><td>猫眼</td><td>移康智能 叮咚mini</td><td>1</td><td>479</td></tr>
 <tr><td>红外遥控</td><td>小米</td><td>1</td><td>105</td></tr>
@@ -339,7 +339,7 @@ tags: 装修
 <tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td>315.68</td></tr>
 <tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td>358.32</td></tr>
 <tr><td>电视插座</td><td>施耐德 丰尚</td><td>5</td><td>121</td></tr>
-<tr><td>电视</td><td>小米 60'</td><td>2</td><td></td></tr>
+<tr><td>电视</td><td>小米 65'</td><td>2</td><td></td></tr>
 <tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
 <tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
 <tr><td>机顶盒</td><td>小米 电视主机</td><td>1</td><td>1049</td></tr>
@@ -347,11 +347,12 @@ tags: 装修
 <tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
 <tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
 <tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
-<tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td></td></tr>
-<tr><td>卧室音响</td><td>libratone loop</td><td>1</td><td>2995.58</td></tr>
-<tr><td>卧室音响</td><td>sony srs-x9</td><td>1</td><td></td></tr>
+<tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td>14588</td></tr>
+<tr><td>卧室音响</td><td>b&o a6</td><td>1</td><td></td></tr>
+<tr><td>卧室音响</td><td>b&o m5</td><td>1</td><td></td></tr>
 <tr><td>书房音响</td><td>harman/kardon aura</td><td>1</td><td><del>2300</del></td></tr>
-<tr><td>书房耳机</td><td>b&o h8</td><td>1</td><td>2850</td></tr>
+<tr><td>书房耳机</td><td>b&o h7</td><td>1</td><td>2350</td></tr>
+<tr><td>书房耳机</td><td>b&o h5</td><td>1</td><td>1599</td></tr>
 </tbody>
 </table>
 
@@ -373,7 +374,8 @@ tags: 装修
 <tr><td>储藏室墙轨+搁板</td><td>ikea </td><td>2</td><td>500</td></tr>
 <tr><td>书房墙轨</td><td></td><td>4</td><td>117.88</td></tr>
 <tr><td>书房支架</td><td></td><td>3+10</td><td>65.7+106.1</td></tr>
-<tr><td>书房隔板</td><td></td><td>10+3</td><td>850+630.24</td></tr>
+<tr><td>书房搁板</td><td></td><td>10+3</td><td>850+630.24</td></tr>
+<tr><td>角落搁板</td><td></td><td>6</td><td>1300</td></tr>
 <tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
 <tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
 <tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
@@ -402,7 +404,6 @@ tags: 装修
 <thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
 <tbody>
 <tr><td>电饭锅</td><td>苏泊尔</td><td>1</td><td><del>399</del></td></tr>
-<tr><td>微波炉/烤箱</td><td>松下 NN-DF382M</td><td>1</td><td>1630.24</td></tr>
 <tr><td>电磁炉</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
 <tr><td>饮水机</td><td>朗宁</td><td>1</td><td><del>99</del></td></tr>
 <tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
@@ -424,7 +425,7 @@ tags: 装修
 <tr><td>加湿器</td><td>美的</td><td>1</td><td><del>199</del></td></tr>
 <tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
 <tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
-<tr><td>刮胡刀</td><td>飞利浦 RQ370</td><td>1</td><td><del>418</del></td></tr>
+<tr><td>刮胡刀</td><td>松下ES-LV95-S</td><td>1</td><td>998</td></tr>
 <tr><td>理发器</td><td>飞利浦 QC5570</td><td>1</td><td>310</td></tr>
 </tbody>
 </table>
