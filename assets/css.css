@@ -217,7 +217,6 @@ embed{ display: none;}
 }
 
 /* >1000px */
-
 @media screen and (min-width:1000px) {
   .header, .nav, .search, .link, .links{ width: 250px;  right:40px;}
   .header, .nav, .search{ position: fixed;}
@@ -235,4 +234,14 @@ embed{ display: none;}
   .links{ top: 240px; }
   .link, .links{ position: fixed;}
   .link h6{border-bottom: solid 1px #e2e2e2;}
+}
+
+/*retina font-size*/
+@media screen and (min-resolution: 192dpi) {
+  body,button,input,select,textarea{
+    font-size:20px;
+  }
+  .entry-title{
+    font-size: 36px;
+  }
 }
