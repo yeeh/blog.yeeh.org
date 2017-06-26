@@ -16,13 +16,13 @@ faq：
 
 1、<www.passid.org>架设在github，所有密码在浏览器生成，不提交任何数据到后端，欢迎右键
 
-2、<www.passid.org>完全开源，代码托管在<https://github.com/passid/www.passid.org>，欢迎fork
+2、<www.passid.org>完全开源，代码托管在[github](https://github.com/passid/www.passid.org)，欢迎fork
 
 3、算法采用公开算法的sha512和增加了字符的base64，生成方法为base64(sha512(用户名+网站域名+salt))，有效防止cmd5等网站的现有库^_^
 
 4、base64增加的字符为-@#~,.[]()!%^*$&
 
-ps：<www.passid.org>不支持低于ie9下的浏览器，如果侥幸浏览正常，实属意外。实际上我只测试过mac上的chrome，因为只忙了几小时...
+ps：[www.passid.org](http://passid.org/)不支持低于ie9下的浏览器，如果侥幸浏览正常，实属意外。实际上我只测试过mac上的chrome，因为只忙了几小时...
 
 ps2：第一版代码也比较丑...
 
