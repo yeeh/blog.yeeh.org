@@ -14,9 +14,9 @@ tags: 密码,密码生成器,在线密码生成器,passid.org,password-generator
 
 faq：
 
-1、<www.passid.org>架设在github，所有密码在浏览器生成，不提交任何数据到后端，欢迎右键
+1、架设在github，所有密码在浏览器生成，不提交任何数据到后端，欢迎右键
 
-2、<www.passid.org>完全开源，代码托管在[github](https://github.com/passid/www.passid.org)，欢迎fork
+2、完全开源，代码托管在 [github](http://github.com/passid/www.passid.org) ，欢迎fork
 
 3、算法采用公开算法的sha512和增加了字符的base64，生成方法为base64(sha512(用户名+网站域名+salt))，有效防止cmd5等网站的现有库^_^
 

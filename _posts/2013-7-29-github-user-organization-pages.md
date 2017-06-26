@@ -20,6 +20,6 @@ tags: github pages
 
 其他规矩和设立一个github pages无啥区别，一样可以用自定义域名，自定义404之类的。
 
-可以看[源码](https://github.com/perryyeh/perryyeh.github.io)。我的比较简单，直接跳转到其他网址去了。
+可以看[源码](http://github.com/perryyeh/perryyeh.github.io)。我的比较简单，直接跳转到其他网址去了。
 
 至于项目的首页，是类似http://username.github.io/project这样的网址，和设置github pages差不多，要gh-pages分支才会建立页面，当然也可以用cname之类的。
