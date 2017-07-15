@@ -26,14 +26,11 @@ $ cd /usr/local/sbin/acme.sh
 godaddy api，在其他地方注册的域名虽然可以用godaddy的dns，但却用不了api，显示域名找不到，不知道是godaddy的故意控制还是bug，按理有dns就能用才对。
 
 * api的账号密码问题
-在account.conf里配置后直接执行acme.sh失败说未授权，最后是直接输入
-
+在account.conf里配置后直接执行acme.sh失败说未授权，最后是直接输入下面内容后执行acme。
 ```sh
 $ export GD_Key="***"
 $ export GD_Secret="***"
 ```
-
-后再执行acme。
 
 * 证书目录
 如果要替换synology的默认证书，按照教程即可。
