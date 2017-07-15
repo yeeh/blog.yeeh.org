@@ -15,11 +15,11 @@ tags: synology,群晖,nas,https,ssl,证书
 
 ### 安装并切到目录
 ```sh
-# wget https://github.com/Neilpang/acme.sh/archive/master.tar.gz
-# tar xvf master.tar.gz
-# cd acme.sh-master/
-# ./acme.sh --install --nocron --home /usr/local/sbin/acme.sh
-# cd /usr/local/sbin/acme.sh
+$ wget https://github.com/Neilpang/acme.sh/archive/master.tar.gz
+$ tar xvf master.tar.gz
+$ cd acme.sh-master/
+$ ./acme.sh --install --nocron --home /usr/local/sbin/acme.sh
+$ cd /usr/local/sbin/acme.sh
 ```
 
 ### [api问题](https://github.com/Neilpang/acme.sh/blob/master/dnsapi/README.md)
@@ -29,8 +29,8 @@ godaddy api，在其他地方注册的域名虽然可以用godaddy的dns，但�
 在account.conf里配置后直接执行acme.sh失败说未授权，最后是直接输入
 
 ```sh
-# export GD_Key="***"
-# export GD_Secret="***"
+$ export GD_Key="***"
+$ export GD_Secret="***"
 ```
 
 后再执行acme。
@@ -42,11 +42,11 @@ godaddy api，在其他地方注册的域名虽然可以用godaddy的dns，但�
 
 ### 执行，下面是godaddy api，其他api对照替换
 ```sh
-# /usr/local/sbin/acme.sh/acme.sh --issue -d yourdomain.com --dns dns_gd --certpath /usr/syno/etc/certificate/_archive/vPATH/cert.pem --keypath /usr/syno/etc/certificate/_archive/vPATH/privkey.pem --fullchainpath /usr/syno/etc/certificate/_archive/vPATH/fullchain.pem --capath /usr/syno/etc/certificate/_archive/vPATH/chain.pem --reloadcmd "/usr/syno/etc/rc.sysv/nginx.sh reload" --dnssleep 10
+$ /usr/local/sbin/acme.sh/acme.sh --issue -d yourdomain.com --dns dns_gd --certpath /usr/syno/etc/certificate/_archive/vPATH/cert.pem --keypath /usr/syno/etc/certificate/_archive/vPATH/privkey.pem --fullchainpath /usr/syno/etc/certificate/_archive/vPATH/fullchain.pem --capath /usr/syno/etc/certificate/_archive/vPATH/chain.pem --reloadcmd "/usr/syno/etc/rc.sysv/nginx.sh reload" --dnssleep 10
 ```
 
 ### 任务调度
-没有加cronjob，直接在设置里增加的user script，内容如上，设定为每个月执行一次，并报告执行结果。
+没有加cronjob，直接在设置里增加的user script，内容如上2步合并，设定为每个月执行一次，并报告执行结果。
 
 
 
