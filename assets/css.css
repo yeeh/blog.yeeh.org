@@ -28,7 +28,9 @@ strong, b{font-weight:bold;}
 blockquote {border-left:5px solid #e5e5e5; margin:10px 0; padding:0 0 0 20px; }
 pre { padding:10px 20px; border-radius: 5px; background: #f6f6f6; border:1px solid #e5e5e5; overflow-x: auto;}
 table {width:100%;}
-th, td {text-align:left;padding:5px 10px; border-bottom:1px solid #e5e5e5;}
+th, td {text-align:left; padding:5px 10px; border:1px solid #e5e5e5;}
+th{ font-weight: bold; }
+table tr:nth-child(2n) {background-color: #f8f8f8;}
 dt {color:#444;font-weight:700;}
 th {color:#444;}
 img {max-width:100%;}
