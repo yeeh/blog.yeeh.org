@@ -6,446 +6,427 @@ categories: 手
 tags: 装修
 ---
 
-###水
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>湿地漏</td><td>潜水艇</td><td>2</td><td>146</td></tr>
-<tr><td>干地漏</td><td>潜水艇</td><td>4</td><td>232</td></tr>
-<tr><td>洗衣机地漏</td><td>潜水艇</td><td>1</td><td>58</td></tr>
-<tr><td>地漏三通</td><td>潜水艇</td><td>1</td><td>12</td></tr>
-<tr><td>生料带</td><td>潜水艇</td><td>5</td><td>29.9</td></tr>
-<tr><td>洗衣机角阀</td><td>潜水艇 双头</td><td>1</td><td>92.55</td></tr>
-<tr><td>水前置粗滤</td><td>霍尼韦尔 FF06</td><td>1</td><td>346</td></tr>
-<tr><td>水槽</td><td>摩恩 23302SL+MCL7594C+7011</td><td>1</td><td>1573.88</td></tr>
-<tr><td>台盆</td><td>TOTO LW546+DL35A</td><td>1</td><td>889</td></tr>
-<tr><td>台盆</td><td>TOTO LW537+DL35A</td><td>1</td><td>932.46</td></tr>
-<tr><td>台盆柜</td><td>德意</td><td>2</td><td>4000</td></tr>
-<tr><td>浴室镜</td><td>箭牌 ayj348-a/apyjgap</td><td>2</td><td>950</td></tr>
-<tr><td>花洒</td><td>汉斯格雅 27227000/27215T</td><td>2</td><td>3039.76+3671.27</td></tr>
-<tr><td>马桶/卫洗丽</td><td>TOTO CW636CB＋CES4731CS</td><td>2</td><td></td></tr>
-<tr><td>马桶安装件</td><td>TOTO D104</td><td>2</td><td></td></tr>
-<tr><td>淋浴房</td><td>绿叶</td><td>2</td><td>3550</td></tr>
-<tr><td>双层角蓝</td><td>摩恩 90102</td><td>2</td><td>761.74</td></tr>
-<tr><td>单层毛巾架</td><td>摩恩 aac1303</td><td>2</td><td>252.6</td></tr>
-<tr><td>双层毛巾架</td><td>摩恩 aac1301</td><td>3</td><td>907.6</td></tr>
-<tr><td>双杆毛巾架</td><td>摩恩 aac9927</td><td>1</td><td>455</td></tr>
-<tr><td>吹风机架 马桶刷 毛巾架</td><td></td><td>1</td><td>215.6</td></tr>
-<tr><td>调料架</td><td>摩恩 kac010sl</td><td>1</td><td>292.75</td></tr>
-<tr><td>角阀</td><td>摩恩</td><td>7冷2热</td><td>268.74</td></tr>
-<tr><td>洗碗机角阀</td><td>潜水艇 双头</td><td>1</td><td>83.18</td></tr>
-<tr><td>洗衣机柜</td><td>爱瑞仕</td><td>1</td><td>1478.75</td></tr>
-<tr><td>水管</td><td>土耳其 皮尔萨 d25</td><td>172</td><td>－</td></tr>
-<tr><td>脸盆下水管</td><td>潜水艇</td><td>2</td><td>176</td></tr>
-</tbody>
-</table>
+### 水
 
-###电
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>强电箱</td><td>施耐德 20回路</td><td>1</td><td>226.02</td></tr>
-<tr><td>空开</td><td>施耐德 C65 2p63a</td><td>1</td><td>127</td></tr>
-<tr><td>过欠压</td><td>施耐德 2p63a</td><td>1</td><td>299</td></tr>
-<tr><td>汇流排</td><td>施耐德</td><td>1</td><td>84</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac16a</td><td>4</td><td>143.68</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac20a</td><td>4</td><td>152</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac25a</td><td>2</td><td>93.96</td></tr>
-<tr><td>空开</td><td>施耐德 vigi＋ idpna32a</td><td>5</td><td>548.3</td></tr>
-<tr><td>空开</td><td>施耐德 dpnac40a</td><td>1</td><td>41.27</td></tr>
-<tr><td>暗盒</td><td>施耐德 S060</td><td>170</td><td>1056.84</td></tr>
-<tr><td>开关/插座</td><td>施耐德 丰尚2居(45个)</td><td>2</td><td>1198</td></tr>
-<tr><td>开关</td><td>施耐德 丰尚</td><td>7</td><td>100</td></tr>
-<tr><td>插座</td><td>施耐德 丰尚 5孔</td><td>34</td><td>454</td></tr>
-<tr><td>插座</td><td>施耐德 丰尚 4孔</td><td>5</td><td>79.85</td></tr>
-<tr><td>防溅盒</td><td>施耐德 c080</td><td>5</td><td>90</td></tr>
-<tr><td>空白盒</td><td>施耐德</td><td>5</td><td>47.5</td></tr>
-<tr><td>双极开关</td><td>施耐德</td><td>2</td><td>98</td></tr>
-<tr><td>中途开关</td><td>施耐德</td><td>3</td><td>276.03</td></tr>
-<tr><td>线管</td><td>中财</td><td>500</td><td>－</td></tr>
-<tr><td>电线</td><td>熊猫</td><td>1600米</td><td>5700.41</td></tr>
-</tbody>
-</table>
-
-###电线分布
-<table>
-<thead><tr><th>型号</th><th>颜色</th><th>数量</th></tr></thead>
-<tbody>
-<tr><td>6平方</td><td>红色</td><td>100</td></tr>
-<tr><td></td><td>蓝色</td><td>100</td></tr>
-<tr><td></td><td>黄绿双色</td><td>100</td></tr>
-<tr><td>4平方</td><td>红色</td><td>250</td></tr>
-<tr><td></td><td>蓝色</td><td>250</td></tr>
-<tr><td></td><td>黄绿双色</td><td>200</td></tr>
-<tr><td>2.5平方</td><td>红色</td><td>250</td></tr>
-<tr><td></td><td>绿色</td><td>100</td></tr>
-<tr><td></td><td>黄色</td><td>100</td></tr>
-<tr><td></td><td>蓝色</td><td>150</td></tr>
-</tbody>
-</table>
-
-###暗盒分布
-<table>
-<thead><tr><th>位置</th><th>分布</th><th>合计数量</th></tr></thead>
-<tbody>
-<tr><td>空调</td><td></td><td>6</td></tr>
-<tr><td>新风</td><td></td><td>1</td></tr>
-<tr><td>开关</td><td></td><td>27</td></tr>
-<tr><td>音箱</td><td></td><td>12</td></tr>
-<tr><td>网络</td><td>9备份2</td><td>11</td></tr>
-<tr><td>有线电视</td><td></td><td>4</td></tr>
-<tr><td>卫星电视</td><td></td><td>1</td></tr>
-<tr><td>璧脚灯</td><td></td><td>2</td></tr>
-<tr><td>厨房</td><td>上4中8下6备份2</td><td>20</td></tr>
-<tr><td>储藏间</td><td></td><td>4</td></tr>
-<tr><td>大门</td><td></td><td>1</td></tr>
-<tr><td>南阳台</td><td>左右各1</td><td>2</td></tr>
-<tr><td>北阳台</td><td>上2下2</td><td>4</td></tr>
-<tr><td>卧室</td><td>（电视3+床边4+角落1）×3</td><td>24</td></tr>
-<tr><td>客厅</td><td>大音响1 低音炮1 背景墙8 投影1 幕布1</td><td>12</td></tr>
-<tr><td>餐厅</td><td></td><td>4</td></tr>
-<tr><td>衣柜</td><td></td><td>3</td></tr>
-<tr><td>卫生间</td><td>（中4+下3）×2</td><td>14</td></tr>
-</tbody>
-</table>
-
-###开关分布
-<table>
-<thead><tr><th>位置</th><th>型号</th><th>数量</th></tr></thead>
-<tbody>
-<tr><td>厨房</td><td>三联单控</td><td>1</td></tr>
-<tr><td></td><td>单联双控</td><td>1</td></tr>
-<tr><td>餐厅</td><td>单联双控</td><td>3</td></tr>
-<tr><td></td><td>双联双控</td><td>2</td></tr>
-<tr><td>书房</td><td>单联单控</td><td>1</td></tr>
-<tr><td>客厅</td><td>双联双控</td><td>2</td></tr>
-<tr><td>阳台</td><td>单联单控</td><td>1</td></tr>
-<tr><td>主卧</td><td>单联双控</td><td>2</td></tr>
-<tr><td></td><td>中途开关</td><td>1</td></tr>
-<tr><td></td><td>单联单控</td><td>1</td></tr>
-<tr><td>北卧</td><td>单联双控</td><td>2</td></tr>
-<tr><td></td><td>中途开关</td><td>1</td></tr>
-<tr><td></td><td>单联单控</td><td>1</td></tr>
-<tr><td>客卧</td><td>单联双控</td><td>2</td></tr>
-<tr><td></td><td>中途开关</td><td>1</td></tr>
-<tr><td>主厕</td><td>双极开关</td><td>1</td></tr>
-<tr><td></td><td>双联单控</td><td>1</td></tr>
-<tr><td>客厕</td><td>双极开关</td><td>1</td></tr>
-<tr><td></td><td>双联单控</td><td>1</td></tr>
-<tr><td>南北过道</td><td>双联单控</td><td>1</td></tr>
-</tbody>
-</table>
-
-###开关合计 数量27
-<table>
-<thead><tr><th>类型</th><th>数量</th></tr></thead>
-<tbody>
-<tr><td>三联单控</td><td>1</td></tr>
-<tr><td>单联单控</td><td>4</td></tr>
-<tr><td>单联双控</td><td>10</td></tr>
-<tr><td>双联单控</td><td>3</td></tr>
-<tr><td>双联双控</td><td>4</td></tr>
-<tr><td>中途开关</td><td>3</td></tr>
-<tr><td>双极开关</td><td>2</td></tr>
-</tbody>
-</table>
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+湿地漏 | 潜水艇 | 2 | 146
+干地漏 | 潜水艇 | 4 | 232
+洗衣机地漏 | 潜水艇 | 1 | 58
+地漏三通 | 潜水艇 | 1 | 12
+生料带 | 潜水艇 | 5 | 29.9
+洗衣机角阀 | 潜水艇 双头 | 1 | 92.55
+水前置粗滤 | 霍尼韦尔 FF06 | 1 | 346
+水槽 | 摩恩 23302SL+MCL7594C+7011 | 1 | 1573.88
+台盆 | TOTO LW546+DL35A | 1 | 889
+台盆 | TOTO LW537+DL35A | 1 | 932.46
+台盆柜 | 德意 | 2 | 4000
+浴室镜 | 箭牌 ayj348-a/apyjgap | 2 | 950
+花洒 | 汉斯格雅 27227000/27215T | 2 | 3039.76+3671.27
+马桶/卫洗丽 | TOTO CW636CB＋CES4731CS | 2 | 
+马桶安装件 | TOTO D104 | 2 | 
+淋浴房 | 绿叶 | 2 | 3550
+双层角蓝 | 摩恩 90102 | 2 | 761.74
+单层毛巾架 | 摩恩 aac1303 | 2 | 252.6
+双层毛巾架 | 摩恩 aac1301 | 3 | 907.6
+双杆毛巾架 | 摩恩 aac9927 | 1 | 455
+吹风机架 马桶刷 毛巾架 |  | 1 | 215.6
+调料架 | 摩恩 kac010sl | 1 | 292.75
+角阀 | 摩恩 | 7冷2热 | 268.74
+洗碗机角阀 | 潜水艇 双头 | 1 | 83.18
+洗衣机柜 | 爱瑞仕 | 1 | 1478.75
+水管 | 土耳其 皮尔萨 d25 | 172 | －
+脸盆下水管 | 潜水艇 | 2 | 176
 
 
-###空开安排
-<table>
-<thead><tr><th>位置</th><th>安培</th><th>数量</th></tr></thead>
-<tbody>
-<tr><td>总－带漏电</td><td>63a</td><td>1</td></tr>
-<tr><td>过欠压</td><td>63a</td><td>1</td></tr>
-<tr><td>灯－入户/南卧/客厅/主卧/主卫/南过道</td><td>16a</td><td>1</td></tr>
-<tr><td>灯－厨/餐厅/书房/北卧/客卫/北过道</td><td>16a</td><td>1</td></tr>
-<tr><td>插座－网络/储藏间＋冰箱</td><td>16a</td><td>1</td></tr>
-<tr><td>插座－卧室</td><td>20a</td><td>3</td></tr>
-<tr><td>插座－书房</td><td>25a</td><td>1</td></tr>
-<tr><td>插座－餐厅/新风</td><td>25a</td><td>1</td></tr>
-<tr><td>插座－客厅</td><td>20a</td><td>1</td></tr>
-<tr><td>插座－厨房/阳台－带漏电</td><td>32a</td><td>1</td></tr>
-<tr><td>插座－厕所+过道－带漏电</td><td>32a</td><td>2</td></tr>
-<tr><td>空调室外－带漏电</td><td>32a</td><td>1</td></tr>
-<tr><td>空调室内-带漏电</td><td>32a</td><td>1</td></tr>
-</tbody>
-</table>
+### 电
 
-###灯
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>入户灯</td><td>松下 HHLA0607 感应</td><td>2</td><td>218</td></tr>
-<tr><td>客厅灯</td><td>松下 未来光 HFAC1057WS02</td><td>1</td><td>996.9</td></tr>
-<tr><td>卧室灯</td><td>飞利浦 飞悦30548 32w</td><td>3</td><td>324</td></tr>
-<tr><td>厨房灯</td><td>欧普 LYZL08 21w</td><td>1</td><td>183.5</td></tr>
-<tr><td>厨房灯</td><td>欧普 LYZL08 11w</td><td>1</td><td>93.5</td></tr>
-<tr><td>柜内灯</td><td>ikea 斯奇伯 照明条</td><td>20</td><td></td></tr>
-<tr><td>柜下灯</td><td>松下 05104</td><td>2</td><td>470</td></tr>
-<tr><td>厕所灯</td><td>欧普 LYZL08 11w</td><td>2</td><td>197</td></tr>
-<tr><td>餐厅灯</td><td>ikea 布里萨</td><td>1</td><td>249</td></tr>
-<tr><td>阳台灯</td><td>飞利浦 新亮彩 22w</td><td>2</td><td>70</td></tr>
-<tr><td>过道灯</td><td>松下 HHLA0606</td><td>2</td><td>168</td></tr>
-<tr><td>筒灯</td><td>欧普 6cm 3w</td><td>14</td><td>418</td></tr>
-<tr><td>灯带</td><td>欧普 6500k+灯带插座</td><td>22米</td><td>258.5</td></tr>
-<tr><td>壁脚灯</td><td>ABB AU40653-WW</td><td>2</td><td>426.84</td></tr>
-<tr><td>床脚灯</td><td>松下 HHLT0205 感应</td><td>9</td><td></td></tr>
-<tr><td>飘窗灯</td><td>ikea 麦勒迪</td><td>1</td><td>39.9</td></tr>
-<tr><td>飘窗灯</td><td>ikea 布洛玛</td><td>2</td><td>39.9</td></tr>
-<tr><td>镜前灯</td><td>飞利浦 水云间32033</td><td>2</td><td>328</td></tr>
-<tr><td>床边台灯</td><td>小米 床头灯</td><td>4</td><td></td></tr>
-<tr><td>书桌台灯</td><td>ikea 特提亚</td><td>1</td><td><del>69</del></td></tr>
-<tr><td>灯泡 e14</td><td>飞利浦 冷光</td><td>1</td><td>14</td></tr>
-<tr><td>灯泡 e14</td><td>松下 暖光</td><td>4</td><td>79.6</td></tr>
-<tr><td>灯泡 e27</td><td>小米</td><td>2</td><td>118</td></tr>
-</tbody>
-</table>
-
-###门窗
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>封阳台</td><td>凤铝 799 1.8mm</td><td>2</td><td>8000</td></tr>
-<tr><td>窗户</td><td>凤铝 50</td><td>6</td><td>9000</td></tr>
-<tr><td>纱窗</td><td>钢丝网</td><td>13</td><td>3500</td></tr>
-<tr><td>2扇换4扇窗</td><td>凤铝 50</td><td>6</td><td>1500</td></tr>
-<tr><td>防盗门</td><td>盼盼 甲级77</td><td>1</td><td>2502</td></tr>
-<tr><td>卧室门</td><td>久聚 AQH-077</td><td>3</td><td>3750</td></tr>
-<tr><td>厕所门</td><td>久聚 AQH-080</td><td>2</td><td>2700</td></tr>
-<tr><td>门套/窗套</td><td>久聚</td><td>2</td><td>502</td></tr>
-<tr><td>厨房门</td><td>欧梦 车边格 移门</td><td>1</td><td>700</td></tr>
-<tr><td>书房门</td><td>欧梦 车边格 移门</td><td>1</td><td>800</td></tr>
-<tr><td>阳台门</td><td>欧梦 车边格 移门</td><td>1</td><td>1160</td></tr>
-<tr><td>储藏室门</td><td>pvc折叠门</td><td>1</td><td>188</td></tr>
-<tr><td>卫生间窗户贴膜</td><td></td><td>1</td><td>25</td></tr>
-</tbody>
-</table>
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+强电箱 | 施耐德 20回路 | 1 | 226.02
+空开 | 施耐德 C65 2p63a | 1 | 127
+过欠压 | 施耐德 2p63a | 1 | 299
+汇流排 | 施耐德 | 1 | 84
+空开 | 施耐德 dpnac16a | 4 | 143.68
+空开 | 施耐德 dpnac20a | 4 | 152
+空开 | 施耐德 dpnac25a | 2 | 93.96
+空开 | 施耐德 vigi＋ idpna32a | 5 | 548.3
+空开 | 施耐德 dpnac40a | 1 | 41.27
+暗盒 | 施耐德 S060 | 170 | 1056.84
+开关/插座 | 施耐德 丰尚2居(45个) | 2 | 1198
+开关 | 施耐德 丰尚 | 7 | 100
+插座 | 施耐德 丰尚 5孔 | 34 | 454
+插座 | 施耐德 丰尚 4孔 | 5 | 79.85
+防溅盒 | 施耐德 c080 | 5 | 90
+空白盒 | 施耐德 | 5 | 47.5
+双极开关 | 施耐德 | 2 | 98
+中途开关 | 施耐德 | 3 | 276.03
+线管 | 中财 | 500 | －
+电线 | 熊猫 | 1600米 | 5700.41
 
 
-###地面
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>地板</td><td>Kaindl 3720</td><td>73</td><td>10877</td></tr>
-<tr><td>踢脚线＋封条</td><td>必美</td><td>73</td><td>4324</td></tr>
-<tr><td>地垫宝</td><td>法宁格 20mm</td><td>73</td><td>1574.97</td></tr>
-<tr><td>地垫宝安装</td><td></td><td>73</td><td>90</td></tr>
-<tr><td>厨房地砖</td><td>东鹏 YF633403</td><td>--</td><td>1500</td></tr>
-<tr><td>卫生间地砖</td><td>东鹏 YF633405</td><td>--</td><td>2500</td></tr>
-<tr><td>阳台地砖</td><td>东鹏 YF602205</td><td>--</td><td>1000</td></tr>
-</tbody>
-</table>
+### 电线分布
 
-###墙壁
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>厨房墙砖</td><td>东鹏 YG600116</td><td>--</td><td>2000</td></tr>
-<tr><td>厨房墙砖</td><td>东鹏 YG603117</td><td>--</td><td>1000</td></tr>
-<tr><td>卫生间墙砖</td><td>东鹏 YF633401+YG633405</td><td>--</td><td>3000</td></tr>
-<tr><td>卧室/客餐厅/阳台/书房</td><td></td><td>5</td><td>－</td></tr>
-<tr><td>门边镜</td><td>定做</td><td>1</td><td>150</td></tr>
-<tr><td>窗帘轨道</td><td>定做</td><td>1</td><td>700</td></tr>
-<tr><td>橱柜</td><td>德意</td><td>1</td><td>15000</td></tr>
-<tr><td>鞋柜</td><td>德意</td><td>1</td><td>3000</td></tr>
-</tbody>
-</table>
-
-###顶
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>厨房</td><td>集成吊顶</td><td>1</td><td>0</td></tr>
-<tr><td>卫生间</td><td>集成吊顶</td><td>2</td><td>0</td></tr>
-<tr><td>卧室＋客餐厅</td><td>吊顶</td><td>2</td><td>0</td></tr>
-</tbody>
-</table>
-
-###电器
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>油烟机</td><td>方太 JQ02T.D</td><td>1</td><td>4000</td></tr>
-<tr><td>燃气灶</td><td>方太 HC3BE.D</td><td>1</td><td>2500</td></tr>
-<tr><td>消毒柜</td><td>方太 40QE.D</td><td>1</td><td>3099</td></tr>
-<tr><td>安装</td><td>方太 </td><td>1</td><td>260</td></tr>
-<tr><td>微波炉/烤箱</td><td>松下 NN-DF382M</td><td>1</td><td>1630.24</td></tr>
-<tr><td>洗碗机</td><td>西门子 SN23E831TI</td><td>1</td><td>4197.05</td></tr>
-<tr><td>洗碗机安装材料</td><td>西门子</td><td>1</td><td>240</td></tr>
-<tr><td>垃圾处理机</td><td>贝克巴斯 DM-500</td><td>1</td><td>930</td></tr>
-<tr><td>热水器</td><td>能率GQ-1680CAFE</td><td>1</td><td>3605</td></tr>
-<tr><td>热水循环</td><td>能率</td><td>1</td><td>2030</td></tr>
-<tr><td>热水器安装材料</td><td></td><td>1</td><td>110</td></tr>
-<tr><td>安装</td><td></td><td>1</td><td>250</td></tr>
-<tr><td>增压泵</td><td></td><td>1</td><td></td></tr>
-<tr><td>净水器</td><td></td><td>1</td><td></td></tr>
-<tr><td>新风机</td><td>霍尼韦尔 ER350</td><td>1</td><td>4500</td></tr>
-<tr><td>空气净化</td><td>霍尼韦尔 FC400</td><td>1</td><td>4500</td></tr>
-<tr><td>新风控制器</td><td>霍尼韦尔</td><td>1</td><td>320</td></tr>
-<tr><td>安装</td><td>－－</td><td>1</td><td>3800</td></tr>
-<tr><td>中央空调(外机)</td><td>格力GMV-H160WL/A</td><td>1</td><td>13000</td></tr>
-<tr><td>空调(客厅)</td><td>格力GMV-NH50PL/A</td><td>1</td><td>3000</td></tr>
-<tr><td>空调(卧室)</td><td>格力GMV-NH32PL/A</td><td>2</td><td>5000</td></tr>
-<tr><td>空调(餐厅)</td><td>格力GMV-NH25PL/A</td><td>1</td><td>2400</td></tr>
-<tr><td>空调(卧室)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
-<tr><td>空调(书房)</td><td>格力GMV-NH22PL/A</td><td>1</td><td>2200</td></tr>
-<tr><td>安装</td><td>－</td><td>1</td><td>8900</td></tr>
-<tr><td>安装改线路</td><td>－</td><td>1</td><td>2800</td></tr>
-<tr><td>空调外罩</td><td>－</td><td>1</td><td>100</td></tr>
-<tr><td>冰箱</td><td>松下 NR-W56S1</td><td>1</td><td>6999</td></tr>
-<tr><td>洗衣机</td><td>LG WD-T14410DL</td><td>1</td><td>2899</td></tr>
-<tr><td>浴室风暖</td><td>松下 FV-30BKS1C</td><td>2</td><td>3398</td></tr>
-<tr><td>小厨宝</td><td></td><td></td><td></td></tr>
-<tr><td>自动皂液器</td><td>欧碧宝 老款1＋新款2</td><td>3</td><td>492</td></tr>
-<tr><td>烘手机</td><td>松下 FJ-T09B3C</td><td>3</td><td>3930</td></tr>
-<tr><td>电吹风</td><td>松下 EH-NA30-R</td><td>1</td><td>342</td></tr>
-<tr><td>电吹风</td><td>松下 EH-NA45-W</td><td>1</td><td>789</td></tr>
-<tr><td>吹风机架 马桶刷 肥皂盒</td><td>dehub</td><td>2</td><td>215.6</td></tr>
-</tbody>
-</table>
-
-###网络
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>弱电箱</td><td>e代家园 GRS11-40</td><td>1</td><td>198.8</td></tr>
-<tr><td>电源</td><td>e代家园</td><td>1</td><td>98</td></tr>
-<tr><td>网线插座</td><td>施耐德 丰尚双孔</td><td>7</td><td>664.79</td></tr>
-<tr><td>网线插座</td><td>施耐德 丰尚单孔</td><td>4</td><td>0</td></tr>
-<tr><td>水晶头</td><td>山泽 SJ6100六类水晶头</td><td>40</td><td>-</td></tr>
-<tr><td>网线</td><td>安普 6类</td><td>120</td><td>-</td></tr>
-<tr><td>防雷插排</td><td>贝尔金</td><td>2</td><td><del>400</del></td></tr>
-<tr><td>路由</td><td>ubnt usg</td><td>1</td><td>650</td></tr>
-<tr><td>无线ap</td><td>ubnt uap-ac-pro</td><td>1</td><td>1150</td></tr>
-<tr><td>交换机</td><td>netgear GS116ev2</td><td>1</td><td>550</td></tr>
-<tr><td>NAS</td><td>群晖 ds916+</td><td>1</td><td>4100</td></tr>
-<tr><td>硬盘</td><td>4t*2 3t*2 3t*3</td><td>1</td><td>1998+1599+1500</td></tr>
-<tr><td>下载机</td><td>迅雷 下载宝+3t硬盘</td><td>1</td><td>199+799</td></tr>
-<tr><td>摄像头</td><td>中兴 720p</td><td>1</td><td>249</td></tr>
-<tr><td>指纹锁</td><td>耶鲁</td><td>1</td><td></td></tr>
-<tr><td>猫眼</td><td>移康智能 叮咚mini</td><td>1</td><td>479</td></tr>
-<tr><td>红外遥控</td><td>小米</td><td>1</td><td>105</td></tr>
-<tr><td>家庭网关</td><td>小米</td><td>1</td><td>199</td></tr>
-</tbody>
-</table>
-
-###视听
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>音频线</td><td>熊猫 100股 100米</td><td>1</td><td>360.56</td></tr>
-<tr><td>hdmi线</td><td>霍尼韦尔 G3075</td><td>1</td><td>99</td></tr>
-<tr><td>卫星电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
-<tr><td>音响插座 4孔</td><td>施耐德 丰尚双孔</td><td>4</td><td>315.68</td></tr>
-<tr><td>音响插座 2孔</td><td>施耐德 丰尚双孔</td><td>8</td><td>358.32</td></tr>
-<tr><td>电视插座</td><td>施耐德 丰尚</td><td>5</td><td>121</td></tr>
-<tr><td>电视</td><td>小米 65'</td><td>2</td><td></td></tr>
-<tr><td>电视线</td><td>熊猫</td><td>8</td><td>36.8</td></tr>
-<tr><td>机顶盒</td><td>apple tv</td><td>1</td><td>688.75</td></tr>
-<tr><td>机顶盒</td><td>小米 电视主机</td><td>1</td><td>1049</td></tr>
-<tr><td>投影</td><td>爱普生 TW5350</td><td>1</td><td></td></tr>
-<tr><td>幕布</td><td>影辉 120寸</td><td>1</td><td></td></tr>
-<tr><td>功放</td><td>harman/kardon AVR 151/230C</td><td>1</td><td></td></tr>
-<tr><td>音箱</td><td>harman/kardon HKTS 20BQ/230C</td><td>1</td><td></td></tr>
-<tr><td>客厅音响</td><td>b&o a9</td><td>1</td><td>14588</td></tr>
-<tr><td>卧室音响</td><td>b&o a6</td><td>1</td><td></td></tr>
-<tr><td>卧室音响</td><td>b&o m5</td><td>1</td><td></td></tr>
-<tr><td>书房音响</td><td>harman/kardon aura</td><td>1</td><td><del>2300</del></td></tr>
-<tr><td>书房耳机</td><td>b&o h7</td><td>1</td><td>2350</td></tr>
-<tr><td>书房耳机</td><td>b&o h5</td><td>1</td><td>1599</td></tr>
-</tbody>
-</table>
-
-###家具
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>床</td><td>原始原素 白橡1.8米</td><td>2</td><td>8300</td></tr>
-<tr><td>床柜</td><td>原始原素</td><td>4</td><td>3040+2679.35</td></tr>
-<tr><td>床垫</td><td>ikea 若克兰/海沃格</td><td>2</td><td>3698</td></tr>
-<tr><td>床垫送货</td><td></td><td>2</td><td>140</td></tr>
-<tr><td>衣柜</td><td></td><td>3</td><td>－</td></tr>
-<tr><td>衣柜墙轨+搁板</td><td>ikea 艾格特</td><td>3</td><td>4000</td></tr>
-<tr><td>客厅隔板</td><td>白橡 80cm</td><td>4</td><td>400</td></tr>
-<tr><td>餐厅隔板</td><td>白橡 80cm</td><td>2+3</td><td>217.11+323</td></tr>
-<tr><td>电视隔板</td><td>白橡 100cm</td><td>3</td><td>360</td></tr>
-<tr><td>餐桌</td><td>ikea 赫格斯比</td><td>1</td><td>999</td></tr>
-<tr><td>餐椅</td><td>ikea 伯尔杰</td><td>4</td><td>996</td></tr>
-<tr><td>储藏室墙轨+搁板</td><td>ikea </td><td>2</td><td>500</td></tr>
-<tr><td>书房墙轨</td><td></td><td>4</td><td>117.88</td></tr>
-<tr><td>书房支架</td><td></td><td>3+10</td><td>65.7+106.1</td></tr>
-<tr><td>书房搁板</td><td></td><td>10+3</td><td>850+630.24</td></tr>
-<tr><td>角落搁板</td><td></td><td>6</td><td>1300</td></tr>
-<tr><td>阳台晾衣架</td><td>明日</td><td>1</td><td>788</td></tr>
-<tr><td>户外晾衣架</td><td>明日</td><td>1</td><td>638</td></tr>
-<tr><td>电脑桌</td><td>ikea 贝肯特</td><td>1</td><td><del>799</del></td></tr>
-<tr><td>电脑桌面</td><td>榆木 5cm厚</td><td>1</td><td>860</td></tr>
-<tr><td>电脑椅</td><td>ikea 马库斯</td><td>1</td><td>999</td></tr>
-<tr><td>沙发</td><td>ikea 奇维</td><td>1</td><td>4299</td></tr>
-<tr><td>地毯</td><td>ikea 阿达姆</td><td>1</td><td>799</td></tr>
-<tr><td>沙发送货安装</td><td>ikea</td><td>1</td><td>428</td></tr>
-<tr><td>电视柜</td><td>白橡</td><td>1</td><td>2690</td></tr>
-<tr><td>人字梯</td><td>好太太 3层</td><td>1</td><td></td></tr>
-<tr><td>鞋柜挂钩</td><td>鹿角</td><td>1</td><td>49</td></tr>
-<tr><td>置物架</td><td>木智工坊</td><td>1</td><td></td></tr>
-<tr><td>木盆</td><td></td><td>2</td><td>576.41</td></tr>
-<tr><td>盖板</td><td>白橡</td><td>2</td><td>72.72</td></tr>
-<tr><td>框</td><td>白橡</td><td>1</td><td>106.5</td></tr>
-<tr><td>肥料</td><td></td><td>1</td><td>18.42</td></tr>
-<tr><td>花盆</td><td></td><td>1</td><td>195.9</td></tr>
-<tr><td>鹅卵石</td><td></td><td>1</td><td>17</td></tr>
-<tr><td>树</td><td></td><td>1</td><td>22.52</td></tr>
-</tbody>
-</table>
+型号 | 颜色 | 数量
+--- | --- | --- | ---
+6平方 | 红色 | 100
+ | 蓝色 | 100
+ | 黄绿双色 | 100
+4平方 | 红色 | 250
+ | 蓝色 | 250
+ | 黄绿双色 | 200
+2.5平方 | 红色 | 250
+ | 绿色 | 100
+ | 黄色 | 100
+ | 蓝色 | 150
 
 
-###厨用电器
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>电饭锅</td><td>苏泊尔</td><td>1</td><td><del>399</del></td></tr>
-<tr><td>电磁炉</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
-<tr><td>饮水机</td><td>朗宁</td><td>1</td><td><del>99</del></td></tr>
-<tr><td>豆浆机</td><td>美的</td><td>1</td><td><del>299</del></td></tr>
-<tr><td>榨汁机</td><td>美的</td><td>1</td><td><del>349</del></td></tr>
-<tr><td>电饼铛</td><td></td><td>1</td><td><del>0</del></td></tr>
-<tr><td>空气炸锅</td><td>飞利浦</td><td>1</td><td></td></tr>
-<tr><td>面包机</td><td></td><td>1</td><td></td></tr>
-<tr><td>咖啡机</td><td></td><td>1</td><td></td></tr>
-</tbody>
-</table>
+### 暗盒分布
 
-###日常电器
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>吸尘器</td><td>戴森</td><td>1</td><td></td></tr>
-<tr><td>扫地</td><td>iRobot</td><td>1</td><td></td></tr>
-<tr><td>拖地</td><td>iRobot</td><td>1</td><td></td></tr>
-<tr><td>加湿器</td><td>美的</td><td>1</td><td><del>199</del></td></tr>
-<tr><td>电动牙刷</td><td>飞利浦 HX6730</td><td>2</td><td><del>678</del></td></tr>
-<tr><td>耳温枪</td><td>博朗 IRT6500</td><td>1</td><td><del>298</del></td></tr>
-<tr><td>刮胡刀</td><td>松下ES-LV95-S</td><td>1</td><td>998</td></tr>
-<tr><td>理发器</td><td>飞利浦 QC5570</td><td>1</td><td>310</td></tr>
-</tbody>
-</table>
+位置 | 分布 | 合计数量
+--- | --- | --- 
+空调 |  | 6
+新风 |  | 1
+开关 |  | 27
+音箱 |  | 12
+网络 | 9备份2 | 11
+有线电视 |  | 4
+卫星电视 |  | 1
+璧脚灯 |  | 2
+厨房 | 上4中8下6备份2 | 20
+储藏间 |  | 4
+大门 |  | 1
+南阳台 | 左右各1 | 2
+北阳台 | 上2下2 | 4
+卧室 | （电视3+床边4+角落1）×3 | 24
+客厅 | 大音响1 低音炮1 背景墙8 投影1 幕布1 | 12
+餐厅 |  | 4
+衣柜 |  | 3
+卫生间 | （中4+下3）×2 | 14
 
-###硬装
-<table>
-<thead><tr><th>项目</th><th>品牌</th><th>数量</th><th>总价</th></tr></thead>
-<tbody>
-<tr><td>硬装</td><td>－－－</td><td></td><td>81000</td></tr>
-<tr><td>水泥</td><td>海螺</td><td></td><td></td></tr>
-<tr><td>轻钢龙骨</td><td>泰山王</td><td></td><td></td></tr>
-<tr><td>石膏板</td><td>兔宝宝</td><td></td><td></td></tr>
-<tr><td>防水</td><td>邓禄普</td><td></td><td></td></tr>
-<tr><td>滑石粉</td><td>和妹</td><td></td><td></td></tr>
-<tr><td>白乳胶</td><td>天阁</td><td></td><td></td></tr>
-<tr><td>细木工板</td><td>兔宝宝 E1 16.5mm厚</td><td></td><td></td></tr>
-<tr><td>免漆工板</td><td>莫干山 E1 17mm厚</td><td></td><td></td></tr>
-<tr><td>万能胶</td><td>德力</td><td></td><td></td></tr>
-<tr><td>801胶水</td><td>兔宝宝</td><td></td><td></td></tr>
-<tr><td>石膏板</td><td>张氏</td><td></td><td></td></tr>
-<tr><td>竹炭</td><td>1</td><td>1</td><td>110</td></tr>
-</tbody>
-</table>
+
+### 开关分布
+
+位置 | 型号 | 数量
+--- | --- | --- 
+厨房 | 三联单控 | 1
+ | 单联双控 | 1
+餐厅 | 单联双控 | 3
+ | 双联双控 | 2
+书房 | 单联单控 | 1
+客厅 | 双联双控 | 2
+阳台 | 单联单控 | 1
+主卧 | 单联双控 | 2
+ | 中途开关 | 1
+ | 单联单控 | 1
+北卧 | 单联双控 | 2
+ | 中途开关 | 1
+ | 单联单控 | 1
+客卧 | 单联双控 | 2
+ | 中途开关 | 1
+主厕 | 双极开关 | 1
+ | 双联单控 | 1
+客厕 | 双极开关 | 1
+ | 双联单控 | 1
+南北过道 | 双联单控 | 1
+
+
+### 开关合计 数量27
+
+类型 | 数量
+--- | --- 
+三联单控 | 1
+单联单控 | 4
+单联双控 | 10
+双联单控 | 3
+双联双控 | 4
+中途开关 | 3
+双极开关 | 2
+
+
+
+### 空开安排
+
+位置 | 安培 | 数量
+--- | --- | --- 
+总－带漏电 | 63a | 1
+过欠压 | 63a | 1
+灯－入户/南卧/客厅/主卧/主卫/南过道 | 16a | 1
+灯－厨/餐厅/书房/北卧/客卫/北过道 | 16a | 1
+插座－网络/储藏间＋冰箱 | 16a | 1
+插座－卧室 | 20a | 3
+插座－书房 | 25a | 1
+插座－餐厅/新风 | 25a | 1
+插座－客厅 | 20a | 1
+插座－厨房/阳台－带漏电 | 32a | 1
+插座－厕所+过道－带漏电 | 32a | 2
+空调室外－带漏电 | 32a | 1
+空调室内-带漏电 | 32a | 1
+
+
+### 灯
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+入户灯 | 松下 HHLA0607 感应 | 2 | 218
+客厅灯 | 松下 未来光 HFAC1057WS02 | 1 | 996.9
+卧室灯 | 飞利浦 飞悦30548 32w | 3 | 324
+厨房灯 | 欧普 LYZL08 21w | 1 | 183.5
+厨房灯 | 欧普 LYZL08 11w | 1 | 93.5
+柜内灯 | ikea 斯奇伯 照明条 | 20 | 
+柜下灯 | 松下 05104 | 2 | 470
+厕所灯 | 欧普 LYZL08 11w | 2 | 197
+餐厅灯 | ikea 布里萨 | 1 | 249
+阳台灯 | 飞利浦 新亮彩 22w | 2 | 70
+过道灯 | 松下 HHLA0606 | 2 | 168
+筒灯 | 欧普 6cm 3w | 14 | 418
+灯带 | 欧普 6500k+灯带插座 | 22米 | 258.5
+壁脚灯 | ABB AU40653-WW | 2 | 426.84
+床脚灯 | 松下 HHLT0205 感应 | 9 | 
+飘窗灯 | ikea 麦勒迪 | 1 | 39.9
+飘窗灯 | ikea 布洛玛 | 2 | 39.9
+镜前灯 | 飞利浦 水云间32033 | 2 | 328
+床边台灯 | 小米 床头灯 | 4 | 
+书桌台灯 | ikea 特提亚 | 1 | ~~69~~
+灯泡 e14 | 飞利浦 冷光 | 1 | 14
+灯泡 e14 | 松下 暖光 | 4 | 79.6
+灯泡 e27 | 小米 | 2 | 118
+
+
+### 门窗
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+封阳台 | 凤铝 799 1.8mm | 2 | 8000
+窗户 | 凤铝 50 | 6 | 9000
+纱窗 | 钢丝网 | 13 | 3500
+2扇换4扇窗 | 凤铝 50 | 6 | 1500
+防盗门 | 盼盼 甲级77 | 1 | 2502
+卧室门 | 久聚 AQH-077 | 3 | 3750
+厕所门 | 久聚 AQH-080 | 2 | 2700
+门套/窗套 | 久聚 | 2 | 502
+厨房门 | 欧梦 车边格 移门 | 1 | 700
+书房门 | 欧梦 车边格 移门 | 1 | 800
+阳台门 | 欧梦 车边格 移门 | 1 | 1160
+储藏室门 | pvc折叠门 | 1 | 188
+卫生间窗户贴膜 |  | 1 | 25
+
+
+
+### 地面
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+地板 | Kaindl 3720 | 73 | 10877
+踢脚线＋封条 | 必美 | 73 | 4324
+地垫宝 | 法宁格 20mm | 73 | 1574.97
+地垫宝安装 |  | 73 | 90
+厨房地砖 | 东鹏 YF633403 | -- | 1500
+卫生间地砖 | 东鹏 YF633405 | -- | 2500
+阳台地砖 | 东鹏 YF602205 | -- | 1000
+
+
+### 墙壁
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+厨房墙砖 | 东鹏 YG600116 | -- | 2000
+厨房墙砖 | 东鹏 YG603117 | -- | 1000
+卫生间墙砖 | 东鹏 YF633401+YG633405 | -- | 3000
+卧室/客餐厅/阳台/书房 |  | 5 | －
+门边镜 | 定做 | 1 | 150
+窗帘轨道 | 定做 | 1 | 700
+橱柜 | 德意 | 1 | 15000
+鞋柜 | 德意 | 1 | 3000
+
+
+### 顶
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+厨房 | 集成吊顶 | 1 | 0
+卫生间 | 集成吊顶 | 2 | 0
+卧室＋客餐厅 | 吊顶 | 2 | 0
+
+
+### 电器
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+油烟机 | 方太 JQ02T.D | 1 | 4000
+燃气灶 | 方太 HC3BE.D | 1 | 2500
+消毒柜 | 方太 40QE.D | 1 | 3099
+安装 | 方太  | 1 | 260
+微波炉/烤箱 | 松下 NN-DF382M | 1 | 1630.24
+洗碗机 | 西门子 SN23E831TI | 1 | 4197.05
+洗碗机安装材料 | 西门子 | 1 | 240
+垃圾处理机 | 贝克巴斯 DM-500 | 1 | 930
+热水器 | 能率GQ-1680CAFE | 1 | 3605
+热水循环 | 能率 | 1 | 2030
+热水器安装材料 |  | 1 | 110
+安装 |  | 1 | 250
+增压泵 |  | 1 | 
+净水器 |  | 1 | 
+新风机 | 霍尼韦尔 ER350 | 1 | 4500
+空气净化 | 霍尼韦尔 FC400 | 1 | 4500
+新风控制器 | 霍尼韦尔 | 1 | 320
+安装 | －－ | 1 | 3800
+中央空调(外机) | 格力GMV-H160WL/A | 1 | 13000
+空调(客厅) | 格力GMV-NH50PL/A | 1 | 3000
+空调(卧室) | 格力GMV-NH32PL/A | 2 | 5000
+空调(餐厅) | 格力GMV-NH25PL/A | 1 | 2400
+空调(卧室) | 格力GMV-NH22PL/A | 1 | 2200
+空调(书房) | 格力GMV-NH22PL/A | 1 | 2200
+安装 | － | 1 | 8900
+安装改线路 | － | 1 | 2800
+空调外罩 | － | 1 | 100
+冰箱 | 松下 NR-W56S1 | 1 | 6999
+洗衣机 | LG WD-T14410DL | 1 | 2899
+浴室风暖 | 松下 FV-30BKS1C | 2 | 3398
+小厨宝 |  |  | 
+自动皂液器 | 欧碧宝 老款1＋新款2 | 3 | 492
+烘手机 | 松下 FJ-T09B3C | 3 | 3930
+电吹风 | 松下 EH-NA30-R | 1 | 342
+电吹风 | 松下 EH-NA45-W | 1 | 789
+吹风机架 马桶刷 肥皂盒 | dehub | 2 | 215.6
+
+
+### 网络
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+弱电箱 | e代家园 GRS11-40 | 1 | 198.8
+电源 | e代家园 | 1 | 98
+网线插座 | 施耐德 丰尚双孔 | 7 | 664.79
+网线插座 | 施耐德 丰尚单孔 | 4 | 0
+水晶头 | 山泽 SJ6100六类水晶头 | 40 | -
+网线 | 安普 6类 | 120 | -
+防雷插排 | 贝尔金 | 2 | ~~400~~
+路由 | ubnt usg | 1 | 650
+无线ap | ubnt uap-ac-pro | 1 | 1150
+交换机 | netgear GS116ev2 | 1 | 550
+NAS | 群晖 ds916+ | 1 | 4100
+硬盘 | 4t*2 3t*2 3t*3 | 1 | 1998+1599+1500
+下载机 | 迅雷 下载宝+3t硬盘 | 1 | 199+799
+摄像头 | 中兴 720p | 1 | 249
+指纹锁 | 耶鲁 | 1 | 
+猫眼 | 移康智能 叮咚mini | 1 | 479
+红外遥控 | 小米 | 1 | 105
+家庭网关 | 小米 | 1 | 199
+
+
+### 视听
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+音频线 | 熊猫 100股 100米 | 1 | 360.56
+hdmi线 | 霍尼韦尔 G3075 | 1 | 99
+卫星电视线 | 熊猫 | 8 | 36.8
+音响插座 4孔 | 施耐德 丰尚双孔 | 4 | 315.68
+音响插座 2孔 | 施耐德 丰尚双孔 | 8 | 358.32
+电视插座 | 施耐德 丰尚 | 5 | 121
+电视 | 小米 65' | 2 | 
+电视线 | 熊猫 | 8 | 36.8
+机顶盒 | apple tv | 1 | 688.75
+机顶盒 | 小米 电视主机 | 1 | 1049
+投影 | 爱普生 TW5350 | 1 | 
+幕布 | 影辉 120寸 | 1 | 
+功放 | harman/kardon AVR 151/230C | 1 | 
+音箱 | harman/kardon HKTS 20BQ/230C | 1 | 
+客厅音响 | b&o a9 | 1 | 14588
+卧室音响 | b&o a6 | 1 | 
+卧室音响 | b&o m5 | 1 | 
+书房音响 | harman/kardon aura | 1 | ~~2300~~
+书房耳机 | b&o h7 | 1 | 2350
+书房耳机 | b&o h5 | 1 | 1599
+
+
+### 家具
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+床 | 原始原素 白橡1.8米 | 2 | 8300
+床柜 | 原始原素 | 4 | 3040+2679.35
+床垫 | ikea 若克兰/海沃格 | 2 | 3698
+床垫送货 |  | 2 | 140
+衣柜 |  | 3 | －
+衣柜墙轨+搁板 | ikea 艾格特 | 3 | 4000
+客厅隔板 | 白橡 80cm | 4 | 400
+餐厅隔板 | 白橡 80cm | 2+3 | 217.11+323
+电视隔板 | 白橡 100cm | 3 | 360
+餐桌 | ikea 赫格斯比 | 1 | 999
+餐椅 | ikea 伯尔杰 | 4 | 996
+储藏室墙轨+搁板 | ikea  | 2 | 500
+书房墙轨 |  | 4 | 117.88
+书房支架 |  | 3+10 | 65.7+106.1
+书房搁板 |  | 10+3 | 850+630.24
+角落搁板 |  | 6 | 1300
+阳台晾衣架 | 明日 | 1 | 788
+户外晾衣架 | 明日 | 1 | 638
+电脑桌 | ikea 贝肯特 | 1 | ~~799~~
+电脑桌面 | 榆木 5cm厚 | 1 | 860
+电脑椅 | ikea 马库斯 | 1 | 999
+沙发 | ikea 奇维 | 1 | 4299
+地毯 | ikea 阿达姆 | 1 | 799
+沙发送货安装 | ikea | 1 | 428
+电视柜 | 白橡 | 1 | 2690
+人字梯 | 好太太 3层 | 1 | 
+鞋柜挂钩 | 鹿角 | 1 | 49
+置物架 | 木智工坊 | 1 | 
+木盆 |  | 2 | 576.41
+盖板 | 白橡 | 2 | 72.72
+框 | 白橡 | 1 | 106.5
+肥料 |  | 1 | 18.42
+花盆 |  | 1 | 195.9
+鹅卵石 |  | 1 | 17
+树 |  | 1 | 22.52
+
+
+
+### 厨用电器
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+电饭锅 | 苏泊尔 | 1 | ~~399~~
+电磁炉 | 美的 | 1 | ~~299~~
+饮水机 | 朗宁 | 1 | ~~99~~
+豆浆机 | 美的 | 1 | ~~299~~
+榨汁机 | 美的 | 1 | ~~349~~
+电饼铛 |  | 1 | ~~0~~
+空气炸锅 | 飞利浦 | 1 | 
+面包机 |  | 1 | 
+咖啡机 |  | 1 | 
+
+
+### 日常电器
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+吸尘器 | 戴森 | 1 | 
+扫地 | iRobot | 1 | 
+拖地 | iRobot | 1 | 
+加湿器 | 美的 | 1 | ~~199~~
+电动牙刷 | 飞利浦 HX6730 | 2 | ~~678~~
+耳温枪 | 博朗 IRT6500 | 1 | ~~298~~
+刮胡刀 | 松下ES-LV95-S | 1 | 998
+理发器 | 飞利浦 QC5570 | 1 | 310
+
+
+### 硬装
+
+项目 | 品牌 | 数量 | 总价
+--- | --- | --- | ---
+硬装 | －－－ |  | 81000
+水泥 | 海螺 |  | 
+轻钢龙骨 | 泰山王 |  | 
+石膏板 | 兔宝宝 |  | 
+防水 | 邓禄普 |  | 
+滑石粉 | 和妹 |  | 
+白乳胶 | 天阁 |  | 
+细木工板 | 兔宝宝 E1 16.5mm厚 |  | 
+免漆工板 | 莫干山 E1 17mm厚 |  | 
+万能胶 | 德力 |  | 
+801胶水 | 兔宝宝 |  | 
+石膏板 | 张氏 |  | 
+竹炭 | 1 | 1 | 110
+
