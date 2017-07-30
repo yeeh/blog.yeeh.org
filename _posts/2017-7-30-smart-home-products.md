@@ -19,7 +19,7 @@ unifi路由器是debian os，除了ss麻烦（cpu特殊 系统特殊，需要自
 
 * ap hd/pro
 
-从tplink换到linksys，netgear，小米，apple time capsule，最后入了unifi ap才是安定，频宽可调，功率可调，控访客，速度控制，发热不小但是稳定性很好，覆盖强，一般100平一个吸顶ap居中即可完成包括5g覆盖，支持apple airplay特别好，家里有airplay系列音响什么的特别推荐。有墙上面板in wall做小覆盖，前提是装修布了线。
+从tplink换到linksys，netgear，小米，apple time capsule，最后入了unifi ap才是安定，带客户端量大(目前约40个很流畅),频宽可调，功率可调，控访客，速度控制，发热不小但是稳定性很好，覆盖强，一般100平一个吸顶ap居中即可完成包括5g覆盖，支持apple airplay特别好，家里有airplay系列音响什么的特别推荐。有墙上面板in wall做小覆盖，前提是装修布了线。
 
 * 交换机
 
