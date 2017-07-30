@@ -78,8 +78,8 @@ embed{ display: none;}
 /*entry*/
 .entry, .pagination{margin-top:30px;}
 .entry-header{ padding-left:70px;}
-.entry-title{ line-height:40px; padding-left:10px; font-size: 30px;}
-.entry-meta{border-top:solid 1px #e2e2e2; position:relative; min-height: 42px; _height:42px; _overflow: visible;}
+.entry-title{ line-height:40px; padding-left:10px; font-size: 30px; border-bottom:solid 1px #e2e2e2;}
+.entry-meta{ position:relative; min-height: 42px; _height:42px; _overflow: visible;}
 .entry-time{ position:absolute; display:block; width:64px; height:64px; text-align:center; left:-70px; top:-33px; border:solid 1px #e2e2e2; background-color:#e2e2e2; color:#444;}
 .entry-month, .entry-day{ line-height:32px;}
 .entry-month{ margin-right:4px; font-size:16px;}
@@ -94,7 +94,7 @@ embed{ display: none;}
 .entry-content iframe{ width: 100%; }
 .entry-content a{ text-decoration: underline; color: #666;}
 .entry-content p{ margin-top:10px;}
-.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px;}
+.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px; border-bottom: solid 1px #e2e2e2;}
 .entry-content .highlight {margin: 10px 0;}
 .entry-content ul, .entry-content ol{ list-style-position:inside;}
 .entry-content ul{ list-style-type: disc;}
