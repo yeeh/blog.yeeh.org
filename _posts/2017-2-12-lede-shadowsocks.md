@@ -3,7 +3,7 @@ layout: post
 title: LEDE折腾shadowsocks
 date: 2017-2-12 22:25:00 +0800
 categories: 闲
-tags: lede,openwrt,shadowsocks,chinadns,ubnt,路由
+tags: lede openwrt shadowsocks chinadns ubnt 路由
 ---
 
 之前搞了个ubnt的erx，就是系统不是openwrt找个新点的ss要自己交叉编译好麻烦，于是刷成了openwrt。

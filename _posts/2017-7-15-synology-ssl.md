@@ -3,7 +3,7 @@ layout: post
 title: 群晖nas的ssl证书
 date: 2017-7-15 20:27:00 +0800
 categories: 好
-tags: synology,群晖,nas,https,ssl,证书
+tags: synology 群晖 nas https ssl 证书 acme
 ---
 
 运营商封了80，群晖dsm6.1系统使用的是80端口认证证书，let‘s encrypt证书签发失败，所幸还有救。

@@ -3,7 +3,7 @@ layout: post
 title: mybook live添加迅雷远程
 date: 2014-1-3 01:00:00 +0800
 categories: 手
-tags: 迅雷, mybook live,远程
+tags: 迅雷 mybook-live 远程
 ---
 
 今天一群里贴了个迅雷新出的神器网址g.xunlei.com，瞄了下是出了个linux远程下载插件，给各种linux设备加上远程下载的功能，比如nas，电视盒子，openwrt，ddwrt的各种路由器。

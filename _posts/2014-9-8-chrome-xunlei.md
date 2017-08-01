@@ -3,7 +3,7 @@ layout: post
 title: 迅雷远程chrome插件
 date: 2014-9-8 22:25:00 +0800
 categories: 手
-tags: chrome,插件,迅雷,远程,下载
+tags: chrome 插件 迅雷 远程 下载
 ---
 
 已上架快2个月了，地址在这里<https://chrome.google.com/webstore/detail/%E8%BF%85%E9%9B%B7%E8%BF%9C%E7%A8%8B%E4%B8%8B%E8%BD%BD%E9%9D%9E%E5%AE%98%E6%96%B9/hjfkfpcdmfaofbigcfingcoeognflbja>
