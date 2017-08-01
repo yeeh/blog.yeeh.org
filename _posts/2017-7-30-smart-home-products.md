@@ -3,7 +3,7 @@ layout: post
 title: 智能家居
 date: 2017-7-30 22:30:00 +0800
 categories: 好
-tags: 智能家居  smart-home ubnt unifi b&o synology
+tags:smart-home ubnt unifi b&o synology
 ---
 
 从装修以来，已入了不少智能家居相关产品，做个记录。
