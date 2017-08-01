@@ -92,7 +92,7 @@ embed{ display: none;}
 .entry-comments{ float: right; text-align: right; *width: 100px;}
 .entry-categories, .entry-tags{margin-left:10px; }
 .entry-categories a, .entry-comments span, .entry-tags a{ font-style:normal; margin:0 4px;}
-.entry-categories a:nth-child(n+2):before, .entry-tags a:nth-child(n+2):before{ content: ","; padding-right: 12px;}
+.entry-categories a:nth-child(n+2):before, .entry-tags a:nth-child(n+2):before{ padding-right: 12px;}
 .entry-content{ margin-top:20px; word-wrap:break-word; word-break:break-all;}
 .entry-content iframe{ width: 100%; }
 .entry-content a{ text-decoration: underline; color: #666;}
