@@ -7,7 +7,7 @@ layout: default
     <div class="entry-meta">
       <time class="entry-time" datetime="{{ page.date }}">{{ page.date | date: '<span class="entry-month">%m</span><span class="entry-year">%Y</span><span class="entry-day">%d</span>' }}</time>
 {% if page.comment != false %}
-      <a class="entry-comments" href="#comments" rel="nofollow" title="comments">Comments</a>
+      <a class="entry-comments" href="{{ page.url }}#disqus_thread" rel="nofollow" title="comments">Comments</a>
 {% endif %}
 {% if page.categories %}
       <p class="entry-categories">Categories:
@@ -30,5 +30,4 @@ layout: default
   </div>
 </article>
 {% include pagination-post.html %}
-<a name="comments"></a>
 {% include comments.html %}

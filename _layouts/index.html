@@ -10,7 +10,7 @@ layout: default
     <div class="entry-meta">
       <time class="entry-time" datetime="{{ post.date }}">{{ post.date | date: '<span class="entry-month">%m</span><span class="entry-year">%Y</span><span class="entry-day">%d</span>' }}</time>
 {% if post.comment != false %}
-      <a class="entry-comments" href="{{ post.url }}#comments" rel="nofollow">Comments</a>
+      <a class="entry-comments" href="{{ post.url }}#disqus_thread" rel="nofollow">Comments</a>
 {% endif %}
 {% if post.tags %}
       <p class="entry-tags">Tags:
