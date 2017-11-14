@@ -7,7 +7,7 @@ tagline: 闲言碎语
 author: Perry Yeh
 url: http://blog.yeh.sh
 keywords: Perry Yeh
-description: Things to save and remember of life in Shanghai, China.
+description: save and remember life.
 permalink: /post/:year/:month/:day/:title.html
 paginate: 3
 paginate_path: page-:num
@@ -20,7 +20,7 @@ safe: true
 auto: true
 rouge: true
 markdown: kramdown
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 # ---------------------- #
 # deployment             #
