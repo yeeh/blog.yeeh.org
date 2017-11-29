@@ -79,18 +79,3 @@ wget -O- 'http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest' | awk -
 ```
 
 剩下就是设置了，后面再更。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
