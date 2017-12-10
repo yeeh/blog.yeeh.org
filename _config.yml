@@ -7,7 +7,7 @@ tagline: 闲言碎语
 author: Perry Yeh
 url: http://blog.yeh.sh
 keywords: Perry Yeh
-description: save and remember life.
+description: Whenever possible, find someone to save, and save them.
 permalink: /post/:year/:month/:day/:title.html
 paginate: 3
 paginate_path: page-:num
