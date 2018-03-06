@@ -2,7 +2,7 @@
 # site config            #
 # ---------------------- #
 name: 叶子
-baseurl: /
+baseurl:
 tagline: 闲言碎语
 author: Perry Yeh
 url: http://blog.yeh.sh

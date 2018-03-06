@@ -12,7 +12,7 @@ layout: null
     {% if site.email %}<email><![CDATA[{{ site.email }}]]></email>{% endif %}
   </author>
   {% endif %}
-  <link href="{{ site.url }}{{ site.baseurl }}rss.xml" rel="self" />
+  <link href="{{ site.url }}{{ site.baseurl }}/rss.xml" rel="self" />
   {% for post in site.posts %}
   <entry>
     <id>{{ site.url }}{{ post.url }}</id>
