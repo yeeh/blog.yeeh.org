@@ -2,17 +2,17 @@
 # site config            #
 # ---------------------- #
 name: 叶子
-baseurl: /
+baseurl: "/"
 tagline: 闲言碎语
 author: Perry Yeh
-url: http://blog.yeh.sh/
-urlyeh: https://www.yeh.sh/
+url: http://blog.yeh.sh
+urlyeh: https://www.yeh.sh
 keywords: Perry Yeh
 description: Whenever possible, find someone to save, and save them.
-permalink: post/:year/:month/:day/:title.html
+permalink: /post/:year/:month/:day/:title.html
 paginate: 3
 paginate_path: page-:num
-excerpt_separator: '<!-- more -->'
+excerpt_separator: '\n\n'
 
 # ---------------------- #
 # jekyll                 #
