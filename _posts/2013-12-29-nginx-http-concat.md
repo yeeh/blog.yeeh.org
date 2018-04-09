@@ -3,7 +3,7 @@ layout: post
 title: nginx添加服务器端合并压缩
 date: 2013-12-29 16:45:02 +0800
 categories: 手
-tags: centos,nginx,http-concat
+tags: centos nginx http-concat
 ---
 
 tengine（ali开发的）有个nginx-http-concat插件，可以在服务器端合并压缩css和js，打算装上。
@@ -80,7 +80,7 @@ yum -y install pcre-devel
 再来安装nginx，提示openssl未安装
 
 ```
-yum -y install openssql openssql-devel 
+yum -y install openssql openssql-devel
 ```
 再来安装nginx，提示libxml2/libxslt未安装
 

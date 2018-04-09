@@ -2,9 +2,7 @@
 layout: post
 title: google apps即将停止支持ie6
 date: 2010-02-03 14:35:29
-tags: apps
-tags: google
-tags: ie6
+tags: apps google ie6
 categories: 手
 ---
 今天收到google发的email通知，看来ie6灭亡再次提速了。以下为原文：
