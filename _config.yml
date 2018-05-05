@@ -9,9 +9,9 @@ url: https://blog.yeh.sh
 urlyeh: https://www.yeh.sh
 keywords: Perry Yeh
 description: Whenever possible, find someone to save, and save them.
-permalink: /post/:year/:month/:day/:title.html
+permalink: /post/:year/:month/:day/:title:output_ext
 paginate: 3
-paginate_path: page-:num
+paginate_path: /page/:num
 excerpt_separator: '\n\n'
 
 # ---------------------- #
