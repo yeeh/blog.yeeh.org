@@ -19,10 +19,6 @@ legend{color:#000;}
 fieldset,img{border:0;}
 table{border-collapse:collapse;border-spacing:0;}
 
-/* ie6 */
-.no-ie678{ margin:0 20px; height:32px; line-height:32px; font-size:16px; text-align:center; border:solid 1px #e2e18e; background-color:#fffec5;}
-.no-ie678 a{ margin:0 8px; font-weight:bold;}
-
 /* generic */
 input[type=submit], button, label[for]{cursor:pointer;}
 input[readonly],textarea[readonly]{ background-color:#ededed;}
@@ -188,7 +184,7 @@ embed{ display: none;}
 
 /*footer*/
 .footer{ border-top:solid 1px #e2e2e2; padding:8px 0; color:#666; font-size: 1rem; text-align:right;}
-.footer a{ border-bottom:solid 1px #eee; color:#666; *font-weight:bold;}
+.footer a{ color:#666; font-weight:bold;}
 .footer a:hover{ border-bottom-color:#666; color:#404040; text-decoration:none; }
 .footer a.yeh{text-align:left; height:18px; display:inline-block; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
 

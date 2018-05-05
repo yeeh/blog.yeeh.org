@@ -8,16 +8,12 @@ layout: null
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <meta name="keywords" content="{% if page %}{% for tag in page.tags %}{{ tag }},{% endfor %}{% endif %}{{ site.keywords }}">
 <meta name="description" content="{% if page %}{{ page.title }}.{% endif %} {{ site.description }}">
-<!--[if lt IE 9]>
-<script src="{{ site.baseurl }}/assets/html5.js"></script>
-<![endif]-->
 <title>{{ page.title }} - {{ site.name }}</title>
 <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css.css">
 <link rel="alternate" type="application/rss+xml" href="{{ site.baseurl }}/rss.xml">
 </head>
 <body>
-{% include noie678.html %}
 {% include header.html %}
 {% include nav.html %}
 {% include search.html %}
