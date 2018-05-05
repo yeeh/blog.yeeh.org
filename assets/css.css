@@ -184,9 +184,9 @@ embed{ display: none;}
 
 /*footer*/
 .footer{ border-top:solid 1px #e2e2e2; padding:8px 0; color:#666; font-size: 1rem; text-align:right;}
-.footer a{ color:#666; font-weight:bold;}
+.footer a{ color:#666; display:inline-block; margin:0 10px;}
 .footer a:hover{ border-bottom-color:#666; color:#404040; text-decoration:none; }
-.footer a.yeh{text-align:left; height:18px; display:inline-block; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
+.footer a.yeh{text-align:left; height:18px;  vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
 
 /*media query*/
 
