@@ -11,7 +11,7 @@ keywords: Perry Yeh
 description: Whenever possible, find someone to save, and save them.
 permalink: /post/:year/:month/:day/:title:output_ext
 paginate: 3
-paginate_path: /page/:num.html
+paginate_path: page/:num
 excerpt_separator: '\n\n'
 
 # ---------------------- #
