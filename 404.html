@@ -6,9 +6,11 @@ layout: null
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
-<title>404 - Page Not Found - {{ site.name }}</title>
+    <meta http-equiv="refresh" content="8; url={{ site.url }}" />
+<title>404 - Page Not Found &middot; {{ site.name }}</title>
 </head>
 <body>
-<script src="http://www.qq.com/404/search_children.js"></script>
+<h1>404 Not Found</h1>
+<a href="{{ site.url }}">auto redirecting to homepage...</a>
 </body>
 </html>
