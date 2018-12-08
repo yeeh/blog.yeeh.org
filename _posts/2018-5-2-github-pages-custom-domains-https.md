@@ -34,11 +34,11 @@ github pages默认的是***.github.io域名，自有域名做个a记录或者cna
 
 今年1月份，github联合let's encrypt就开始灰度了一批。
 
-今日，github pages https终于正式上线。<https://blog.github.com/2018-05-01-github-pages-custom-domains-https/>
+今日，github pages https终于[正式上线](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/)。
 
 
 > 注意点
 
 如果看到Not yet available for your site because the certificate has not finished being issued，这是证书还没来得及生成，稍等即可。
 
-转向https后，a记录的ip变更了，参考<https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider>设置
+转向https后，a记录的ip变更了，[参考设置](https://help.github.com/articles/setting-up-an-apex-domain/#configuring-a-records-with-your-dns-provider)。
