@@ -242,3 +242,14 @@ embed{ display: none;}
     font-size:20px;
   }
 }
+
+/*dark mode*/
+@Media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: #fff;
+  }
+  legend{color:#fff;}
+  a{color:#fff; }
+  a:hover{color:#ddd;}
+}
