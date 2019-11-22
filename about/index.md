@@ -11,9 +11,6 @@ theme: about
 可公开信息如下：
 
 - 公开[互联网足迹](https://yeh.sh/)
-
-- 本站[友情链接](links.html)
-
+- 本站[友情链接](link.html)
 - 本站[历史记录](log.html)
-
 - 本站[隐私条款](privacy.html)
