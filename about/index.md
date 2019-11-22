@@ -1,15 +1,17 @@
 ---
-layout: about
+layout: post
 title: 关于我
 date: 2019-11-22 17:33:15
 tags: 我
-categories: 关于
+theme: about
 ---
 
-公开的信息如下：
+常用网名：叶子，Yeh
 
-- [互联网足迹见此](https://yeh.sh/)
+可公开信息如下：
 
-- [本站历史记录见此](log.html)
+- [互联网足迹](https://yeh.sh/)
 
-- [本站隐私条款见此](privacy.html)
+- [本站历史记录](log.html)
+
+- [本站隐私条款](privacy.html)

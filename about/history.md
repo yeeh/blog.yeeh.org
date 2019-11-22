@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: post
 title: 日志
 date: 2015-9-10 22:11:00
 tags: 日志
-categories: 关于
+theme: about
 ---
 
 本篇作为Blog大事记，不断更新...

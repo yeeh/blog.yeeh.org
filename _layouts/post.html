@@ -29,5 +29,7 @@ layout: default
 {{ content }}
   </div>
 </article>
+{% if !page.theme %}
 {% include pagination-post.html %}
+{% endif %}
 {% include comments.html %}

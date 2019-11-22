@@ -1,9 +1,9 @@
 ---
-layout: about
+layout: post
 title: 隐私条款
 date: 2019-11-22 15:48:15
 tags: 隐私
-categories: 关于
+theme: about
 ---
 
 本站目前使用如下服务：
