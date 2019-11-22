@@ -10,8 +10,10 @@ theme: about
 
 可公开信息如下：
 
-- [互联网足迹](https://yeh.sh/)
+- 公开[互联网足迹](https://yeh.sh/)
 
-- [本站历史记录](log.html)
+- 本站[友情链接](links.html)
 
-- [本站隐私条款](privacy.html)
+- 本站[历史记录](log.html)
+
+- 本站[隐私条款](privacy.html)

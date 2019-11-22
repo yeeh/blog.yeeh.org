@@ -6,4 +6,4 @@ tags: 链接
 theme: about
 ---
 
-待整理
+{% include linkcontent.html %}
