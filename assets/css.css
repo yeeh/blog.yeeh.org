@@ -189,7 +189,6 @@ embed{ display: none;}
 .footer a.yeh{text-align:left; height:18px; margin-right: 0; vertical-align:middle; overflow:hidden; text-indent:-999em; _text-indent:0; padding-left: 18px; _padding-left:0; background-position:0 -34px; }
 
 /*media query*/
-
 /* <640 */
 @media screen and (max-width:640px) {
   .entry-header{ padding-left:0;}
@@ -206,7 +205,6 @@ embed{ display: none;}
   .entry-content iframe{ height: 80vw; }
   .entry-comment{ display:block;}
 }
-
 /* <1000px */
 @media screen and (max-width:999px) {
   .layout{ width:94%;}
@@ -215,7 +213,6 @@ embed{ display: none;}
   .content{ margin-top: 60px;}
   .entry-content iframe{ height: 70vw; }
 }
-
 /* >1000px */
 @media screen and (min-width:1000px) {
   .header, .nav, .search, .link, .links{ width: 250px;  right:40px;}
