@@ -10,7 +10,4 @@ theme: about
 
 - dns解析：godaddy
 - host托管：github pages
-- comment评论：disqus（可以登陆和分享到twitter，facebook，google等）
 - analytics访问统计：google analytics（匿名记录ip所在的地区，访问时间，浏览器信息等）
-
-

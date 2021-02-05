@@ -31,9 +31,9 @@ repository:
 branch:
 
 # ---------------------- #
-# disqus                  #
+# comments               #
 # ---------------------- #
-disqus: yeh
+comments: yeh
 
 # ---------------------- #
 # google analytics       #
