@@ -91,7 +91,7 @@ embed{ display: none;}
 .entry-content iframe{ width: 100%; }
 .entry-content a{ text-decoration: underline; color: #666;}
 .entry-content p, .entry-content li{ margin-top:8px;}
-.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px; border-bottom: solid 1px #e2e2e2;}
+.entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px; }
 .entry-content .highlight {margin: 10px 0;}
 .entry-content ul, .entry-content ol{ list-style-position:inside; margin-top: 16px;}
 .entry-content ul{ list-style-type: disc;}
