@@ -36,6 +36,6 @@ branch:
 comments: yeh
 
 # ---------------------- #
-# google analytics       #
+# analytics              #
 # ---------------------- #
-google_analytics: UA-11027907-1
+analytics: *
