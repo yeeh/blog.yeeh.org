@@ -10,4 +10,5 @@ theme: about
 
 - dns解析：godaddy
 - host托管：github pages
-- analytics访问统计：google analytics（匿名记录ip所在的地区，访问时间，浏览器信息等）
+- comment评论：已删disqus
+- analytics访问统计：已删google analytics
