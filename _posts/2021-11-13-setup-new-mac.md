@@ -37,6 +37,12 @@ echo $SHELL
 iterm2+ohmyzsh，+插件，更改ssh默认目录，ssh-add+证书
 
 ```sh
+cd ~/.oh-my-zsh/custom/plugins/
+git clone https://github.com/zsh-users/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+```
+
+```sh
 vim ~/.zshrc
 
 #添加插件
@@ -46,11 +52,14 @@ plugins=(
   zsh-syntax-highlighting
 )
 
-#末尾添加
+#添加默认rsa
+ssh-add ~/.ssh/xxx_rsa
+
 #设置shell的默认路径
 cd /Users/***/***
 
-ssh-add ~/.ssh/xxx_rsa
+#设置npm alias
+
 ```
 
 ```sh
