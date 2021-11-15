@@ -36,6 +36,9 @@ echo $SHELL
 
 iterm2+ohmyzsh，+插件，更改ssh默认目录，ssh-add+证书
 
+安装[itrem2](https://www.iterm2.com/)
+安装[ohmyzsh](https://ohmyz.sh/)
+
 ```sh
 cd ~/.oh-my-zsh/custom/plugins/
 git clone https://github.com/zsh-users/zsh-autosuggestions
@@ -46,11 +49,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 vim ~/.zshrc
 
 #添加插件
-plugins=(
-  git
-  zsh-autosuggestions
-  zsh-syntax-highlighting
-)
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 #添加默认rsa
 ssh-add ~/.ssh/xxx_rsa
