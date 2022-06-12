@@ -93,7 +93,7 @@ embed{ display: none;}
 .entry-content p, .entry-content li{ margin-top:8px;}
 .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6{ margin-top: 20px; }
 .entry-content .highlight {margin: 10px 0;}
-.entry-content ul, .entry-content ol{ list-style-position:inside; margin-top: 16px;}
+.entry-content ul, .entry-content ol{ margin-top: 16px;}
 .entry-content ul{ list-style-type: disc;}
 .entry-content ol{ list-style-type: decimal;}
 .entry-readmore{ padding:20px 0;}
