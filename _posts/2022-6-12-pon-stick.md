@@ -16,9 +16,9 @@ tags: 猫棒 pon stick epon gpon xgpon xpon 10G 2.5G
 
 2. 看送的光猫是1g epon，1g gpon，10g epon，还是10g xgpon，光猫型号上都有写。
 
-3. 进光猫后台，或者问安装小工，拿到loid，loid password，mac地址，拨号vid（vlan id），设备dn等信息。各地拨好号要求不同，建议搜本地别人成功的是什么手段，有些地区是多认证方法叠加，比如loid+mac地址。
+3. 进光猫后台，或者问安装小工，拿到拨号用户名，拨号密码，光猫loid，loid password，mac地址，拨号vid（vlan id），设备sn等信息。各地拨号要求不同，建议搜本地别人成功的是什么手段，有些地区是多认证方法叠加，比如loid+mac地址。
 
-4. 如果是gpon，恭喜，省钱了。
+4. 如果是gpon，恭喜省钱了。
 
    - 2.5g gpon猫棒比较便宜，下行2.5g，最便宜的价格120，最贵不过180，常用型号是华为m5671a，诺基亚，海信。
 
