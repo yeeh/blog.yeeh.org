@@ -8,8 +8,7 @@ theme: about
 
 本站使用以下服务，除了下述服务可能会有信息收集之外，本站自身不记录任何访客信息。
 
-- dns：godaddy
+- dns：cloudflare
 - host：github pages
 - comment：giscus.app， 基于GitHub Discussions的评论系统。
 - ad：google ads
-- analytics：已删google analytics
